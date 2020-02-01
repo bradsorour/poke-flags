@@ -1,2 +1,6 @@
 venv
 .vscode
+__pycache__/
+/resources/images/flags*/
+/resources/pokemon*/
+/resources/pokemon_names_bak.txt
