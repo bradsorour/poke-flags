@@ -2,22 +2,30 @@ import os
 
 import matplotlib.pyplot as plt
 
-from read_image import get_image
+from read_image import get_image, get_colors
 
 # Supply the RGB values for the colors Green, Blue and Yellow and let our system filter the images.
-IMAGE_DIRECTORY = "./resources/images/"
+IMAGE_DIRECTORY = "./resources/flags/"
 COLORS = {"GREEN": [0, 128, 0], "BLUE": [0, 0, 128], "YELLOW": [255, 255, 0]}
 images = []
 
-for file in os.listdir(IMAGE_DIRECTORY):
-    if not file.startswith("."):
-        print("==>> " + file)
-        images.append(get_image(os.path.join(IMAGE_DIRECTORY, file)))
+
+def get_image_colours():
+    for file in os.listdir(IMAGE_DIRECTORY):
+        if not file.startswith("."):
+            print("\n\nFLAG: " + file)
+            images.append(get_image(os.path.join(IMAGE_DIRECTORY, file)))
+            get_colors(get_image(IMAGE_DIRECTORY + file), 8, False)
 
 
 # Show all the images in the folder
-plt.figure(figsize=(20, 10))
-for i in range(len(images)):
-    plt.subplot(1, len(images), i + 1)
-    plt.imshow(images[i])
-    plt.show()
+def show_images():
+    plt.figure(figsize=(20, 10))
+    for i in range(len(images)):
+        plt.subplot(1, len(images), i + 1)
+        plt.imshow(images[i])
+        plt.show()
+
+
+get_image_colours()
+# show_images()

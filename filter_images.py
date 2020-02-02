@@ -7,13 +7,14 @@ from skimage.color import deltaE_cie76, rgb2lab
 from read_image import get_colors, get_image
 
 # Supply the RGB values for the colors Green, Blue and Yellow and let our system filter the images.
-IMAGE_DIRECTORY = "./resources/images/"
+IMAGE_DIRECTORY = "./resources/flags/"
 COLORS = {"GREEN": [0, 128, 0], "BLUE": [0, 0, 128], "YELLOW": [255, 255, 0]}
 images = []
 
 for file in os.listdir(IMAGE_DIRECTORY):
     if not file.startswith("."):
         images.append(get_image(os.path.join(IMAGE_DIRECTORY, file)))
+        # print("~ FILE: " + file)
 
 # A method to filter all images that match the selected color.
 # First extract the image colors using our previously defined method get_colors in RGB format.
@@ -59,4 +60,4 @@ def show_selected_images(images, color, threshold, colors_to_match):
 # Filter the results. Variable 'selected_color' can be any of COLORS['GREEN'], COLORS['BLUE'] or COLORS['YELLOW'].
 # We set the threshold value to be 60 and total colors to be extracted from image to be 8.
 plt.figure(figsize=(20, 10))
-show_selected_images(images, COLORS["BLUE"], 60, 8)
+show_selected_images(images, COLORS["GREEN"], 40, 8)

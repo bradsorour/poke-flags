@@ -7,18 +7,21 @@ import numpy as np
 from skimage.color import deltaE_cie76, rgb2lab
 from sklearn.cluster import KMeans
 
+ordered_colors = []
+rgb_colors = []
+
 IMAGE_DIRECTORY = "./resources/images/"
 IMAGE_FILE = "sample_image.jpg"
 image = cv2.imread(IMAGE_DIRECTORY + IMAGE_FILE)
-print("The type of this input is {}".format(type(image)))
-print("Shape: {}".format(image.shape))
+# print("The type of this input is {}".format(type(image)))
+# print("Shape: {}".format(image.shape))
 # plt.imshow(image)
 # plt.show()
 
 # To move from BGR color space to RGB, we use the method cv2.COLOR_BGR2RGB
 image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
-plt.imshow(image)
-plt.show()
+# plt.imshow(image)
+# plt.show()
 
 # In some situations, we might want to have black and white images.
 # In such cases, we can express images as Gray.
@@ -90,6 +93,18 @@ def get_colors(image, number_of_colors, show_chart):
     hex_colors = [RGB2HEX(ordered_colors[i]) for i in counts.keys()]
     rgb_colors = [ordered_colors[i] for i in counts.keys()]
 
+    print("\nRGB")
+    for i in rgb_colors:
+        print(i)
+
+    print("\nORDERED")
+    for i in ordered_colors:
+        print(i)
+
+    print("\nHEX")
+    for i in hex_colors:
+        print(i)
+
     if show_chart:
         plt.figure(figsize=(8, 6))
         plt.pie(counts.values(), labels=hex_colors, colors=hex_colors)
@@ -98,4 +113,5 @@ def get_colors(image, number_of_colors, show_chart):
     return rgb_colors
 
 
-get_colors(get_image(IMAGE_DIRECTORY + IMAGE_FILE), 8, True)
+get_colors(get_image(IMAGE_DIRECTORY + IMAGE_FILE), 8, False)
+
