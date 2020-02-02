@@ -1,15 +1,54 @@
-import requests
+import fileinput
+import urllib.request
+
 from bs4 import BeautifulSoup
 
-# Set headers
-# A lot of sites have precautions in place to fend off scrapers from accessing their data.
-# The first thing we can do to get around this is spoofing the headers we send along with
-# our requests to make it look like we're a legitimate browser:
-headers = requests.utils.default_headers()
-headers.update(
-    {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'})
+resp = urllib.request.urlopen("http://www.sciencekids.co.nz/pictures/flags.html")
+soup = BeautifulSoup(
+    resp, from_encoding=resp.info().get_param("charset"), features="lxml"
+)
 
-url = "https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon"
-req = requests.get(url, headers)
-soup = BeautifulSoup(req.content, 'html.parser')
-print(soup.prettify())
+# print(soup.prettify())
+
+
+def extract_links(out_file):
+
+    fout = open(out_file, "w")
+
+    for link in soup.find_all("a", href=True):
+        fout.write(link["href"] + "\n")
+
+    fout.close
+
+
+def remove_duplicate_lines(in_file, out_file):
+
+    lines_seen = set()  # holds lines already seen
+    fin = open(in_file, "r")
+    fout = open(out_file, "w")
+
+    for line in fin:
+        if line not in lines_seen:  # not a duplicate
+            fout.write(line)
+            lines_seen.add(line)
+
+    fout.close()
+    fin.close
+
+
+def extract_country_names(in_file, out_file):
+
+    fin = open(in_file, "rt")
+    fout = open(out_file, "wt")
+
+    for line in fin:
+        line = line.replace("flags/", "")
+        fout.write(line.replace(".html", ""))
+
+    fin.close()
+    fout.close()
+
+
+extract_links("./resources/countries.txt")
+remove_duplicate_lines("./resources/countries.txt", "./resources/flag_links.txt")
+extract_country_names("./resources/flag_links.txt", "./resources/country_names.txt")

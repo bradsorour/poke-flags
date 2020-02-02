@@ -9,6 +9,8 @@ from tqdm import tqdm
 # When you extract the URL of images from a web page, there are quite a lot of URLs
 # that are relative, which means it does not contain the full absolute URL with the
 # scheme. So we need a way to check whether a URL is absolute.
+
+
 def is_absolute(url):
     return bool(urlparse(url).netloc)
 
@@ -58,7 +60,7 @@ def download(url, pathname):
     # if path doesn't exist, make that path dir
     if not os.path.isdir(pathname):
         os.makedirs(pathname)
-        
+
     # download the body of response by chunk, not immediately
     response = requests.get(url, stream=True)
 
@@ -95,35 +97,42 @@ def main(url, path):
 
 image_names = []
 
+
 def load_image_file(filepath, uri):
 
     image_file = open(filepath, "r")
     string_uri = uri
 
     for image_name in image_file:
-        image_name = image_name.strip('\n') 
+        image_name = image_name.strip('\n')
         image_names.append(string_uri + image_name)
 
     image_file.close()
 
 
-load_image_file("./resources/pokemon_names.txt", "https://pokemondb.net/pokedex/")
+# load_image_file("./resources/pokemon_names.txt", "https://pokemondb.net/pokedex/")
 
-for image_name in image_names:
-    main(image_name, "./resources/images/pokemon")
+# for image_name in image_names:
+#     main(image_name, "./resources/images/pokemon")
+
+# load_image_file("./resources/pokemon_names.txt", "https://pokemondb.net/pokedex/")
 
 
+# for image_name in image_names:
+main("http://www.sciencekids.co.nz/pictures/flags.html", "./resources/images/flags")
+
+
+# http://www.sciencekids.co.nz/pictures/flags.html
 
 # pokemon_file = open("./resources/pokemon_names.txt", "r")
 # string_uri = "https://pokemondb.net/pokedex/"
 # pokemon_names = []
 
 # for pokemon_name in pokemon_file:
-#     pokemon_name = pokemon_name.strip('\n') 
+#     pokemon_name = pokemon_name.strip('\n')
 #     pokemon_names.append(string_uri + pokemon_name)
 
 # pokemon_file.close()
 
 # for pokemon_name in pokemon_names:
 #     main(pokemon_name, "./resources/images/pokemon")
-

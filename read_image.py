@@ -8,7 +8,7 @@ from skimage.color import deltaE_cie76, rgb2lab
 from sklearn.cluster import KMeans
 
 IMAGE_DIRECTORY = "./resources/images/"
-IMAGE_FILE = "bushfire.jpg"
+IMAGE_FILE = "Antigua_and_Barbuda.jpg"
 image = cv2.imread(IMAGE_DIRECTORY + IMAGE_FILE)
 print("The type of this input is {}".format(type(image)))
 print("Shape: {}".format(image.shape))
@@ -17,8 +17,8 @@ print("Shape: {}".format(image.shape))
 
 # To move from BGR color space to RGB, we use the method cv2.COLOR_BGR2RGB
 image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
-# plt.imshow(image)
-# plt.show()
+plt.imshow(image)
+plt.show()
 
 # In some situations, we might want to have black and white images.
 # In such cases, we can express images as Gray.
@@ -98,4 +98,4 @@ def get_colors(image, number_of_colors, show_chart):
     return rgb_colors
 
 
-get_colors(get_image(IMAGE_DIRECTORY + IMAGE_FILE), 8, False)
+get_colors(get_image(IMAGE_DIRECTORY + IMAGE_FILE), 8, True)

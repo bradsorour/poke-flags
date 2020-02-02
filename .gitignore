@@ -4,3 +4,5 @@ __pycache__/
 /resources/images/flags*/
 /resources/pokemon*/
 /resources/pokemon_names_bak.txt
+/resources/countries.txt
+/resources/flag_links.txt
