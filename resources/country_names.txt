@@ -180,7 +180,7 @@ taiwan.html
 tajikistan.html
 tanzania.html
 thailand.html
-thegambia.html
+gambia.html
 togo.html
 tonga.html
 trinidadandtobago.html

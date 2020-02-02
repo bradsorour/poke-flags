@@ -97,19 +97,19 @@ def get_colors(flag_colours_dict, my_filename, image, number_of_colors, show_cha
 
     # flag_colours = {}
 
-    print("RGB")
-    for i in rgb_colors:
-        print(i)
+    # print("RGB")
+    # for i in rgb_colors:
+    #     print(i)
 
-    print("ORDERED")
-    for i in ordered_colors:
-        print(i)
+    # print("ORDERED")
+    # for i in ordered_colors:
+    #     print(i)
 
-    print("HEX")
+    # print("HEX")
     hex_list = []
     for i in hex_colors:
         hex_list.append(i)
-        print(i)
+        # print(i)
 
     flag_colours_dict.update({my_filename: hex_list})
 

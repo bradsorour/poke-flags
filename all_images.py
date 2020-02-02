@@ -8,7 +8,13 @@ from read_image import get_colors, get_image
 
 # Supply the RGB values for the colors Green, Blue and Yellow and let our system filter the images.
 IMAGE_DIRECTORY = "./resources/pokemon_all/jpg/"
-COLORS = {"GREEN": [0, 128, 0], "BLUE": [0, 0, 128], "YELLOW": [255, 255, 0]}
+COLORS = {
+    "GREEN": [0, 128, 0],
+    "BLUE": [0, 0, 128],
+    "YELLOW": [255, 255, 0],
+    "RED": [128, 0, 0],
+    "WHITE": [255, 255, 255],
+}
 images = []
 
 
