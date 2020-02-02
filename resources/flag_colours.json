@@ -1,0 +1,1226 @@
+{
+    "Samoa.jpg": [
+        "#cd1127",
+        "#012b7e",
+        "#f0f6fa",
+        "#738bb7"
+    ],
+    "Kenya.jpg": [
+        "#006500",
+        "#b90201",
+        "#faf6f5",
+        "#000000"
+    ],
+    "Afghanistan.jpg": [
+        "#009800",
+        "#bc0704",
+        "#000000",
+        "#f0c9b9"
+    ],
+    "Ghana.jpg": [
+        "#fbcf16",
+        "#040201",
+        "#006a3e",
+        "#cd1126"
+    ],
+    "Hong_Kong.jpg": [
+        "#dd2810",
+        "#fdfcfb",
+        "#f2b7ad",
+        "#d46557"
+    ],
+    "theGambia.jpg": [
+        "#0c1c8c",
+        "#fcfdfd",
+        "#3a7729",
+        "#cd1127"
+    ],
+    "Bolivia.jpg": [
+        "#f8e301",
+        "#007933",
+        "#d42b1d",
+        "#bbab18"
+    ],
+    "Russia.jpg": [
+        "#615c95",
+        "#d42b1e",
+        "#0038a4",
+        "#fefefe"
+    ],
+    "Guatemala.jpg": [
+        "#4897cf",
+        "#fdfefe",
+        "#647842",
+        "#cfce9d"
+    ],
+    "Kazakhstan.jpg": [
+        "#00aec9",
+        "#aac356",
+        "#f4c617",
+        "#46ae86"
+    ],
+    "China.jpg": [
+        "#dd280f",
+        "#fedb04",
+        "#f29410",
+        "#d84c04"
+    ],
+    "Argentina.jpg": [
+        "#74acde",
+        "#c88c2d",
+        "#d4d5d0",
+        "#fefefe"
+    ],
+    "Poland.jpg": [
+        "#fbc0cd",
+        "#db506d",
+        "#db143b",
+        "#fefefe"
+    ],
+    "Iceland.jpg": [
+        "#003896",
+        "#fdfcfc",
+        "#d52827",
+        "#758fbb"
+    ],
+    "Hungary.jpg": [
+        "#cd1127",
+        "#fefefe",
+        "#008550",
+        "#9cdec4"
+    ],
+    "Colombia.jpg": [
+        "#484f7c",
+        "#cd1127",
+        "#013792",
+        "#fcd016"
+    ],
+    "Liberia.jpg": [
+        "#e19aad",
+        "#022767",
+        "#fefdfd",
+        "#bc0b30"
+    ],
+    "Venezuela.jpg": [
+        "#fecb00",
+        "#02237c",
+        "#ce142c",
+        "#e8edf5"
+    ],
+    "Iran.jpg": [
+        "#fdfdfc",
+        "#d80303",
+        "#259f41",
+        "#cab19f"
+    ],
+    "Namibia.jpg": [
+        "#019443",
+        "#d42130",
+        "#f9f7f8",
+        "#01367f"
+    ],
+    "Saudi_Arabia.jpg": [
+        "#006b35",
+        "#f6fcf9",
+        "#a7d1bc",
+        "#549575"
+    ],
+    "Jamaica.jpg": [
+        "#869c18",
+        "#000000",
+        "#009b3a",
+        "#fcd102"
+    ],
+    "Tanzania.jpg": [
+        "#010000",
+        "#00a2dd",
+        "#f7d019",
+        "#20b439"
+    ],
+    "Central_African_Republic.jpg": [
+        "#166454",
+        "#fccd01",
+        "#fdfefe",
+        "#d10f33"
+    ],
+    "New_Caledonia.jpg": [
+        "#03843b",
+        "#f8e404",
+        "#0134ac",
+        "#e94236"
+    ],
+    "Zambia.jpg": [
+        "#198801",
+        "#eb7c03",
+        "#040100",
+        "#d7230f"
+    ],
+    "Republic_of_the_Congo.jpg": [
+        "#8ec14b",
+        "#da241d",
+        "#fbdd4a",
+        "#019342"
+    ],
+    "South_Korea.jpg": [
+        "#fefefe",
+        "#0e3975",
+        "#c40d32",
+        "#020202"
+    ],
+    "Scotland.jpg": [
+        "#0065bc",
+        "#fefefe",
+        "#508ec4",
+        "#add3ed"
+    ],
+    "Lesotho.jpg": [
+        "#029343",
+        "#fefefe",
+        "#01209e",
+        "#030303"
+    ],
+    "Djibouti.jpg": [
+        "#6bb2e7",
+        "#fefefe",
+        "#12ac2b",
+        "#d4181e"
+    ],
+    "Angola.jpg": [
+        "#f6d21a",
+        "#977119",
+        "#000000",
+        "#cd1126"
+    ],
+    "Cambodia.jpg": [
+        "#dd0025",
+        "#032da0",
+        "#f3f2f2",
+        "#959090"
+    ],
+    "Ukraine.jpg": [
+        "#015bba",
+        "#b9b840",
+        "#fdd500",
+        "#467367"
+    ],
+    "Tunisia.jpg": [
+        "#e60014",
+        "#f5b0b6",
+        "#fefdfd",
+        "#d94b59"
+    ],
+    "Guinea.jpg": [
+        "#ce1127",
+        "#61ae5d",
+        "#00935f",
+        "#fcd016"
+    ],
+    "Cape_Verde.jpg": [
+        "#eacd31",
+        "#fcfbfb",
+        "#013892",
+        "#cb2127"
+    ],
+    "Estonia.jpg": [
+        "#000000",
+        "#fefefe",
+        "#42505d",
+        "#488fd7"
+    ],
+    "South_Sudan.jpg": [
+        "#0b6c66",
+        "#fcfaf8",
+        "#da201a",
+        "#000000"
+    ],
+    "Tajikistan.jpg": [
+        "#f2c82b",
+        "#006500",
+        "#cb0001",
+        "#fefdfc"
+    ],
+    "Cuba.jpg": [
+        "#e48d98",
+        "#00298f",
+        "#fefefe",
+        "#ce142c"
+    ],
+    "Kyrgyzstan.jpg": [
+        "#e6112c",
+        "#fdeb0a",
+        "#f49b20",
+        "#d83a0d"
+    ],
+    "New_Zealand.jpg": [
+        "#a68aa7",
+        "#faf8fa",
+        "#00237c",
+        "#cc172d"
+    ],
+    "Laos.jpg": [
+        "#cd1127",
+        "#fdfdfe",
+        "#462c5c",
+        "#002767"
+    ],
+    "Greenland.jpg": [
+        "#fefefe",
+        "#ce4f68",
+        "#cf0c32",
+        "#f4bcc8"
+    ],
+    "Sao_Tome_and_Principe.jpg": [
+        "#13ac2a",
+        "#fccd01",
+        "#d11032",
+        "#070401"
+    ],
+    "Algeria.jpg": [
+        "#fefefe",
+        "#006132",
+        "#cd1234",
+        "#e594a4"
+    ],
+    "El_Salvador.jpg": [
+        "#c2c1a2",
+        "#fefefd",
+        "#1047ad",
+        "#40653a"
+    ],
+    "Rwanda.jpg": [
+        "#01a0de",
+        "#20603c",
+        "#6daf77",
+        "#f7d103"
+    ],
+    "Taiwan.jpg": [
+        "#010093",
+        "#fd0000",
+        "#fbfbfd",
+        "#8c8ccf"
+    ],
+    "Honduras.jpg": [
+        "#0072cd",
+        "#fefefe",
+        "#9bd0f8",
+        "#2477b9"
+    ],
+    "Kiribati.jpg": [
+        "#fafbfb",
+        "#cd1126",
+        "#034087",
+        "#eec415"
+    ],
+    "Armenia.jpg": [
+        "#00329f",
+        "#f2a701",
+        "#7f2b41",
+        "#d80011"
+    ],
+    "Guam.jpg": [
+        "#be243c",
+        "#01297a",
+        "#539fd8",
+        "#f5ea13"
+    ],
+    "Cameroon.jpg": [
+        "#774e4d",
+        "#fcd016",
+        "#cd1126",
+        "#00795d"
+    ],
+    "Australia.jpg": [
+        "#f80304",
+        "#010089",
+        "#fbf8fa",
+        "#9a7eaf"
+    ],
+    "Monaco.jpg": [
+        "#b30e23",
+        "#fefefe",
+        "#eeb4bd",
+        "#ce1026"
+    ],
+    "Turkey.jpg": [
+        "#e10a17",
+        "#f4acb0",
+        "#fefcfc",
+        "#d84d56"
+    ],
+    "Nepal.jpg": [
+        "#fefefe",
+        "#da143c",
+        "#b195b6",
+        "#073790"
+    ],
+    "England.jpg": [
+        "#f1cdd6",
+        "#cd1125",
+        "#b94150",
+        "#fefefe"
+    ],
+    "Moldova.jpg": [
+        "#0145ad",
+        "#cc0930",
+        "#fccf04",
+        "#694e2e"
+    ],
+    "Sweden.jpg": [
+        "#015192",
+        "#fdcb00",
+        "#bab448",
+        "#1e504f"
+    ],
+    "Seychelles.jpg": [
+        "#015c62",
+        "#fbd657",
+        "#d52829",
+        "#fdfdfd"
+    ],
+    "Burundi.jpg": [
+        "#1fb43a",
+        "#b2c6a5",
+        "#fefefd",
+        "#cd1127"
+    ],
+    "North_Korea.jpg": [
+        "#fcfcfc",
+        "#f2a3a7",
+        "#ed1c27",
+        "#034fa1"
+    ],
+    "Belgium.jpg": [
+        "#d7a745",
+        "#ec2838",
+        "#fadf43",
+        "#000000"
+    ],
+    "Brazil.jpg": [
+        "#019b3a",
+        "#fbde02",
+        "#022875",
+        "#cfe5e1"
+    ],
+    "Mozambique.jpg": [
+        "#fae326",
+        "#d01032",
+        "#027169",
+        "#010000"
+    ],
+    "Benin.jpg": [
+        "#d5a22c",
+        "#008551",
+        "#e6112c",
+        "#fcd116"
+    ],
+    "Greece.jpg": [
+        "#0d5dae",
+        "#acccec",
+        "#3770a8",
+        "#fefefe"
+    ],
+    "Andorra.jpg": [
+        "#fddd02",
+        "#cf1139",
+        "#bda26e",
+        "#0018a8"
+    ],
+    "Gabon.jpg": [
+        "#fcd116",
+        "#3a74c4",
+        "#9bb045",
+        "#009d60"
+    ],
+    "East_Timor.jpg": [
+        "#da241d",
+        "#010100",
+        "#fbc428",
+        "#fafafa"
+    ],
+    "Cyprus.jpg": [
+        "#fefefe",
+        "#48522b",
+        "#c4b591",
+        "#d87504"
+    ],
+    "United_Kingdom.jpg": [
+        "#fdfdfd",
+        "#01247c",
+        "#c3a8c1",
+        "#ce152c"
+    ],
+    "Cayman_Islands.jpg": [
+        "#ca152a",
+        "#c2ae7f",
+        "#f9f9f9",
+        "#02257c"
+    ],
+    "Ecuador.jpg": [
+        "#fedc00",
+        "#054fa0",
+        "#eb1b24",
+        "#797e55"
+    ],
+    "Sierra_Leone.jpg": [
+        "#ace5df",
+        "#0071c4",
+        "#1fb43a",
+        "#fefefe"
+    ],
+    "Syria.jpg": [
+        "#208251",
+        "#cd1127",
+        "#000000",
+        "#fefdfd"
+    ],
+    "Libya.jpg": [
+        "#e60014",
+        "#000000",
+        "#239c46",
+        "#f5f5f5"
+    ],
+    "Tonga.jpg": [
+        "#f4c5c6",
+        "#c00100",
+        "#bd4847",
+        "#fefefe"
+    ],
+    "Macedonia.jpg": [
+        "#fee402",
+        "#d10001",
+        "#d14903",
+        "#f4a316"
+    ],
+    "Madagascar.jpg": [
+        "#fefefe",
+        "#fb3e32",
+        "#017d39",
+        "#487041"
+    ],
+    "Grenada.jpg": [
+        "#63793c",
+        "#cd1226",
+        "#01785d",
+        "#fbcf18"
+    ],
+    "Bermuda.jpg": [
+        "#ce132b",
+        "#aeaaa7",
+        "#133057",
+        "#fcfcfb"
+    ],
+    "Montenegro.jpg": [
+        "#c30307",
+        "#d3aa3d",
+        "#c06d26",
+        "#4a6a64"
+    ],
+    "Equatorial_Guinea.jpg": [
+        "#3f9904",
+        "#e22118",
+        "#0273cc",
+        "#fdfcfc"
+    ],
+    "Comoros.jpg": [
+        "#fec61d",
+        "#fdfefc",
+        "#3c817c",
+        "#cc1127"
+    ],
+    "Malaysia.jpg": [
+        "#0335aa",
+        "#edbd29",
+        "#fefafa",
+        "#d82721"
+    ],
+    "Oman.jpg": [
+        "#d9161a",
+        "#fefdfd",
+        "#007f01",
+        "#ea9a9b"
+    ],
+    "Senegal.jpg": [
+        "#66aa3a",
+        "#e21c22",
+        "#fbee41",
+        "#00843d"
+    ],
+    "Switzerland.jpg": [
+        "#fd0000",
+        "#fed8d8",
+        "#fefefe",
+        "#f07375"
+    ],
+    "Panama.jpg": [
+        "#fefefe",
+        "#d11033",
+        "#015292",
+        "#b89fb4"
+    ],
+    "Nigeria.jpg": [
+        "#419875",
+        "#c3e6db",
+        "#fefefe",
+        "#008551"
+    ],
+    "Solomon_Islands.jpg": [
+        "#215b33",
+        "#f7cf1a",
+        "#0151b9",
+        "#eff6fb"
+    ],
+    "Guyana.jpg": [
+        "#f7fbf4",
+        "#fbd018",
+        "#018f42",
+        "#cb1126"
+    ],
+    "Canada.jpg": [
+        "#de2121",
+        "#f69695",
+        "#fd0000",
+        "#fefefe"
+    ],
+    "Ivorycoast.jpg": [
+        "#fefefe",
+        "#009e61",
+        "#dfe4c6",
+        "#f57e00"
+    ],
+    "Yemen.jpg": [
+        "#cd1127",
+        "#000000",
+        "#c19ba1",
+        "#fefefe"
+    ],
+    "Togo.jpg": [
+        "#fdf7f8",
+        "#016a4d",
+        "#fccd01",
+        "#d11033"
+    ],
+    "United_Arab_Emirates.jpg": [
+        "#fdfefd",
+        "#000000",
+        "#009d49",
+        "#cd1127"
+    ],
+    "Mauritania.jpg": [
+        "#477212",
+        "#b4b223",
+        "#fcc402",
+        "#006132"
+    ],
+    "Bulgaria.jpg": [
+        "#00976e",
+        "#fefefe",
+        "#d52511",
+        "#5a6848"
+    ],
+    "Saint_Lucia.jpg": [
+        "#66cafe",
+        "#fad018",
+        "#050403",
+        "#f7fbfa"
+    ],
+    "Czech_Republic.jpg": [
+        "#cbbcc9",
+        "#d6141a",
+        "#fefefe",
+        "#11457d"
+    ],
+    "Pakistan.jpg": [
+        "#fefefe",
+        "#01411c",
+        "#517862",
+        "#acc6b6"
+    ],
+    "Azerbaijan.jpg": [
+        "#de0134",
+        "#0096c1",
+        "#02ac66",
+        "#fceff3"
+    ],
+    "Qatar.jpg": [
+        "#fefefe",
+        "#6f193c",
+        "#9a677c",
+        "#d7b6c5"
+    ],
+    "Bhutan.jpg": [
+        "#e03d29",
+        "#edb12d",
+        "#f7f8f7",
+        "#c5beb9"
+    ],
+    "Germany.jpg": [
+        "#000000",
+        "#fecd00",
+        "#db0000",
+        "#850a0c"
+    ],
+    "Saint_Kitts_and_Nevis.jpg": [
+        "#f8d847",
+        "#010000",
+        "#019d48",
+        "#cd1126"
+    ],
+    "Maldives.jpg": [
+        "#d20f33",
+        "#f6fbf8",
+        "#545e41",
+        "#017d3a"
+    ],
+    "Somalia.jpg": [
+        "#4189dc",
+        "#fdfefe",
+        "#b4d3ef",
+        "#699bd4"
+    ],
+    "Sudan.jpg": [
+        "#000000",
+        "#01712a",
+        "#d11033",
+        "#fdfdfd"
+    ],
+    "Israel.jpg": [
+        "#fefefe",
+        "#0138b6",
+        "#5d7dc6",
+        "#bfd2ef"
+    ],
+    "Latvia.jpg": [
+        "#9d3038",
+        "#fff6f8",
+        "#fefefe",
+        "#8a393f"
+    ],
+    "South_Africa.jpg": [
+        "#002495",
+        "#e3512a",
+        "#f9fafb",
+        "#015e3b"
+    ],
+    "Guinea-Bissau.jpg": [
+        "#cc1126",
+        "#090001",
+        "#009d48",
+        "#fcd016"
+    ],
+    "Uganda.jpg": [
+        "#d60200",
+        "#fcda06",
+        "#030200",
+        "#f7f6f6"
+    ],
+    "Austria.jpg": [
+        "#ec2838",
+        "#fefefe",
+        "#f3a6ad",
+        "#de4552"
+    ],
+    "Turkmenistan.jpg": [
+        "#28ad66",
+        "#dd9b34",
+        "#bf3c44",
+        "#e6e9e4"
+    ],
+    "Nicaragua.jpg": [
+        "#0066c5",
+        "#b7bd63",
+        "#a2cfe0",
+        "#fefefd"
+    ],
+    "Haiti.jpg": [
+        "#01209e",
+        "#d11033",
+        "#f2f2ef",
+        "#5c7233"
+    ],
+    "Myanmar.jpg": [
+        "#fdcb00",
+        "#ea2839",
+        "#fdfdfc",
+        "#36b134"
+    ],
+    "Tuvalu.jpg": [
+        "#fbf8f9",
+        "#5d96af",
+        "#d64828",
+        "#02237b"
+    ],
+    "Spain.jpg": [
+        "#c40b1d",
+        "#fcc201",
+        "#bcb0b2",
+        "#8d6220"
+    ],
+    "Portugal.jpg": [
+        "#fc0000",
+        "#016501",
+        "#eeedef",
+        "#d1cb15"
+    ],
+    "Mauritius.jpg": [
+        "#fcd401",
+        "#1b1f6e",
+        "#ea2839",
+        "#00a452"
+    ],
+    "Luxembourg.jpg": [
+        "#c7c7d2",
+        "#01a0de",
+        "#fefefe",
+        "#ec2839"
+    ],
+    "Mongolia.jpg": [
+        "#c32730",
+        "#015095",
+        "#f9c908",
+        "#c55110"
+    ],
+    "Bahrain.jpg": [
+        "#fefefe",
+        "#cd1127",
+        "#ce5968",
+        "#f0afb7"
+    ],
+    "Paraguay.jpg": [
+        "#bbaca5",
+        "#0038a5",
+        "#cd1127",
+        "#fefefe"
+    ],
+    "San_Marino.jpg": [
+        "#ada64f",
+        "#464e3a",
+        "#71c2eb",
+        "#fefefe"
+    ],
+    "Bangladesh.jpg": [
+        "#00694d",
+        "#f32a40",
+        "#ab4149",
+        "#4a5244"
+    ],
+    "Serbia.jpg": [
+        "#bd9d6c",
+        "#fdfdfd",
+        "#0e3f76",
+        "#c3373c"
+    ],
+    "Suriname.jpg": [
+        "#377d3e",
+        "#b30a2d",
+        "#e1bd3f",
+        "#fefefe"
+    ],
+    "Mali.jpg": [
+        "#6bba2d",
+        "#cd1126",
+        "#15b43a",
+        "#fcd016"
+    ],
+    "Dominican_Republic.jpg": [
+        "#012f61",
+        "#cd1127",
+        "#c1b6b7",
+        "#fefefe"
+    ],
+    "Kuwait.jpg": [
+        "#cd1127",
+        "#00793d",
+        "#fefefd",
+        "#000000"
+    ],
+    "Thailand.jpg": [
+        "#fefefe",
+        "#241d4f",
+        "#b47586",
+        "#ec1b24"
+    ],
+    "France.jpg": [
+        "#fefefe",
+        "#ec2839",
+        "#002495",
+        "#ded1dc"
+    ],
+    "Dominica.jpg": [
+        "#f8cf19",
+        "#025e38",
+        "#fafcfb",
+        "#c52235"
+    ],
+    "Italy.jpg": [
+        "#fefefe",
+        "#ce2b36",
+        "#58b080",
+        "#009147"
+    ],
+    "Antigua_and_Barbuda.jpg": [
+        "#fcfcfd",
+        "#010000",
+        "#0171c3",
+        "#d12426"
+    ],
+    "Zimbabwe.jpg": [
+        "#246705",
+        "#fdfdfc",
+        "#d9220f",
+        "#fbce04"
+    ],
+    "Liechtenstein.jpg": [
+        "#012a80",
+        "#cd1127",
+        "#dcc046",
+        "#2f270e"
+    ],
+    "Brunei.jpg": [
+        "#fefcfb",
+        "#c22228",
+        "#030100",
+        "#f6de19"
+    ],
+    "Sri_Lanka.jpg": [
+        "#fcb502",
+        "#892225",
+        "#02553f",
+        "#fa5e01"
+    ],
+    "Eritrea.jpg": [
+        "#13ac2b",
+        "#fcba2d",
+        "#4188dc",
+        "#e80637"
+    ],
+    "Chad.jpg": [
+        "#424926",
+        "#c60c30",
+        "#002663",
+        "#fdca00"
+    ],
+    "Saint_Vincent_and_the_Grenadines.jpg": [
+        "#fcd116",
+        "#009d60",
+        "#80b244",
+        "#0071c4"
+    ],
+    "Bosnia_and_Herzegovina.jpg": [
+        "#002395",
+        "#fdca01",
+        "#f5f7fb",
+        "#626b8c"
+    ],
+    "Belarus.jpg": [
+        "#c7323e",
+        "#49a556",
+        "#fcf4f4",
+        "#de979d"
+    ],
+    "Denmark.jpg": [
+        "#c60c30",
+        "#fefefe",
+        "#da8699",
+        "#b91b3d"
+    ],
+    "Palau.jpg": [
+        "#4aacd5",
+        "#ccd64b",
+        "#fede00",
+        "#7bb48d"
+    ],
+    "Albania.jpg": [
+        "#e31d20",
+        "#030000",
+        "#4f0809",
+        "#a31f21"
+    ],
+    "Philippines.jpg": [
+        "#f9d332",
+        "#fdfdf9",
+        "#cd1127",
+        "#0038a6"
+    ],
+    "Cook_Islands.jpg": [
+        "#cf142c",
+        "#fafbfb",
+        "#a698b7",
+        "#01247d"
+    ],
+    "Puerto_Rico.jpg": [
+        "#eb0000",
+        "#fdfcfd",
+        "#0150ee",
+        "#c53040"
+    ],
+    "Barbados.jpg": [
+        "#01257e",
+        "#040201",
+        "#63572e",
+        "#fcc627"
+    ],
+    "Peru.jpg": [
+        "#d81023",
+        "#f1cace",
+        "#fefefe",
+        "#ca4c58"
+    ],
+    "India.jpg": [
+        "#fe9934",
+        "#26258d",
+        "#118706",
+        "#fdfcfd"
+    ],
+    "Lebanon.jpg": [
+        "#fefefd",
+        "#ec1b24",
+        "#05a554",
+        "#80d2a9"
+    ],
+    "Singapore.jpg": [
+        "#ec2839",
+        "#fcd4d7",
+        "#fefefe",
+        "#e6747d"
+    ],
+    "Georgia.jpg": [
+        "#fabcbc",
+        "#e33838",
+        "#fd0000",
+        "#fefefe"
+    ],
+    "Netherlands.jpg": [
+        "#fefefe",
+        "#21468c",
+        "#c4adbb",
+        "#ad1c27"
+    ],
+    "Ethiopia.jpg": [
+        "#1247a8",
+        "#d91319",
+        "#f8da0d",
+        "#09882f"
+    ],
+    "Swaziland.jpg": [
+        "#415db5",
+        "#910b0a",
+        "#f9d408",
+        "#fbfbfb"
+    ],
+    "Palestine.jpg": [
+        "#fdfdfd",
+        "#00793c",
+        "#000000",
+        "#cc1127"
+    ],
+    "Iraq.jpg": [
+        "#208351",
+        "#000000",
+        "#cd1127",
+        "#fdfdfd"
+    ],
+    "Bahamas.jpg": [
+        "#00aac8",
+        "#f9df43",
+        "#000000",
+        "#5db890"
+    ],
+    "Papua_New_Guinea.jpg": [
+        "#cd1126",
+        "#000000",
+        "#fbcb19",
+        "#f5f5f5"
+    ],
+    "Vanuatu.jpg": [
+        "#d01132",
+        "#030201",
+        "#009442",
+        "#f7ca16"
+    ],
+    "Costa_Rica.jpg": [
+        "#fefefe",
+        "#cd1127",
+        "#92807c",
+        "#012b7e"
+    ],
+    "Fiji.jpg": [
+        "#f9f5f6",
+        "#093161",
+        "#ca222b",
+        "#67bee4"
+    ],
+    "Jordan.jpg": [
+        "#fdfdfd",
+        "#000000",
+        "#cd1127",
+        "#017a3d"
+    ],
+    "Malawi.jpg": [
+        "#cd1127",
+        "#339d35",
+        "#020000",
+        "#6c1519"
+    ],
+    "Croatia.jpg": [
+        "#fefefe",
+        "#171a96",
+        "#dca6a3",
+        "#fc0101"
+    ],
+    "Niger.jpg": [
+        "#d3cfa6",
+        "#df5206",
+        "#0caf2b",
+        "#fefefe"
+    ],
+    "Wales.jpg": [
+        "#fdfdfd",
+        "#01a939",
+        "#c61233",
+        "#2f0a0c"
+    ],
+    "Trinidad_and_Tobago.jpg": [
+        "#cd1127",
+        "#fdfbfb",
+        "#000000",
+        "#b4868c"
+    ],
+    "Democratic_Republic_of_the_Congo.jpg": [
+        "#018efe",
+        "#da0c22",
+        "#f9dd03",
+        "#83b88b"
+    ],
+    "Egypt.jpg": [
+        "#000000",
+        "#cd1127",
+        "#fefefc",
+        "#caab5a"
+    ],
+    "Malta.jpg": [
+        "#fefefe",
+        "#cf142c",
+        "#cbc7c7",
+        "#a97c7f"
+    ],
+    "Uruguay.jpg": [
+        "#e7c328",
+        "#584819",
+        "#053ba7",
+        "#fdfefe"
+    ],
+    "Vietnam.jpg": [
+        "#d9251b",
+        "#f7c719",
+        "#fefe01",
+        "#d96807"
+    ],
+    "Japan.jpg": [
+        "#fefefe",
+        "#ba002d",
+        "#c2506d",
+        "#eeafc0"
+    ],
+    "Uzbekistan.jpg": [
+        "#bb2030",
+        "#fdfdfd",
+        "#1fb43a",
+        "#0297b5"
+    ],
+    "Finland.jpg": [
+        "#fefefe",
+        "#00367f",
+        "#7a95b9",
+        "#e6f3fc"
+    ],
+    "United_States.jpg": [
+        "#bb8998",
+        "#b12235",
+        "#fdfbfc",
+        "#3c3c6d"
+    ],
+    "Ireland.jpg": [
+        "#009a47",
+        "#fe7900",
+        "#56b281",
+        "#fefefe"
+    ],
+    "Burkina_Faso.jpg": [
+        "#ee2b2e",
+        "#737238",
+        "#009d48",
+        "#face19"
+    ],
+    "Chile.jpg": [
+        "#0138a4",
+        "#d42b1e",
+        "#cbc2d3",
+        "#fefefe"
+    ],
+    "Lithuania.jpg": [
+        "#fbb913",
+        "#c1272d",
+        "#57662f",
+        "#006943"
+    ],
+    "Indonesia.jpg": [
+        "#cd1127",
+        "#fefefe",
+        "#efc2c7",
+        "#c64a57"
+    ],
+    "Slovenia.jpg": [
+        "#6e6485",
+        "#fefefe",
+        "#eb1b24",
+        "#015ca2"
+    ],
+    "Slovakia.jpg": [
+        "#ed1c25",
+        "#0c4ea1",
+        "#fefefe",
+        "#987292"
+    ],
+    "Nauru.jpg": [
+        "#012b80",
+        "#868468",
+        "#f8fafc",
+        "#fdc61f"
+    ],
+    "Romania.jpg": [
+        "#535f4c",
+        "#cd1126",
+        "#012b7e",
+        "#fcd016"
+    ],
+    "Botswana.jpg": [
+        "#76aad9",
+        "#a4a4a4",
+        "#000000",
+        "#fdfefe"
+    ],
+    "Morocco.jpg": [
+        "#c1272d",
+        "#354e2c",
+        "#036031",
+        "#803c31"
+    ],
+    "Belize.jpg": [
+        "#f2f4ef",
+        "#d1172a",
+        "#024e9b",
+        "#378819"
+    ],
+    "Norway.jpg": [
+        "#d4bfc9",
+        "#012868",
+        "#fefefe",
+        "#ee2b2d"
+    ],
+    "Mexico.jpg": [
+        "#cc1227",
+        "#fdfdfc",
+        "#026746",
+        "#a7996f"
+    ]
+}

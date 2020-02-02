@@ -1,0 +1,5456 @@
+{
+    "staraptor.jpg": [
+        "#fcfcfc",
+        "#48413c",
+        "#d89d6e",
+        "#7f6d68"
+    ],
+    "taillow.jpg": [
+        "#fafafb",
+        "#455470",
+        "#c98087",
+        "#1f242f"
+    ],
+    "charizard.jpg": [
+        "#e4d4a3",
+        "#fefefe",
+        "#2e7984",
+        "#d5915f"
+    ],
+    "infernape.jpg": [
+        "#ccbc8a",
+        "#545255",
+        "#fdfdfd",
+        "#ce784f"
+    ],
+    "pidove.jpg": [
+        "#dad6d1",
+        "#fefefe",
+        "#383333",
+        "#a59a92"
+    ],
+    "comfey.jpg": [
+        "#fdfdfd",
+        "#c05b5c",
+        "#b3b47f",
+        "#eae37e"
+    ],
+    "bulbasaur.jpg": [
+        "#8bc7aa",
+        "#fdfdfe",
+        "#699881",
+        "#1c2823"
+    ],
+    "banette.jpg": [
+        "#9c968f",
+        "#666366",
+        "#fefefd",
+        "#22201f"
+    ],
+    "articuno.jpg": [
+        "#fdfdfd",
+        "#9dbbe1",
+        "#304458",
+        "#5d81a9"
+    ],
+    "pyroar.jpg": [
+        "#fdfdfd",
+        "#bc5234",
+        "#4e3f37",
+        "#d3b06c"
+    ],
+    "magmortar.jpg": [
+        "#fdfdfd",
+        "#573f2e",
+        "#cd5d36",
+        "#ebb557"
+    ],
+    "parasect.jpg": [
+        "#c2839b",
+        "#362824",
+        "#fdfdfd",
+        "#d08f50"
+    ],
+    "absol-mega.jpg": [
+        "#fcfdfd",
+        "#b6bedb",
+        "#6f7d9b",
+        "#33363f"
+    ],
+    "audino-mega.jpg": [
+        "#bcaaad",
+        "#fcfcfc",
+        "#3d3937",
+        "#f1e5d7"
+    ],
+    "dedenne.jpg": [
+        "#c8b482",
+        "#fcfcf5",
+        "#3f3a35",
+        "#de9b28"
+    ],
+    "lumineon.jpg": [
+        "#8d9d9f",
+        "#fefefe",
+        "#37454b",
+        "#b7dedc"
+    ],
+    "raikou.jpg": [
+        "#a89ba7",
+        "#504b3c",
+        "#fbfbfb",
+        "#e8c457"
+    ],
+    "cresselia.jpg": [
+        "#b08989",
+        "#fefdfd",
+        "#d2bbbc",
+        "#504742"
+    ],
+    "regigigas.jpg": [
+        "#fafafb",
+        "#3f4f3e",
+        "#d3b565",
+        "#a0acab"
+    ],
+    "palkia.jpg": [
+        "#574b5e",
+        "#dbd3dc",
+        "#9f91a3",
+        "#fefefe"
+    ],
+    "eevee-lets-go.jpg": [
+        "#e9d5b1",
+        "#bc8859",
+        "#332117",
+        "#fefefe"
+    ],
+    "thundurus-incarnate.jpg": [
+        "#fbfbfd",
+        "#44444a",
+        "#7e8798",
+        "#b7cad5"
+    ],
+    "yveltal.jpg": [
+        "#fdfdfd",
+        "#736972",
+        "#3c3339",
+        "#da4c3f"
+    ],
+    "zigzagoon.jpg": [
+        "#bdad9e",
+        "#38302c",
+        "#fcfaf8",
+        "#9c846e"
+    ],
+    "petilil.jpg": [
+        "#61a25f",
+        "#cedd93",
+        "#fdfdfd",
+        "#262b1d"
+    ],
+    "purugly.jpg": [
+        "#fdfdfc",
+        "#73737f",
+        "#b2a6b6",
+        "#333338"
+    ],
+    "torterra.jpg": [
+        "#fefefe",
+        "#303928",
+        "#b8b7b5",
+        "#667d52"
+    ],
+    "sceptile-mega.jpg": [
+        "#fefefe",
+        "#4e6e49",
+        "#a7bc85",
+        "#bd694d"
+    ],
+    "starmie.jpg": [
+        "#392b38",
+        "#fdfdfc",
+        "#8e6f99",
+        "#c7b0be"
+    ],
+    "lickitung.jpg": [
+        "#fdfbfb",
+        "#45383d",
+        "#be9399",
+        "#ecbdc0"
+    ],
+    "yanmega.jpg": [
+        "#fdfdfc",
+        "#647049",
+        "#dc7b6e",
+        "#3c3b30"
+    ],
+    "sandshrew.jpg": [
+        "#ded283",
+        "#313228",
+        "#a39e5a",
+        "#fbfcf9"
+    ],
+    "tyranitar-mega.jpg": [
+        "#fefefe",
+        "#787c57",
+        "#adbf8b",
+        "#404134"
+    ],
+    "basculin-blue-striped.jpg": [
+        "#fafbfa",
+        "#68a46b",
+        "#374039",
+        "#0f82ac"
+    ],
+    "houndoom-mega.jpg": [
+        "#fafafc",
+        "#5f5859",
+        "#aa9d9a",
+        "#2e2d2f"
+    ],
+    "marshadow.jpg": [
+        "#c8c5a6",
+        "#232529",
+        "#fefefe",
+        "#6b6872"
+    ],
+    "alakazam.jpg": [
+        "#fdfdfd",
+        "#918047",
+        "#41352e",
+        "#d7c460"
+    ],
+    "shieldon.jpg": [
+        "#d6c295",
+        "#78726d",
+        "#fefefe",
+        "#3b3735"
+    ],
+    "stoutland.jpg": [
+        "#f4eacf",
+        "#585a58",
+        "#fefefe",
+        "#baa488"
+    ],
+    "mareep.jpg": [
+        "#cfbc94",
+        "#547596",
+        "#fcf8ed",
+        "#2d2e2a"
+    ],
+    "camerupt-mega.jpg": [
+        "#fefefe",
+        "#4a4340",
+        "#e5876f",
+        "#b0a7a1"
+    ],
+    "froakie.jpg": [
+        "#fcfcf9",
+        "#5bb0cf",
+        "#d7cf99",
+        "#283339"
+    ],
+    "gabite.jpg": [
+        "#747da1",
+        "#404256",
+        "#c9614a",
+        "#fdfdfd"
+    ],
+    "shaymin-sky.jpg": [
+        "#fdfdfd",
+        "#7a5043",
+        "#ccc5bb",
+        "#aab16d"
+    ],
+    "munna.jpg": [
+        "#31262a",
+        "#fefefe",
+        "#f5d5da",
+        "#bf92a5"
+    ],
+    "bellossom.jpg": [
+        "#fefefe",
+        "#4e664b",
+        "#cf7951",
+        "#bdc083"
+    ],
+    "inkay.jpg": [
+        "#fafafa",
+        "#3d3f41",
+        "#e4b8ae",
+        "#7595b5"
+    ],
+    "archeops.jpg": [
+        "#314f54",
+        "#fefefd",
+        "#d09d72",
+        "#3d96c1"
+    ],
+    "avalugg.jpg": [
+        "#fcfdfe",
+        "#9fb0cb",
+        "#d4e9f6",
+        "#7b82ae"
+    ],
+    "carracosta.jpg": [
+        "#79a8d1",
+        "#5f708b",
+        "#fefefe",
+        "#414757"
+    ],
+    "nidoqueen.jpg": [
+        "#fefefe",
+        "#7090ab",
+        "#cec9b1",
+        "#3a3b3d"
+    ],
+    "huntail.jpg": [
+        "#73a2db",
+        "#fdfdfd",
+        "#d08d70",
+        "#564858"
+    ],
+    "nosepass.jpg": [
+        "#737eae",
+        "#fefefe",
+        "#1d1e2b",
+        "#cb656d"
+    ],
+    "lampent.jpg": [
+        "#b5c5df",
+        "#313232",
+        "#90919f",
+        "#fdfefe"
+    ],
+    "tirtouga.jpg": [
+        "#fefefe",
+        "#3c4352",
+        "#82aad0",
+        "#63718c"
+    ],
+    "nidoking.jpg": [
+        "#b997b5",
+        "#916e8a",
+        "#fcfcfc",
+        "#454751"
+    ],
+    "tornadus-incarnate.jpg": [
+        "#fbfbfc",
+        "#435143",
+        "#857b8f",
+        "#d4c3a1"
+    ],
+    "minior-core.jpg": [
+        "#f7dce7",
+        "#d55e8a",
+        "#e7a7c2",
+        "#fefefe"
+    ],
+    "accelgor.jpg": [
+        "#fefefe",
+        "#7c8c9a",
+        "#41424c",
+        "#d26b79"
+    ],
+    "makuhita.jpg": [
+        "#1e1b18",
+        "#73747d",
+        "#f7df9d",
+        "#fefefe"
+    ],
+    "seviper.jpg": [
+        "#fefefd",
+        "#4e677b",
+        "#ddaf8b",
+        "#2a2c2d"
+    ],
+    "meloetta-aria.jpg": [
+        "#fcfdfc",
+        "#2e2e2b",
+        "#898581",
+        "#d2e0c0"
+    ],
+    "luxio.jpg": [
+        "#7baab8",
+        "#3e3f3d",
+        "#fefefe",
+        "#d5a639"
+    ],
+    "hoopa-confined.jpg": [
+        "#cec3a6",
+        "#3e3333",
+        "#fefefe",
+        "#966c72"
+    ],
+    "yungoos.jpg": [
+        "#fefefe",
+        "#bc8b75",
+        "#624a41",
+        "#f1d685"
+    ],
+    "skorupi.jpg": [
+        "#fdfdfd",
+        "#3b3b5b",
+        "#a4a7c5",
+        "#67799a"
+    ],
+    "ampharos-mega.jpg": [
+        "#fdfdfd",
+        "#f6e48d",
+        "#b9b3b0",
+        "#6f5c54"
+    ],
+    "jellicent.jpg": [
+        "#fdfefe",
+        "#5990b9",
+        "#d8edf9",
+        "#92c3e6"
+    ],
+    "conkeldurr.jpg": [
+        "#fefefe",
+        "#816e67",
+        "#b1a89f",
+        "#433532"
+    ],
+    "sentret.jpg": [
+        "#fefdfc",
+        "#54473e",
+        "#ccac9c",
+        "#ac806c"
+    ],
+    "grubbin.jpg": [
+        "#dec88f",
+        "#f8f9fb",
+        "#433326",
+        "#cc774f"
+    ],
+    "golbat.jpg": [
+        "#fefefe",
+        "#a372a4",
+        "#2a2b31",
+        "#488cac"
+    ],
+    "poliwrath.jpg": [
+        "#1c2026",
+        "#fdfefe",
+        "#6183ab",
+        "#d0d7e3"
+    ],
+    "magnemite.jpg": [
+        "#fcfdfd",
+        "#413e45",
+        "#b2c7c9",
+        "#858493"
+    ],
+    "pikachu-lets-go.jpg": [
+        "#fefefe",
+        "#eed17e",
+        "#302720",
+        "#817271"
+    ],
+    "charizard-mega-y.jpg": [
+        "#ede1b4",
+        "#db8e66",
+        "#fefefe",
+        "#645453"
+    ],
+    "medicham.jpg": [
+        "#cfcbac",
+        "#3e3033",
+        "#d06987",
+        "#fcfdfd"
+    ],
+    "finneon.jpg": [
+        "#fefefe",
+        "#ba7191",
+        "#354248",
+        "#b1d7d6"
+    ],
+    "binacle.jpg": [
+        "#fefefe",
+        "#ca8b63",
+        "#635c5d",
+        "#dddec3"
+    ],
+    "kyurem-black.jpg": [
+        "#fdfefe",
+        "#3a3639",
+        "#838886",
+        "#bcc8cb"
+    ],
+    "galvantula.jpg": [
+        "#fefefe",
+        "#a19181",
+        "#504b54",
+        "#f9df85"
+    ],
+    "swirlix.jpg": [
+        "#fcfcfd",
+        "#ab7b8b",
+        "#e7d4dc",
+        "#2b2526"
+    ],
+    "crawdaunt.jpg": [
+        "#fdfdfd",
+        "#2b1f1e",
+        "#b75750",
+        "#bbb7aa"
+    ],
+    "hippopotas.jpg": [
+        "#fefefd",
+        "#614221",
+        "#dac87b",
+        "#ab9455"
+    ],
+    "dratini.jpg": [
+        "#fcfcfc",
+        "#2e2e33",
+        "#b7c1d2",
+        "#8593b7"
+    ],
+    "mienfoo.jpg": [
+        "#fefefe",
+        "#95525b",
+        "#cd9083",
+        "#faf4a4"
+    ],
+    "electrike.jpg": [
+        "#fdfdfd",
+        "#a1c3a1",
+        "#e5cc7d",
+        "#374034"
+    ],
+    "sawsbuck.jpg": [
+        "#fefefe",
+        "#7b6549",
+        "#d6c18a",
+        "#423227"
+    ],
+    "blaziken.jpg": [
+        "#fdfcfa",
+        "#372a23",
+        "#b55d4b",
+        "#e0bb89"
+    ],
+    "reshiram.jpg": [
+        "#585c65",
+        "#fbfcfc",
+        "#a1a8c5",
+        "#ced6e5"
+    ],
+    "keldeo-ordinary.jpg": [
+        "#90cce8",
+        "#4b5066",
+        "#fdfdf5",
+        "#dd7b53"
+    ],
+    "porygon.jpg": [
+        "#f4f3f4",
+        "#212223",
+        "#5b989f",
+        "#be5762"
+    ],
+    "alomomola.jpg": [
+        "#cb96a0",
+        "#a6687a",
+        "#2f252a",
+        "#fdf8fa"
+    ],
+    "charizard-mega-x.jpg": [
+        "#576777",
+        "#fdfdfd",
+        "#384554",
+        "#80c1e2"
+    ],
+    "budew.jpg": [
+        "#80bd5b",
+        "#fefefe",
+        "#3e6732",
+        "#d8e78e"
+    ],
+    "shellos.jpg": [
+        "#fdfdfd",
+        "#46403a",
+        "#47b1bf",
+        "#c99e95"
+    ],
+    "gothita.jpg": [
+        "#fcfcfd",
+        "#8f8497",
+        "#343130",
+        "#c8afc7"
+    ],
+    "florges.jpg": [
+        "#fdfdfd",
+        "#4e4644",
+        "#0a9478",
+        "#c49497"
+    ],
+    "beedrill-mega.jpg": [
+        "#fdfefe",
+        "#413f40",
+        "#c5a462",
+        "#d4dadd"
+    ],
+    "shinx.jpg": [
+        "#fefefe",
+        "#333233",
+        "#8bafbe",
+        "#d1af29"
+    ],
+    "serperior.jpg": [
+        "#147041",
+        "#fefefe",
+        "#98c0a0",
+        "#ddc23b"
+    ],
+    "toxicroak.jpg": [
+        "#fefefe",
+        "#658ab0",
+        "#c66357",
+        "#34363d"
+    ],
+    "rotom-heat.jpg": [
+        "#fefdfd",
+        "#d7938b",
+        "#cf634c",
+        "#3e312c"
+    ],
+    "necrozma-dawn-wings.jpg": [
+        "#fcfdfe",
+        "#525457",
+        "#1d1e1e",
+        "#cae0ec"
+    ],
+    "cyndaquil.jpg": [
+        "#fefefe",
+        "#f0dba7",
+        "#426464",
+        "#d89057"
+    ],
+    "swellow.jpg": [
+        "#fbfbfc",
+        "#292731",
+        "#454a64",
+        "#bc6d7f"
+    ],
+    "machop.jpg": [
+        "#fefefe",
+        "#38373e",
+        "#b3cad6",
+        "#90a1af"
+    ],
+    "ludicolo.jpg": [
+        "#fefefe",
+        "#d8d5a7",
+        "#2e2e24",
+        "#98ab72"
+    ],
+    "persian-alolan.jpg": [
+        "#8d8b97",
+        "#fefefe",
+        "#35363d",
+        "#c6c9d9"
+    ],
+    "tsareena.jpg": [
+        "#fdfefd",
+        "#817260",
+        "#b9cf82",
+        "#292520"
+    ],
+    "phanpy.jpg": [
+        "#92c5c5",
+        "#fdfefe",
+        "#282f2c",
+        "#c8694f"
+    ],
+    "darmanitan-standard.jpg": [
+        "#fdfdfd",
+        "#b15342",
+        "#e1af75",
+        "#5c322c"
+    ],
+    "beedrill.jpg": [
+        "#f8f9fa",
+        "#dcb660",
+        "#3c3b42",
+        "#a4abb5"
+    ],
+    "fletchinder.jpg": [
+        "#807977",
+        "#e1854f",
+        "#fcfcfd",
+        "#342f2d"
+    ],
+    "butterfree.jpg": [
+        "#b5bcc7",
+        "#6b6070",
+        "#0e0e10",
+        "#f6f9fc"
+    ],
+    "heatran.jpg": [
+        "#99816f",
+        "#fefefe",
+        "#59372b",
+        "#b7b7b5"
+    ],
+    "lycanroc-midday.jpg": [
+        "#cebbb0",
+        "#6e635d",
+        "#fefefe",
+        "#2c2825"
+    ],
+    "flareon.jpg": [
+        "#26211f",
+        "#fefefd",
+        "#d5c18d",
+        "#cc7148"
+    ],
+    "gliscor.jpg": [
+        "#a0a8c5",
+        "#474548",
+        "#fefefe",
+        "#8a7b8a"
+    ],
+    "groudon-primal.jpg": [
+        "#ece3bc",
+        "#4b3c46",
+        "#bb6770",
+        "#fefefe"
+    ],
+    "venusaur.jpg": [
+        "#55968b",
+        "#d0828d",
+        "#394341",
+        "#fdfcfc"
+    ],
+    "azelf.jpg": [
+        "#fefefe",
+        "#b9d0e2",
+        "#353336",
+        "#80a3b3"
+    ],
+    "basculin-red-striped.jpg": [
+        "#fcfcfc",
+        "#5d9c62",
+        "#3b463b",
+        "#b29e90"
+    ],
+    "shedinja.jpg": [
+        "#fdfdfc",
+        "#26211c",
+        "#d5c097",
+        "#a18c6e"
+    ],
+    "duosion.jpg": [
+        "#fefefe",
+        "#687867",
+        "#d7e7c9",
+        "#93c099"
+    ],
+    "scraggy.jpg": [
+        "#f6d989",
+        "#fdfefe",
+        "#2b241d",
+        "#bf9566"
+    ],
+    "gumshoos.jpg": [
+        "#fefefe",
+        "#987f63",
+        "#d8c976",
+        "#51443a"
+    ],
+    "latias.jpg": [
+        "#fefefe",
+        "#b7707c",
+        "#534348",
+        "#c3d2e2"
+    ],
+    "shelmet.jpg": [
+        "#b48082",
+        "#cfc9c0",
+        "#373437",
+        "#fefefe"
+    ],
+    "sawk.jpg": [
+        "#a6d1d3",
+        "#333435",
+        "#fefefe",
+        "#6187a3"
+    ],
+    "passimian.jpg": [
+        "#fdfefd",
+        "#5e6559",
+        "#33352c",
+        "#b8c090"
+    ],
+    "frogadier.jpg": [
+        "#bbbfb9",
+        "#1c4366",
+        "#fefefe",
+        "#4f8eb2"
+    ],
+    "fletchling.jpg": [
+        "#b3bdd1",
+        "#ec875b",
+        "#46413f",
+        "#fefefe"
+    ],
+    "naganadel.jpg": [
+        "#d3c3d8",
+        "#3e2772",
+        "#8a67a1",
+        "#fefefe"
+    ],
+    "ariados.jpg": [
+        "#fdfdfd",
+        "#302b27",
+        "#c9a893",
+        "#a55157"
+    ],
+    "roggenrola.jpg": [
+        "#bb9a5c",
+        "#fefefe",
+        "#52535f",
+        "#232837"
+    ],
+    "cubone.jpg": [
+        "#d5d2cc",
+        "#fdfdfd",
+        "#22201f",
+        "#af9b80"
+    ],
+    "octillery.jpg": [
+        "#e4a271",
+        "#d04e42",
+        "#4e2f25",
+        "#fefefe"
+    ],
+    "gible.jpg": [
+        "#698a98",
+        "#37383d",
+        "#be6653",
+        "#fdfdfd"
+    ],
+    "corphish.jpg": [
+        "#fdfdfe",
+        "#402d29",
+        "#e67a62",
+        "#d1c3b5"
+    ],
+    "chandelure.jpg": [
+        "#fefefe",
+        "#343232",
+        "#7d7db0",
+        "#bfc8d8"
+    ],
+    "ivysaur.jpg": [
+        "#558681",
+        "#fdfdfe",
+        "#1d2725",
+        "#93acaf"
+    ],
+    "seaking.jpg": [
+        "#f7fafa",
+        "#212222",
+        "#b6735f",
+        "#cac4cf"
+    ],
+    "xurkitree.jpg": [
+        "#acaa9c",
+        "#504a42",
+        "#fcfdfd",
+        "#23241f"
+    ],
+    "heatmor.jpg": [
+        "#fefefe",
+        "#9c5d4c",
+        "#c0a078",
+        "#513931"
+    ],
+    "meditite.jpg": [
+        "#b7c7d5",
+        "#25272a",
+        "#7798b2",
+        "#f8f8f8"
+    ],
+    "drampa.jpg": [
+        "#f9f9f5",
+        "#6a9e9d",
+        "#bcbda0",
+        "#485049"
+    ],
+    "liepard.jpg": [
+        "#fefefe",
+        "#775c7b",
+        "#e0bb64",
+        "#4a3b45"
+    ],
+    "musharna.jpg": [
+        "#a897c2",
+        "#fdf7f7",
+        "#e198a4",
+        "#705e77"
+    ],
+    "aipom.jpg": [
+        "#a57ca5",
+        "#fefefe",
+        "#443a41",
+        "#e4d4a6"
+    ],
+    "manectric.jpg": [
+        "#68a8c0",
+        "#fefefd",
+        "#d9cd95",
+        "#373c3a"
+    ],
+    "ditto.jpg": [
+        "#fefefe",
+        "#242126",
+        "#c8b6d8",
+        "#9f90b1"
+    ],
+    "scrafty.jpg": [
+        "#fefefe",
+        "#473a32",
+        "#f1bb73",
+        "#b47a56"
+    ],
+    "chinchou.jpg": [
+        "#fdfdfc",
+        "#6e7fb0",
+        "#dfd089",
+        "#333538"
+    ],
+    "litleo.jpg": [
+        "#fefefe",
+        "#483e3a",
+        "#d9b488",
+        "#a57357"
+    ],
+    "dusknoir.jpg": [
+        "#fefefe",
+        "#696357",
+        "#b0ab8c",
+        "#36332e"
+    ],
+    "wigglytuff.jpg": [
+        "#fcfbfc",
+        "#bfa2aa",
+        "#2b3b40",
+        "#edd6dd"
+    ],
+    "heracross-mega.jpg": [
+        "#97888f",
+        "#26262e",
+        "#3e5778",
+        "#fefefe"
+    ],
+    "larvitar.jpg": [
+        "#bac59a",
+        "#fefefe",
+        "#523028",
+        "#919770"
+    ],
+    "rampardos.jpg": [
+        "#c1bdbb",
+        "#484849",
+        "#fdfdfd",
+        "#62798f"
+    ],
+    "tyrogue.jpg": [
+        "#fefefe",
+        "#ab989c",
+        "#624c36",
+        "#d9c4d2"
+    ],
+    "castform.jpg": [
+        "#fdfdfd",
+        "#656567",
+        "#cbcad0",
+        "#101011"
+    ],
+    "banette-mega.jpg": [
+        "#fefefe",
+        "#3f3b3c",
+        "#e18973",
+        "#72706d"
+    ],
+    "koffing.jpg": [
+        "#fdfdfd",
+        "#6c5b6e",
+        "#aaa099",
+        "#201921"
+    ],
+    "dusclops.jpg": [
+        "#fefefe",
+        "#403e3c",
+        "#c6c1bd",
+        "#94918f"
+    ],
+    "gengar.jpg": [
+        "#aa94ae",
+        "#39314a",
+        "#fdfdfd",
+        "#6c628e"
+    ],
+    "growlithe.jpg": [
+        "#dcc4a9",
+        "#c7936a",
+        "#fefefd",
+        "#3b3837"
+    ],
+    "cleffa.jpg": [
+        "#7a6148",
+        "#fefefe",
+        "#eed0c7",
+        "#1d1714"
+    ],
+    "sigilyph.jpg": [
+        "#fefefe",
+        "#90a9b8",
+        "#e3a25c",
+        "#3f3c37"
+    ],
+    "granbull.jpg": [
+        "#b795a6",
+        "#fefefe",
+        "#3e3637",
+        "#e7c3da"
+    ],
+    "gourgeist.jpg": [
+        "#fefefe",
+        "#a47e55",
+        "#504331",
+        "#e9ab82"
+    ],
+    "whismur.jpg": [
+        "#fefefe",
+        "#ceb7d0",
+        "#362f32",
+        "#f9d492"
+    ],
+    "greninja-ash.jpg": [
+        "#b99ca2",
+        "#356ea0",
+        "#fdfefd",
+        "#3f474e"
+    ],
+    "flaaffy.jpg": [
+        "#d5bac2",
+        "#fafcfb",
+        "#333130",
+        "#bf8b9a"
+    ],
+    "sunflora.jpg": [
+        "#8baf65",
+        "#fefefd",
+        "#e6db8d",
+        "#3a412b"
+    ],
+    "delcatty.jpg": [
+        "#b488ad",
+        "#f3deac",
+        "#302829",
+        "#fefefe"
+    ],
+    "gastly.jpg": [
+        "#947892",
+        "#faf9fa",
+        "#191313",
+        "#544c4b"
+    ],
+    "kakuna.jpg": [
+        "#fefefd",
+        "#e7d474",
+        "#262117",
+        "#c2a84d"
+    ],
+    "wingull.jpg": [
+        "#fdfdfd",
+        "#a09183",
+        "#9dcbe1",
+        "#38393a"
+    ],
+    "gastrodon.jpg": [
+        "#dd9daa",
+        "#977647",
+        "#2e241c",
+        "#fefefe"
+    ],
+    "ampharos.jpg": [
+        "#fefdfd",
+        "#e7c159",
+        "#b8b1b0",
+        "#534a38"
+    ],
+    "crabominable.jpg": [
+        "#abc5ca",
+        "#647187",
+        "#fcfdfd",
+        "#37374c"
+    ],
+    "surskit.jpg": [
+        "#fefefe",
+        "#e5c996",
+        "#87cae8",
+        "#3b484d"
+    ],
+    "alakazam-mega.jpg": [
+        "#fdfdfd",
+        "#99777b",
+        "#d1c89e",
+        "#4b4340"
+    ],
+    "steenee.jpg": [
+        "#b5ce88",
+        "#7b8462",
+        "#fdfdfd",
+        "#443137"
+    ],
+    "snubbull.jpg": [
+        "#fcfdfd",
+        "#eba0a5",
+        "#332f2b",
+        "#ae797f"
+    ],
+    "hydreigon.jpg": [
+        "#7f95b2",
+        "#494049",
+        "#fefefe",
+        "#746172"
+    ],
+    "cryogonal.jpg": [
+        "#a6bcdd",
+        "#f9fafc",
+        "#2a2d34",
+        "#627caf"
+    ],
+    "stunfisk.jpg": [
+        "#fefefe",
+        "#ce986e",
+        "#56483d",
+        "#fae778"
+    ],
+    "rapidash.jpg": [
+        "#fefefc",
+        "#ef9546",
+        "#7e6864",
+        "#e9e2c0"
+    ],
+    "stantler.jpg": [
+        "#b8937a",
+        "#e3cc96",
+        "#fefefe",
+        "#56463b"
+    ],
+    "cascoon.jpg": [
+        "#fefefe",
+        "#a18491",
+        "#dacbdc",
+        "#312b30"
+    ],
+    "pignite.jpg": [
+        "#fdfdfd",
+        "#5e4844",
+        "#dd8e42",
+        "#211813"
+    ],
+    "sandile.jpg": [
+        "#fefefe",
+        "#383431",
+        "#d0af7d",
+        "#967460"
+    ],
+    "doublade.jpg": [
+        "#fdfdfd",
+        "#97707f",
+        "#d691a9",
+        "#4c3a3b"
+    ],
+    "tangela.jpg": [
+        "#fbfbfb",
+        "#191b1f",
+        "#668da9",
+        "#c3776c"
+    ],
+    "brionne.jpg": [
+        "#fdfefe",
+        "#3b4f5d",
+        "#bbc9d0",
+        "#5ba5cb"
+    ],
+    "arbok.jpg": [
+        "#fefefe",
+        "#353031",
+        "#b7acc6",
+        "#8f818f"
+    ],
+    "lucario.jpg": [
+        "#fdfdfc",
+        "#65696a",
+        "#7da3b1",
+        "#383c3f"
+    ],
+    "amaura.jpg": [
+        "#fefefe",
+        "#3c4a5a",
+        "#ecd2ac",
+        "#9ac9e4"
+    ],
+    "venipede.jpg": [
+        "#555d52",
+        "#fdfdfd",
+        "#2a2425",
+        "#b95364"
+    ],
+    "vullaby.jpg": [
+        "#fdfcfb",
+        "#6b5f5a",
+        "#b09892",
+        "#433a36"
+    ],
+    "elekid.jpg": [
+        "#f8e58d",
+        "#fefefe",
+        "#4a443a",
+        "#cab464"
+    ],
+    "pupitar.jpg": [
+        "#b4bed6",
+        "#8a90a6",
+        "#1d2021",
+        "#fefefe"
+    ],
+    "goomy.jpg": [
+        "#2b2627",
+        "#fefefe",
+        "#dbd4df",
+        "#928393"
+    ],
+    "rhydon.jpg": [
+        "#fefefe",
+        "#bab9bb",
+        "#838591",
+        "#48454a"
+    ],
+    "monferno.jpg": [
+        "#bda796",
+        "#cf8948",
+        "#485558",
+        "#fefefe"
+    ],
+    "raichu-alolan.jpg": [
+        "#e6de7c",
+        "#4a3825",
+        "#fdfcfa",
+        "#b18953"
+    ],
+    "trevenant.jpg": [
+        "#a89a85",
+        "#fdfdfe",
+        "#333a32",
+        "#5a735e"
+    ],
+    "azumarill.jpg": [
+        "#cdb8b5",
+        "#5c4245",
+        "#fefefd",
+        "#4c9ac1"
+    ],
+    "audino.jpg": [
+        "#fefefe",
+        "#424649",
+        "#f7debc",
+        "#dca3a1"
+    ],
+    "dodrio.jpg": [
+        "#fefefd",
+        "#363a22",
+        "#daaa8b",
+        "#9b794f"
+    ],
+    "chimecho.jpg": [
+        "#fcfdfd",
+        "#2d292a",
+        "#d1d9dc",
+        "#aa6c7d"
+    ],
+    "diggersby.jpg": [
+        "#fefefe",
+        "#8a7358",
+        "#584331",
+        "#c4c0ad"
+    ],
+    "aromatisse.jpg": [
+        "#e59dae",
+        "#fbfcfd",
+        "#af6990",
+        "#3f3036"
+    ],
+    "grotle.jpg": [
+        "#7ba377",
+        "#bca24e",
+        "#455c3e",
+        "#fdfdfd"
+    ],
+    "dragonair.jpg": [
+        "#fdfdfd",
+        "#73a1cb",
+        "#3f4959",
+        "#c1cad1"
+    ],
+    "salandit.jpg": [
+        "#fefefe",
+        "#cf502b",
+        "#6d6867",
+        "#3a3533"
+    ],
+    "pikachu.jpg": [
+        "#fefefe",
+        "#edd380",
+        "#2b2821",
+        "#af9165"
+    ],
+    "typhlosion.jpg": [
+        "#fefefd",
+        "#ddc98e",
+        "#5d4c44",
+        "#ef9920"
+    ],
+    "zebstrika.jpg": [
+        "#a5a29f",
+        "#fdfdfd",
+        "#54514f",
+        "#32302e"
+    ],
+    "wailord.jpg": [
+        "#b8b6b4",
+        "#fdfdfd",
+        "#317ea8",
+        "#404649"
+    ],
+    "rhyhorn.jpg": [
+        "#9ca8b7",
+        "#fdfdfd",
+        "#302b3e",
+        "#6b6b7c"
+    ],
+    "machamp.jpg": [
+        "#b0c1d2",
+        "#363337",
+        "#fefefe",
+        "#808399"
+    ],
+    "ninjask.jpg": [
+        "#d5c499",
+        "#f9f9fa",
+        "#2b2828",
+        "#9c6467"
+    ],
+    "tropius.jpg": [
+        "#b9a890",
+        "#2e3a2b",
+        "#fefefe",
+        "#689d6d"
+    ],
+    "gallade.jpg": [
+        "#fefdfd",
+        "#4c7f57",
+        "#b5b8b6",
+        "#293027"
+    ],
+    "meowstic-male.jpg": [
+        "#929aad",
+        "#fcfdfd",
+        "#242c3b",
+        "#38558c"
+    ],
+    "lucario-mega.jpg": [
+        "#fefefe",
+        "#4e4340",
+        "#d7c89c",
+        "#877b75"
+    ],
+    "bouffalant.jpg": [
+        "#d8c99d",
+        "#8b775d",
+        "#5e4d3e",
+        "#fefefe"
+    ],
+    "cottonee.jpg": [
+        "#f5f8f5",
+        "#5da062",
+        "#b0b09d",
+        "#2f4033"
+    ],
+    "silcoon.jpg": [
+        "#fdfdfd",
+        "#242426",
+        "#948185",
+        "#dce2ed"
+    ],
+    "araquanid.jpg": [
+        "#f2f7f9",
+        "#4c5b59",
+        "#7eaaba",
+        "#b7c93c"
+    ],
+    "dialga.jpg": [
+        "#798397",
+        "#fefefe",
+        "#393d65",
+        "#c1d0de"
+    ],
+    "aggron.jpg": [
+        "#b8bdc3",
+        "#fbfcfc",
+        "#3e4348",
+        "#74787b"
+    ],
+    "totodile.jpg": [
+        "#96bdbb",
+        "#fefefd",
+        "#59888d",
+        "#543d40"
+    ],
+    "tauros.jpg": [
+        "#fefefe",
+        "#ca9b68",
+        "#514744",
+        "#8d8a8f"
+    ],
+    "elgyem.jpg": [
+        "#7ba091",
+        "#fefefe",
+        "#add9d5",
+        "#383c38"
+    ],
+    "bidoof.jpg": [
+        "#e8d7aa",
+        "#423629",
+        "#fefefd",
+        "#a17e4a"
+    ],
+    "braixen.jpg": [
+        "#fdfdfd",
+        "#c07043",
+        "#4d4641",
+        "#eddb81"
+    ],
+    "eevee.jpg": [
+        "#dbc9a7",
+        "#322315",
+        "#fefefe",
+        "#a98058"
+    ],
+    "mewtwo.jpg": [
+        "#9f879e",
+        "#fefefe",
+        "#3d373d",
+        "#d2ccd5"
+    ],
+    "ninetales-alolan.jpg": [
+        "#fdfefe",
+        "#cfe5f0",
+        "#8bcbe9",
+        "#b4c4d2"
+    ],
+    "buneary.jpg": [
+        "#e5d3a0",
+        "#a77757",
+        "#32261e",
+        "#fefefe"
+    ],
+    "sableye.jpg": [
+        "#fdfdfd",
+        "#1b1b27",
+        "#7f79af",
+        "#595494"
+    ],
+    "ho-oh.jpg": [
+        "#b9bd85",
+        "#d65d2e",
+        "#fdfdfb",
+        "#694d3c"
+    ],
+    "woobat.jpg": [
+        "#fefefe",
+        "#413a39",
+        "#95979d",
+        "#c3dae9"
+    ],
+    "archen.jpg": [
+        "#fdfdfd",
+        "#e6a97b",
+        "#674743",
+        "#469acf"
+    ],
+    "wartortle.jpg": [
+        "#fcfcf8",
+        "#7281c6",
+        "#32363f",
+        "#b4cde1"
+    ],
+    "noibat.jpg": [
+        "#fefefe",
+        "#85638f",
+        "#bca8c3",
+        "#473944"
+    ],
+    "pidgey.jpg": [
+        "#fdfcf5",
+        "#c5ac8a",
+        "#211c17",
+        "#90673d"
+    ],
+    "golem-alolan.jpg": [
+        "#ada597",
+        "#fdfdfd",
+        "#716967",
+        "#323134"
+    ],
+    "gurdurr.jpg": [
+        "#fefefe",
+        "#9b827b",
+        "#5e2b38",
+        "#ceb0b1"
+    ],
+    "quagsire.jpg": [
+        "#90a3ad",
+        "#fefefe",
+        "#abd3e3",
+        "#293234"
+    ],
+    "gardevoir-mega.jpg": [
+        "#fdfdfe",
+        "#574e4d",
+        "#98998c",
+        "#c9cddc"
+    ],
+    "toxapex.jpg": [
+        "#767397",
+        "#fefefe",
+        "#b3d2d6",
+        "#3d3a4f"
+    ],
+    "swalot.jpg": [
+        "#a696bb",
+        "#29272a",
+        "#fefefd",
+        "#806fa5"
+    ],
+    "lurantis.jpg": [
+        "#fefefe",
+        "#614041",
+        "#e0c9c8",
+        "#d8757c"
+    ],
+    "tyrunt.jpg": [
+        "#fcfcfc",
+        "#362d2b",
+        "#846d64",
+        "#c1b4ac"
+    ],
+    "guzzlord.jpg": [
+        "#e6c864",
+        "#373c43",
+        "#448da7",
+        "#fdfdfd"
+    ],
+    "cinccino.jpg": [
+        "#a291a1",
+        "#fdfdfe",
+        "#454143",
+        "#d0cfd6"
+    ],
+    "keldeo-resolute.jpg": [
+        "#fdfdf7",
+        "#d9764e",
+        "#48484a",
+        "#84b3d1"
+    ],
+    "latias-mega.jpg": [
+        "#9592bf",
+        "#fcfcfc",
+        "#312f38",
+        "#6a6381"
+    ],
+    "shelgon.jpg": [
+        "#f6f6f6",
+        "#827e7f",
+        "#212021",
+        "#c4c2c6"
+    ],
+    "anorith.jpg": [
+        "#b29f98",
+        "#22201f",
+        "#fcfcfd",
+        "#686463"
+    ],
+    "wurmple.jpg": [
+        "#d9cdb3",
+        "#fcfcfb",
+        "#271f1d",
+        "#d06c6f"
+    ],
+    "gloom.jpg": [
+        "#5b6b98",
+        "#65312d",
+        "#fdfcfd",
+        "#b95444"
+    ],
+    "electabuzz.jpg": [
+        "#fefefe",
+        "#172633",
+        "#eecf86",
+        "#9d8b65"
+    ],
+    "miltank.jpg": [
+        "#fefefe",
+        "#c1a195",
+        "#3e3e3f",
+        "#f4d0c2"
+    ],
+    "piloswine.jpg": [
+        "#c6a28f",
+        "#fdfdfd",
+        "#a2735a",
+        "#513e33"
+    ],
+    "abra.jpg": [
+        "#fefefd",
+        "#988e38",
+        "#382e1c",
+        "#d9ca38"
+    ],
+    "goldeen.jpg": [
+        "#fafafc",
+        "#b26f67",
+        "#44383b",
+        "#ccc6de"
+    ],
+    "igglybuff.jpg": [
+        "#fdf0f3",
+        "#8b5463",
+        "#cfb2be",
+        "#161213"
+    ],
+    "minior-meteor.jpg": [
+        "#fefefe",
+        "#332f2e",
+        "#b0918d",
+        "#755c5c"
+    ],
+    "qwilfish.jpg": [
+        "#c8c997",
+        "#567f7a",
+        "#fefefe",
+        "#2b3d39"
+    ],
+    "mankey.jpg": [
+        "#fdfbf9",
+        "#a58a74",
+        "#4b4039",
+        "#d2c2b5"
+    ],
+    "illumise.jpg": [
+        "#f9fbfc",
+        "#3f3f41",
+        "#a2a9c9",
+        "#e7cd7e"
+    ],
+    "cacturne.jpg": [
+        "#fefefe",
+        "#9ebb8f",
+        "#425f44",
+        "#c7ddb7"
+    ],
+    "amoonguss.jpg": [
+        "#fefefe",
+        "#4b4645",
+        "#b5878b",
+        "#cbd1c2"
+    ],
+    "lapras.jpg": [
+        "#ababb3",
+        "#58aace",
+        "#fefefe",
+        "#3b4951"
+    ],
+    "walrein.jpg": [
+        "#fcfdfc",
+        "#2d3b42",
+        "#99bcd2",
+        "#4791b3"
+    ],
+    "gyarados.jpg": [
+        "#fefdfd",
+        "#384250",
+        "#4e89bb",
+        "#b1a7a2"
+    ],
+    "wormadam-trash.jpg": [
+        "#fefefe",
+        "#8d6979",
+        "#d38793",
+        "#37292c"
+    ],
+    "xerneas.jpg": [
+        "#fefefd",
+        "#444440",
+        "#6d7ea1",
+        "#cfba92"
+    ],
+    "lillipup.jpg": [
+        "#42342f",
+        "#fefefe",
+        "#c08c67",
+        "#f2d89e"
+    ],
+    "wormadam-sandy.jpg": [
+        "#fefefe",
+        "#2f271f",
+        "#d4c28f",
+        "#957a5d"
+    ],
+    "crobat.jpg": [
+        "#fefefe",
+        "#8d749a",
+        "#49495a",
+        "#60969e"
+    ],
+    "giratina-altered.jpg": [
+        "#fefefe",
+        "#957053",
+        "#3f3b38",
+        "#c1b699"
+    ],
+    "munchlax.jpg": [
+        "#454e56",
+        "#748998",
+        "#eeddbe",
+        "#fefefe"
+    ],
+    "volcanion.jpg": [
+        "#fcfdfd",
+        "#7d2a2e",
+        "#2b2223",
+        "#b18763"
+    ],
+    "gulpin.jpg": [
+        "#bbcea3",
+        "#fefefe",
+        "#2a2e26",
+        "#96b483"
+    ],
+    "purrloin.jpg": [
+        "#cd8e9f",
+        "#302731",
+        "#fefefa",
+        "#755e82"
+    ],
+    "houndoom.jpg": [
+        "#fefefd",
+        "#605551",
+        "#c0aea7",
+        "#30292a"
+    ],
+    "pidgeotto.jpg": [
+        "#fefefd",
+        "#d6c39d",
+        "#342a24",
+        "#a66f62"
+    ],
+    "espurr.jpg": [
+        "#1e1c20",
+        "#fefefe",
+        "#a8a8ba",
+        "#7b7785"
+    ],
+    "tentacool.jpg": [
+        "#fefefe",
+        "#8d5c6e",
+        "#16191d",
+        "#85bcde"
+    ],
+    "oshawott.jpg": [
+        "#fcfcf8",
+        "#5f8d9c",
+        "#9dc3cb",
+        "#2e3238"
+    ],
+    "watchog.jpg": [
+        "#c9bcad",
+        "#f3bf33",
+        "#fdfdfd",
+        "#723a31"
+    ],
+    "lycanroc-midnight.jpg": [
+        "#7d7371",
+        "#40292d",
+        "#fafafa",
+        "#ac3946"
+    ],
+    "murkrow.jpg": [
+        "#fefefe",
+        "#465e76",
+        "#28394a",
+        "#d7bf99"
+    ],
+    "skuntank.jpg": [
+        "#fefefe",
+        "#5c4462",
+        "#b5ab98",
+        "#f6eacb"
+    ],
+    "bibarel.jpg": [
+        "#eedaa6",
+        "#493f38",
+        "#fefefe",
+        "#b08554"
+    ],
+    "slowbro-mega.jpg": [
+        "#fefefd",
+        "#242220",
+        "#d2c6c5",
+        "#908b87"
+    ],
+    "sneasel.jpg": [
+        "#fdfdfd",
+        "#518995",
+        "#354a5b",
+        "#c3868c"
+    ],
+    "lickilicky.jpg": [
+        "#fefdfd",
+        "#dd9296",
+        "#ac7078",
+        "#503737"
+    ],
+    "pyukumuku.jpg": [
+        "#d3658d",
+        "#292424",
+        "#5a4b4c",
+        "#fcfdfd"
+    ],
+    "rotom-frost.jpg": [
+        "#fefefe",
+        "#d67d57",
+        "#543e3e",
+        "#a98cae"
+    ],
+    "seel.jpg": [
+        "#fdfdfe",
+        "#a9a39d",
+        "#393939",
+        "#dfe5ee"
+    ],
+    "weepinbell.jpg": [
+        "#fdfdfd",
+        "#e1d490",
+        "#272722",
+        "#8bb884"
+    ],
+    "rotom-wash.jpg": [
+        "#fdfefe",
+        "#4ca1b7",
+        "#d57a52",
+        "#3b3b36"
+    ],
+    "kommo-o.jpg": [
+        "#a19381",
+        "#5b5244",
+        "#fdfdfd",
+        "#d5c764"
+    ],
+    "talonflame.jpg": [
+        "#fefefe",
+        "#e2844c",
+        "#8a837c",
+        "#504743"
+    ],
+    "vulpix-alolan.jpg": [
+        "#fcfdfe",
+        "#282a2c",
+        "#748a9e",
+        "#d1e1eb"
+    ],
+    "nidorino.jpg": [
+        "#2b232a",
+        "#fefefe",
+        "#927894",
+        "#c3a3c3"
+    ],
+    "steelix-mega.jpg": [
+        "#cbd2dd",
+        "#595e6a",
+        "#fefefd",
+        "#919db2"
+    ],
+    "hariyama.jpg": [
+        "#ba8e7c",
+        "#fcfbfa",
+        "#f3cd88",
+        "#46465a"
+    ],
+    "mimikyu.jpg": [
+        "#fefefe",
+        "#312b25",
+        "#a19070",
+        "#d6ceac"
+    ],
+    "dustox.jpg": [
+        "#fefdfc",
+        "#353325",
+        "#cba4a5",
+        "#8da148"
+    ],
+    "graveler.jpg": [
+        "#64716e",
+        "#fefefe",
+        "#bac1b2",
+        "#2f322e"
+    ],
+    "trapinch.jpg": [
+        "#c8c5c8",
+        "#2c221e",
+        "#fefefe",
+        "#e49673"
+    ],
+    "girafarig.jpg": [
+        "#a97d6b",
+        "#ebaf2f",
+        "#fdfdfd",
+        "#3b2c25"
+    ],
+    "tyrantrum.jpg": [
+        "#bb9d8c",
+        "#fcfcfc",
+        "#9b5853",
+        "#523836"
+    ],
+    "electivire.jpg": [
+        "#e3c786",
+        "#a5916a",
+        "#393735",
+        "#fefefd"
+    ],
+    "poochyena.jpg": [
+        "#fefefe",
+        "#1b1d1e",
+        "#5c5d60",
+        "#b6babc"
+    ],
+    "heracross.jpg": [
+        "#fefefe",
+        "#212c36",
+        "#90a8b8",
+        "#486f90"
+    ],
+    "linoone-galarian.jpg": [
+        "#6e686e",
+        "#fcfcfc",
+        "#34373a",
+        "#b1afaf"
+    ],
+    "minun.jpg": [
+        "#fefefe",
+        "#25292a",
+        "#efe4ac",
+        "#7ab9dd"
+    ],
+    "skitty.jpg": [
+        "#fefefe",
+        "#eca9ae",
+        "#564754",
+        "#f6e0c4"
+    ],
+    "masquerain.jpg": [
+        "#f8fafc",
+        "#9b777b",
+        "#eca78c",
+        "#433a38"
+    ],
+    "marowak-alolan.jpg": [
+        "#fefefe",
+        "#302431",
+        "#96c3b7",
+        "#7b8c86"
+    ],
+    "mawile-mega.jpg": [
+        "#fdfdf9",
+        "#37333d",
+        "#c2889e",
+        "#706971"
+    ],
+    "kadabra.jpg": [
+        "#9e8b37",
+        "#544530",
+        "#fdfdfc",
+        "#e2c73a"
+    ],
+    "swablu.jpg": [
+        "#fdfefe",
+        "#3f525c",
+        "#daeaf3",
+        "#7ec2e5"
+    ],
+    "pineco.jpg": [
+        "#80a097",
+        "#1b222a",
+        "#3d545a",
+        "#fefefe"
+    ],
+    "oricorio-sensu.jpg": [
+        "#c7d4dd",
+        "#5b5669",
+        "#fefefe",
+        "#9996bd"
+    ],
+    "cosmog.jpg": [
+        "#299dd6",
+        "#4c4285",
+        "#fdfdf9",
+        "#1b232c"
+    ],
+    "torracat.jpg": [
+        "#fdfdfd",
+        "#e1774c",
+        "#584a46",
+        "#2a221f"
+    ],
+    "carnivine.jpg": [
+        "#81a25c",
+        "#fefefe",
+        "#bdd593",
+        "#544832"
+    ],
+    "probopass.jpg": [
+        "#6484a4",
+        "#fefefe",
+        "#bf6d64",
+        "#383338"
+    ],
+    "skiploom.jpg": [
+        "#dedb7f",
+        "#fdfefd",
+        "#262c1b",
+        "#86aa3a"
+    ],
+    "kyurem.jpg": [
+        "#c9dddf",
+        "#555960",
+        "#fefefe",
+        "#939a9b"
+    ],
+    "chesnaught.jpg": [
+        "#fefefe",
+        "#594d39",
+        "#edeac9",
+        "#a5b089"
+    ],
+    "primeape.jpg": [
+        "#bfa89b",
+        "#876e65",
+        "#fcf9f7",
+        "#2b2624"
+    ],
+    "vanillish.jpg": [
+        "#fafcfd",
+        "#4e5c74",
+        "#b6cde4",
+        "#75a4d0"
+    ],
+    "ledian.jpg": [
+        "#fcfdfb",
+        "#38393b",
+        "#b74a57",
+        "#d9cca4"
+    ],
+    "garchomp-mega.jpg": [
+        "#768aa8",
+        "#465168",
+        "#b86036",
+        "#fdfdfd"
+    ],
+    "shiinotic.jpg": [
+        "#fefefe",
+        "#ac87a7",
+        "#ecdbce",
+        "#494344"
+    ],
+    "popplio.jpg": [
+        "#fefefe",
+        "#3f4c6f",
+        "#5879b2",
+        "#adbed1"
+    ],
+    "cherrim.jpg": [
+        "#8e5f84",
+        "#fefefe",
+        "#39a13f",
+        "#563c5e"
+    ],
+    "sandslash-alolan.jpg": [
+        "#b6cede",
+        "#799cb9",
+        "#fdfefe",
+        "#373a40"
+    ],
+    "magby.jpg": [
+        "#fefefe",
+        "#2d2621",
+        "#e5b395",
+        "#c96b6d"
+    ],
+    "ursaring.jpg": [
+        "#d2b988",
+        "#5a4132",
+        "#9e6e54",
+        "#fdfdfd"
+    ],
+    "smeargle.jpg": [
+        "#695435",
+        "#eee2d2",
+        "#bbb09e",
+        "#fefefe"
+    ],
+    "gardevoir.jpg": [
+        "#a3c99f",
+        "#fcfcfd",
+        "#819371",
+        "#384035"
+    ],
+    "snorunt.jpg": [
+        "#3d3c3b",
+        "#fdfdfd",
+        "#f0d99d",
+        "#de956b"
+    ],
+    "samurott.jpg": [
+        "#fdfdfd",
+        "#3c4249",
+        "#446a9b",
+        "#cdc69c"
+    ],
+    "necrozma.jpg": [
+        "#fdfdfd",
+        "#272728",
+        "#635f5e",
+        "#b3b0ad"
+    ],
+    "pinsir.jpg": [
+        "#fdfdfd",
+        "#706665",
+        "#b9afb2",
+        "#282525"
+    ],
+    "stunky.jpg": [
+        "#fefefe",
+        "#66506c",
+        "#e7d7bc",
+        "#413142"
+    ],
+    "corsola-galarian.jpg": [
+        "#fefefe",
+        "#a09f9e",
+        "#e5e1df",
+        "#2d2b2c"
+    ],
+    "scyther.jpg": [
+        "#fcfcfb",
+        "#353f33",
+        "#aacca2",
+        "#7b9b78"
+    ],
+    "swadloon.jpg": [
+        "#d5d766",
+        "#92ba37",
+        "#fefefe",
+        "#3d6c36"
+    ],
+    "delibird.jpg": [
+        "#fbfafb",
+        "#2f2924",
+        "#bd4638",
+        "#c4bbb1"
+    ],
+    "oranguru.jpg": [
+        "#fcfcfd",
+        "#787678",
+        "#bab6b4",
+        "#3a2d3b"
+    ],
+    "drapion.jpg": [
+        "#b693b0",
+        "#fdfdfd",
+        "#432648",
+        "#78537d"
+    ],
+    "hippowdon.jpg": [
+        "#cab788",
+        "#87735f",
+        "#443f3c",
+        "#fdfdfd"
+    ],
+    "smoochum.jpg": [
+        "#bb8182",
+        "#f0e1a1",
+        "#2b2a24",
+        "#fefefd"
+    ],
+    "geodude.jpg": [
+        "#fdfdfe",
+        "#7e7582",
+        "#b3b3ae",
+        "#3c343b"
+    ],
+    "foongus.jpg": [
+        "#c7aea6",
+        "#946f64",
+        "#4b3f37",
+        "#fbf9f4"
+    ],
+    "haxorus.jpg": [
+        "#a49c3b",
+        "#453f39",
+        "#fefefe",
+        "#8b6331"
+    ],
+    "abomasnow-mega.jpg": [
+        "#b0bacb",
+        "#f9fafb",
+        "#444c4f",
+        "#708b8f"
+    ],
+    "crabrawler.jpg": [
+        "#fdfdfa",
+        "#17b0d0",
+        "#917e90",
+        "#365267"
+    ],
+    "umbreon.jpg": [
+        "#fefefe",
+        "#4b585d",
+        "#dabf84",
+        "#2b3234"
+    ],
+    "magcargo.jpg": [
+        "#d16452",
+        "#7d7e8e",
+        "#fdfdf8",
+        "#32251f"
+    ],
+    "boldore.jpg": [
+        "#c66a47",
+        "#444e70",
+        "#fefefe",
+        "#2d2e42"
+    ],
+    "genesect.jpg": [
+        "#fcfbfc",
+        "#6e4f76",
+        "#aa86ab",
+        "#281e28"
+    ],
+    "reuniclus.jpg": [
+        "#dde7c8",
+        "#99c59d",
+        "#fefefe",
+        "#788d75"
+    ],
+    "froslass.jpg": [
+        "#fbfaf8",
+        "#272729",
+        "#adc4c9",
+        "#956b6c"
+    ],
+    "pheromosa.jpg": [
+        "#fefefd",
+        "#e7e0d7",
+        "#cac1b3",
+        "#a28f74"
+    ],
+    "honedge.jpg": [
+        "#fefefe",
+        "#877e72",
+        "#31475d",
+        "#9eccdd"
+    ],
+    "servine.jpg": [
+        "#fdfdfb",
+        "#58a253",
+        "#bcbd80",
+        "#2b3623"
+    ],
+    "zubat.jpg": [
+        "#fefefe",
+        "#5571a3",
+        "#b84dd7",
+        "#292641"
+    ],
+    "entei.jpg": [
+        "#6f442e",
+        "#c9c6ae",
+        "#888b8c",
+        "#fefefe"
+    ],
+    "kyogre-primal.jpg": [
+        "#fdfefe",
+        "#444179",
+        "#d6dbc9",
+        "#77789e"
+    ],
+    "klefki.jpg": [
+        "#fefefe",
+        "#4d4345",
+        "#aa958a",
+        "#d5d9d7"
+    ],
+    "vivillon.jpg": [
+        "#d98db3",
+        "#be506c",
+        "#fdfbfc",
+        "#4e4645"
+    ],
+    "aggron-mega.jpg": [
+        "#fafafb",
+        "#707988",
+        "#9ea2ad",
+        "#40454e"
+    ],
+    "snorlax.jpg": [
+        "#27596b",
+        "#ded3c9",
+        "#6b8f9b",
+        "#fefefd"
+    ],
+    "persian.jpg": [
+        "#fefefe",
+        "#585148",
+        "#eedcb8",
+        "#beaf96"
+    ],
+    "beartic.jpg": [
+        "#f8fbfc",
+        "#95969a",
+        "#c0cfe1",
+        "#5a595d"
+    ],
+    "lopunny.jpg": [
+        "#fefefe",
+        "#9d735c",
+        "#e6d19f",
+        "#403227"
+    ],
+    "snivy.jpg": [
+        "#fcfcf5",
+        "#4a8c57",
+        "#cbc16c",
+        "#1b2015"
+    ],
+    "sealeo.jpg": [
+        "#fcfcfa",
+        "#34444b",
+        "#dbceba",
+        "#63b8e0"
+    ],
+    "cherubi.jpg": [
+        "#fefefd",
+        "#3f9f46",
+        "#312823",
+        "#d56374"
+    ],
+    "regirock.jpg": [
+        "#c9bebb",
+        "#a37e7a",
+        "#3a3130",
+        "#fefefe"
+    ],
+    "wooper.jpg": [
+        "#fefefe",
+        "#282f36",
+        "#9b9ba8",
+        "#add0e4"
+    ],
+    "barboach.jpg": [
+        "#bbc1c4",
+        "#fdfefe",
+        "#1d2427",
+        "#6faecd"
+    ],
+    "mismagius.jpg": [
+        "#ca8eb5",
+        "#4b3b56",
+        "#fefefe",
+        "#846894"
+    ],
+    "vileplume.jpg": [
+        "#d88b9a",
+        "#fefcfd",
+        "#3e4c6a",
+        "#c25e78"
+    ],
+    "blastoise.jpg": [
+        "#fcfcfd",
+        "#726257",
+        "#6b90bc",
+        "#c6c1be"
+    ],
+    "litten.jpg": [
+        "#fdfdfd",
+        "#3d404a",
+        "#db5d4d",
+        "#f0de1c"
+    ],
+    "escavalier.jpg": [
+        "#d3c3bc",
+        "#9e8e82",
+        "#93444c",
+        "#fefefe"
+    ],
+    "aegislash-blade.jpg": [
+        "#fdfdfd",
+        "#978972",
+        "#cec19c",
+        "#433e3a"
+    ],
+    "larvesta.jpg": [
+        "#b9b7b5",
+        "#3f3936",
+        "#fcfcfd",
+        "#b67154"
+    ],
+    "golett.jpg": [
+        "#89b2aa",
+        "#fefdf9",
+        "#557572",
+        "#2a312f"
+    ],
+    "kartana.jpg": [
+        "#fefefd",
+        "#755742",
+        "#e8ae36",
+        "#b6bab6"
+    ],
+    "voltorb.jpg": [
+        "#d0c6d5",
+        "#32242b",
+        "#fbfcfc",
+        "#d4848a"
+    ],
+    "meloetta-pirouette.jpg": [
+        "#372b28",
+        "#ea906e",
+        "#938482",
+        "#fdfdfd"
+    ],
+    "eelektrik.jpg": [
+        "#fefdfb",
+        "#445369",
+        "#d1c78a",
+        "#bc6657"
+    ],
+    "lycanroc-dusk.jpg": [
+        "#fdfdfd",
+        "#4f4440",
+        "#be6b38",
+        "#ad9f97"
+    ],
+    "magikarp.jpg": [
+        "#a55b48",
+        "#fbfbfc",
+        "#ef8e66",
+        "#331f19"
+    ],
+    "quilava.jpg": [
+        "#cf9250",
+        "#fefefe",
+        "#f9e3a3",
+        "#4e625e"
+    ],
+    "whimsicott.jpg": [
+        "#faf8e9",
+        "#7d8b5d",
+        "#bdb496",
+        "#353226"
+    ],
+    "houndour.jpg": [
+        "#b9998e",
+        "#565351",
+        "#fcfbfb",
+        "#262323"
+    ],
+    "rattata.jpg": [
+        "#fefefd",
+        "#352d33",
+        "#d2c1b7",
+        "#9e82ad"
+    ],
+    "gothorita.jpg": [
+        "#bab0b6",
+        "#39383c",
+        "#fdfdfd",
+        "#202021"
+    ],
+    "starly.jpg": [
+        "#fefefe",
+        "#907669",
+        "#dbd7d4",
+        "#3b3330"
+    ],
+    "bewear.jpg": [
+        "#fefefe",
+        "#95767b",
+        "#3b3634",
+        "#e4a3b0"
+    ],
+    "rotom-mow.jpg": [
+        "#fdfdfd",
+        "#d87b4e",
+        "#424534",
+        "#acbd66"
+    ],
+    "mewtwo-mega-y.jpg": [
+        "#fefefe",
+        "#5a4555",
+        "#e0dde6",
+        "#ac8c9b"
+    ],
+    "stakataka.jpg": [
+        "#fdfefe",
+        "#51514c",
+        "#7f8785",
+        "#292a28"
+    ],
+    "ambipom.jpg": [
+        "#f1e1ac",
+        "#b7879b",
+        "#68516b",
+        "#fefefe"
+    ],
+    "spoink.jpg": [
+        "#b2a7a9",
+        "#fdfcfc",
+        "#1a191a",
+        "#7b797f"
+    ],
+    "sharpedo-mega.jpg": [
+        "#fefefe",
+        "#40404a",
+        "#627895",
+        "#cbc1b8"
+    ],
+    "hypno.jpg": [
+        "#c5b057",
+        "#f5d95f",
+        "#484130",
+        "#fafafb"
+    ],
+    "weedle.jpg": [
+        "#fcfdfd",
+        "#af8953",
+        "#292020",
+        "#c89895"
+    ],
+    "seedot.jpg": [
+        "#aea499",
+        "#77726f",
+        "#fbf8f1",
+        "#1b1918"
+    ],
+    "gyarados-mega.jpg": [
+        "#fefefe",
+        "#157fa9",
+        "#d8d1a1",
+        "#4f4849"
+    ],
+    "skiddo.jpg": [
+        "#fcfcfd",
+        "#02814b",
+        "#7c7769",
+        "#443c38"
+    ],
+    "garchomp.jpg": [
+        "#fdfdfd",
+        "#656e8d",
+        "#d47949",
+        "#404257"
+    ],
+    "drowzee.jpg": [
+        "#7c756e",
+        "#ecc758",
+        "#4e4942",
+        "#fdfdfc"
+    ],
+    "clamperl.jpg": [
+        "#060708",
+        "#fcfcfd",
+        "#53719a",
+        "#b3c4da"
+    ],
+    "claydol.jpg": [
+        "#5b5958",
+        "#fdfdfd",
+        "#e0a5a1",
+        "#353434"
+    ],
+    "nuzleaf.jpg": [
+        "#fbfbf9",
+        "#24211e",
+        "#bbb7a9",
+        "#907c6b"
+    ],
+    "darmanitan-zen.jpg": [
+        "#a9c3cf",
+        "#3a5b69",
+        "#fdfdfd",
+        "#66a1bc"
+    ],
+    "swanna.jpg": [
+        "#fbfcfa",
+        "#696f77",
+        "#242627",
+        "#aec1d1"
+    ],
+    "primarina.jpg": [
+        "#cbccdb",
+        "#1a6999",
+        "#fefefe",
+        "#7aa4b4"
+    ],
+    "slowpoke-galarian.jpg": [
+        "#5b4c43",
+        "#dfb0bb",
+        "#fefefd",
+        "#ede129"
+    ],
+    "zangoose.jpg": [
+        "#fdfdfe",
+        "#c26671",
+        "#453b3c",
+        "#dbdce9"
+    ],
+    "tyranitar.jpg": [
+        "#adb794",
+        "#797e62",
+        "#37392f",
+        "#fefefe"
+    ],
+    "necrozma-ultra.jpg": [
+        "#fefefc",
+        "#d3c975",
+        "#edebd8",
+        "#dcd6a7"
+    ],
+    "magnezone.jpg": [
+        "#fefefd",
+        "#333538",
+        "#5c6b7b",
+        "#bbbab5"
+    ],
+    "beldum.jpg": [
+        "#fdfefd",
+        "#6f9bb3",
+        "#9fbbcb",
+        "#1a2126"
+    ],
+    "glameow.jpg": [
+        "#fcfcfc",
+        "#6c7282",
+        "#9e9aa8",
+        "#303137"
+    ],
+    "incineroar.jpg": [
+        "#8a8989",
+        "#fefefe",
+        "#df5e48",
+        "#4f3732"
+    ],
+    "meganium.jpg": [
+        "#fdfcfc",
+        "#b9c381",
+        "#e36b81",
+        "#55533f"
+    ],
+    "lileep.jpg": [
+        "#e4bab5",
+        "#9480a6",
+        "#fefefe",
+        "#292526"
+    ],
+    "pachirisu.jpg": [
+        "#fafcfd",
+        "#222528",
+        "#a0cad9",
+        "#9a9882"
+    ],
+    "frillish.jpg": [
+        "#fdfefe",
+        "#84b1cb",
+        "#c2e3e9",
+        "#3f7690"
+    ],
+    "pikipek.jpg": [
+        "#fdfdfc",
+        "#a25a50",
+        "#383733",
+        "#b3afb1"
+    ],
+    "mewtwo-mega-x.jpg": [
+        "#e1dde6",
+        "#524750",
+        "#fefefe",
+        "#a58c99"
+    ],
+    "honchkrow.jpg": [
+        "#b9b4a5",
+        "#8f2a2f",
+        "#22435b",
+        "#fefdfd"
+    ],
+    "tympole.jpg": [
+        "#71a6bd",
+        "#fefefe",
+        "#393838",
+        "#ecd6a9"
+    ],
+    "cutiefly.jpg": [
+        "#fefefd",
+        "#37312c",
+        "#ece19c",
+        "#c8ac7d"
+    ],
+    "wobbuffet.jpg": [
+        "#fdfdfd",
+        "#78bad8",
+        "#493e3f",
+        "#6890a5"
+    ],
+    "delphox.jpg": [
+        "#ddcf92",
+        "#c87950",
+        "#fefefe",
+        "#954c3a"
+    ],
+    "groudon.jpg": [
+        "#a68784",
+        "#c43e2b",
+        "#372627",
+        "#fafafb"
+    ],
+    "exeggutor.jpg": [
+        "#fefdfc",
+        "#353e32",
+        "#c8c3aa",
+        "#779e78"
+    ],
+    "gigalith.jpg": [
+        "#fefefe",
+        "#594f65",
+        "#2d2734",
+        "#cb6457"
+    ],
+    "marowak.jpg": [
+        "#fdfdfc",
+        "#a58a6d",
+        "#ccc9c8",
+        "#252220"
+    ],
+    "emboar.jpg": [
+        "#c46f4e",
+        "#eec246",
+        "#fcfcfc",
+        "#48423f"
+    ],
+    "mesprit.jpg": [
+        "#c68fa7",
+        "#fefefe",
+        "#b2cde4",
+        "#3b373b"
+    ],
+    "magneton.jpg": [
+        "#a3becc",
+        "#fafbfc",
+        "#888694",
+        "#3a373f"
+    ],
+    "metapod.jpg": [
+        "#fefefe",
+        "#182114",
+        "#a3d360",
+        "#78a341"
+    ],
+    "golisopod.jpg": [
+        "#d4ded7",
+        "#414140",
+        "#fefefe",
+        "#8b8c8a"
+    ],
+    "dragonite.jpg": [
+        "#d9aa72",
+        "#fcfbf7",
+        "#4f4739",
+        "#399c91"
+    ],
+    "gogoat.jpg": [
+        "#9f9076",
+        "#5c4b3c",
+        "#02814b",
+        "#fdfdfd"
+    ],
+    "jolteon.jpg": [
+        "#fbfcfc",
+        "#c1ac74",
+        "#261e1f",
+        "#f7d475"
+    ],
+    "moltres.jpg": [
+        "#f1c787",
+        "#5c4d3f",
+        "#d89973",
+        "#fefefe"
+    ],
+    "darumaka-galarian.jpg": [
+        "#fcfdfd",
+        "#6b9fb5",
+        "#b2c3c9",
+        "#2c383f"
+    ],
+    "golurk.jpg": [
+        "#fefdfc",
+        "#5c7c79",
+        "#96b1a4",
+        "#383f3c"
+    ],
+    "meowth-alolan.jpg": [
+        "#fdfdfd",
+        "#353840",
+        "#9c9590",
+        "#c3c4d3"
+    ],
+    "slaking.jpg": [
+        "#8a7766",
+        "#f5f4f3",
+        "#3b332d",
+        "#bbac9e"
+    ],
+    "pelipper.jpg": [
+        "#ecd494",
+        "#fbfbfc",
+        "#2f302f",
+        "#87a9c0"
+    ],
+    "solrock.jpg": [
+        "#fefefe",
+        "#eac985",
+        "#3a2d21",
+        "#ba774a"
+    ],
+    "paras.jpg": [
+        "#fcfcfd",
+        "#2e2522",
+        "#e3a07d",
+        "#af765e"
+    ],
+    "hitmonlee.jpg": [
+        "#fefefe",
+        "#4a4442",
+        "#c8b9ae",
+        "#a0908c"
+    ],
+    "noctowl.jpg": [
+        "#a9876f",
+        "#fefefe",
+        "#503d35",
+        "#deceaa"
+    ],
+    "simisage.jpg": [
+        "#bbc690",
+        "#41a76d",
+        "#31573c",
+        "#fefefe"
+    ],
+    "espeon.jpg": [
+        "#fefefe",
+        "#d9bdd2",
+        "#43434f",
+        "#ad95a7"
+    ],
+    "landorus-incarnate.jpg": [
+        "#f7f8fa",
+        "#dd885c",
+        "#887e7f",
+        "#57453c"
+    ],
+    "mantyke.jpg": [
+        "#fefefe",
+        "#3b7bb5",
+        "#1f2630",
+        "#98bfce"
+    ],
+    "exploud.jpg": [
+        "#a09fc4",
+        "#5d4458",
+        "#fcfcfc",
+        "#e5ca8a"
+    ],
+    "malamar.jpg": [
+        "#fdfefd",
+        "#4b4757",
+        "#c6c4cb",
+        "#8d789b"
+    ],
+    "grimer-alolan.jpg": [
+        "#fefefe",
+        "#7b9d7e",
+        "#3d5643",
+        "#faec18"
+    ],
+    "tangrowth.jpg": [
+        "#6e8dab",
+        "#fefefe",
+        "#3b3e45",
+        "#bd4e6e"
+    ],
+    "registeel.jpg": [
+        "#fefefe",
+        "#333537",
+        "#c4c5c8",
+        "#7f8189"
+    ],
+    "slurpuff.jpg": [
+        "#dcbcc9",
+        "#fcfcfd",
+        "#261e20",
+        "#ad6078"
+    ],
+    "fomantis.jpg": [
+        "#fcf6f7",
+        "#31392e",
+        "#ce787f",
+        "#73b597"
+    ],
+    "arcanine.jpg": [
+        "#dbc1a0",
+        "#bb865f",
+        "#fefefe",
+        "#45403c"
+    ],
+    "spheal.jpg": [
+        "#23262b",
+        "#eee6d1",
+        "#7a8eba",
+        "#fefefe"
+    ],
+    "seadra.jpg": [
+        "#fdfefe",
+        "#7cb1df",
+        "#353f48",
+        "#c2c5a4"
+    ],
+    "patrat.jpg": [
+        "#ad8558",
+        "#fefefe",
+        "#dbcfbd",
+        "#3b3027"
+    ],
+    "ralts.jpg": [
+        "#a5c49a",
+        "#f8f8fa",
+        "#191a17",
+        "#83895e"
+    ],
+    "lotad.jpg": [
+        "#fdfcf7",
+        "#648462",
+        "#7ba983",
+        "#141b15"
+    ],
+    "komala.jpg": [
+        "#b9c4c7",
+        "#7d756d",
+        "#fdfefe",
+        "#373533"
+    ],
+    "eelektross.jpg": [
+        "#fefefe",
+        "#495970",
+        "#b59478",
+        "#eee8a9"
+    ],
+    "weezing-galarian.jpg": [
+        "#fcfdfd",
+        "#98a482",
+        "#2b2a28",
+        "#686663"
+    ],
+    "poliwhirl.jpg": [
+        "#f8f9fc",
+        "#17191c",
+        "#b5bed0",
+        "#6082ab"
+    ],
+    "meowstic-female.jpg": [
+        "#fcfcfd",
+        "#252830",
+        "#455a8a",
+        "#b6b0af"
+    ],
+    "palpitoad.jpg": [
+        "#fefefe",
+        "#3e3d3e",
+        "#437aa2",
+        "#c7d0b6"
+    ],
+    "sharpedo.jpg": [
+        "#fefefe",
+        "#035981",
+        "#4f3544",
+        "#c5c1d1"
+    ],
+    "kyogre.jpg": [
+        "#fdfefe",
+        "#984953",
+        "#0667a7",
+        "#b9ccdc"
+    ],
+    "sylveon.jpg": [
+        "#fbfcfd",
+        "#e6a5b3",
+        "#473c40",
+        "#8497b3"
+    ],
+    "bronzor.jpg": [
+        "#fefefe",
+        "#275a6a",
+        "#e7c375",
+        "#4891a3"
+    ],
+    "wishiwashi-solo.jpg": [
+        "#fdfdfe",
+        "#28272c",
+        "#c5cacb",
+        "#6381a2"
+    ],
+    "aerodactyl.jpg": [
+        "#fefefe",
+        "#554951",
+        "#d0cbd8",
+        "#a091a7"
+    ],
+    "prinplup.jpg": [
+        "#fefefe",
+        "#3a5272",
+        "#97b9bd",
+        "#c69d38"
+    ],
+    "diancie.jpg": [
+        "#fdfcfd",
+        "#47404a",
+        "#d3bac8",
+        "#a08ca1"
+    ],
+    "helioptile.jpg": [
+        "#fefefe",
+        "#717573",
+        "#efda76",
+        "#3d3b37"
+    ],
+    "fearow.jpg": [
+        "#d6c3af",
+        "#b58253",
+        "#fefefe",
+        "#5c4739"
+    ],
+    "poipole.jpg": [
+        "#cc639e",
+        "#fcfcfd",
+        "#2e2342",
+        "#624590"
+    ],
+    "pansear.jpg": [
+        "#f1da93",
+        "#d67c61",
+        "#fefefe",
+        "#422e28"
+    ],
+    "wormadam-plant.jpg": [
+        "#fdfdfd",
+        "#203122",
+        "#4a8c46",
+        "#748e6e"
+    ],
+    "phione.jpg": [
+        "#fefefe",
+        "#2c393e",
+        "#75bfce",
+        "#5f95a5"
+    ],
+    "rhyperior.jpg": [
+        "#8a7a78",
+        "#fcfcfc",
+        "#4f403c",
+        "#c86a26"
+    ],
+    "spearow.jpg": [
+        "#d3baac",
+        "#fefdfd",
+        "#b86f5e",
+        "#392b27"
+    ],
+    "happiny.jpg": [
+        "#c4979a",
+        "#eed0cf",
+        "#352b2b",
+        "#fdfdfc"
+    ],
+    "pancham.jpg": [
+        "#b7b49b",
+        "#606269",
+        "#fcfaef",
+        "#323133"
+    ],
+    "dwebble.jpg": [
+        "#e29457",
+        "#7b6f69",
+        "#fdfdfd",
+        "#2b2521"
+    ],
+    "bruxish.jpg": [
+        "#96cedb",
+        "#fefefe",
+        "#9a608f",
+        "#d1cb53"
+    ],
+    "joltik.jpg": [
+        "#f4db6e",
+        "#b29c52",
+        "#fefefe",
+        "#3b4357"
+    ],
+    "armaldo.jpg": [
+        "#fcfcfc",
+        "#434143",
+        "#839ebd",
+        "#e2b486"
+    ],
+    "feebas.jpg": [
+        "#fefefe",
+        "#8b9695",
+        "#1c1c1b",
+        "#d1c2a7"
+    ],
+    "ponyta-galarian.jpg": [
+        "#ccc7d6",
+        "#fefefe",
+        "#46384b",
+        "#86a6bf"
+    ],
+    "metagross.jpg": [
+        "#5b8095",
+        "#fdfdfd",
+        "#2d3d49",
+        "#93b3c1"
+    ],
+    "maractus.jpg": [
+        "#8fb861",
+        "#fefefe",
+        "#2c5850",
+        "#db8bad"
+    ],
+    "quilladin.jpg": [
+        "#bfbc70",
+        "#827d50",
+        "#fefefe",
+        "#523a24"
+    ],
+    "chimchar.jpg": [
+        "#fefefe",
+        "#cf7b3b",
+        "#e7d39b",
+        "#33281e"
+    ],
+    "staryu.jpg": [
+        "#ddc77b",
+        "#8d7450",
+        "#fefefd",
+        "#2c241a"
+    ],
+    "muk.jpg": [
+        "#fefefe",
+        "#6d5e71",
+        "#a997c0",
+        "#232023"
+    ],
+    "empoleon.jpg": [
+        "#2b2f32",
+        "#fdfdfd",
+        "#5980b0",
+        "#caa66f"
+    ],
+    "diglett.jpg": [
+        "#c8bab5",
+        "#23201d",
+        "#fefdfe",
+        "#a18a78"
+    ],
+    "krokorok.jpg": [
+        "#fefefe",
+        "#3d3a38",
+        "#cea686",
+        "#90765f"
+    ],
+    "scizor.jpg": [
+        "#fdfdfd",
+        "#af4542",
+        "#3b2e2b",
+        "#b58484"
+    ],
+    "glalie-mega.jpg": [
+        "#7d8f9e",
+        "#39404c",
+        "#fdfefe",
+        "#c3d2e1"
+    ],
+    "noivern.jpg": [
+        "#fcfcfc",
+        "#676d70",
+        "#4b3e40",
+        "#8d70a4"
+    ],
+    "herdier.jpg": [
+        "#f3e4be",
+        "#4a495f",
+        "#c9926e",
+        "#fefefe"
+    ],
+    "pidgeot-mega.jpg": [
+        "#9b9d95",
+        "#c8716e",
+        "#4c5156",
+        "#fcfdfb"
+    ],
+    "whiscash.jpg": [
+        "#fefefe",
+        "#c8b488",
+        "#344068",
+        "#91c6e5"
+    ],
+    "tynamo.jpg": [
+        "#f7fafb",
+        "#7e787f",
+        "#b9c7d5",
+        "#292423"
+    ],
+    "gorebyss.jpg": [
+        "#fefefe",
+        "#ba92b1",
+        "#52444c",
+        "#eebbcd"
+    ],
+    "klink.jpg": [
+        "#cacbd5",
+        "#687673",
+        "#303235",
+        "#fefefe"
+    ],
+    "gallade-mega.jpg": [
+        "#fdfdfd",
+        "#94c9d2",
+        "#8b9092",
+        "#4c5e5a"
+    ],
+    "greninja.jpg": [
+        "#fdfdfc",
+        "#343e76",
+        "#808196",
+        "#d9969e"
+    ],
+    "throh.jpg": [
+        "#b3aea4",
+        "#463f3d",
+        "#ab6c66",
+        "#fafaf8"
+    ],
+    "abomasnow.jpg": [
+        "#c4c1cb",
+        "#384446",
+        "#fdfdfd",
+        "#6d8e88"
+    ],
+    "bronzong.jpg": [
+        "#fdfefd",
+        "#5c8180",
+        "#82bcb4",
+        "#2a3639"
+    ],
+    "kyurem-white.jpg": [
+        "#fdfdfd",
+        "#898b89",
+        "#bdc2c1",
+        "#5a5b5b"
+    ],
+    "hoppip.jpg": [
+        "#e390a7",
+        "#3c3c2b",
+        "#fefefe",
+        "#a0ad60"
+    ],
+    "lunatone.jpg": [
+        "#fefefe",
+        "#1d1b19",
+        "#e5dbb7",
+        "#c6b78f"
+    ],
+    "machoke.jpg": [
+        "#8a848a",
+        "#fefefe",
+        "#afb3e1",
+        "#41332f"
+    ],
+    "arceus.jpg": [
+        "#fbfbfb",
+        "#8e845d",
+        "#454335",
+        "#b2b2af"
+    ],
+    "mareanie.jpg": [
+        "#9bd0d5",
+        "#374348",
+        "#fefdfd",
+        "#968bac"
+    ],
+    "bastiodon.jpg": [
+        "#d4c49d",
+        "#42403f",
+        "#fcfcfc",
+        "#7c7a76"
+    ],
+    "mandibuzz.jpg": [
+        "#c5aa99",
+        "#4e4441",
+        "#fefdfd",
+        "#907c74"
+    ],
+    "slowbro.jpg": [
+        "#3e353c",
+        "#e4afc0",
+        "#ab7a8a",
+        "#fbfbfa"
+    ],
+    "cosmoem.jpg": [
+        "#fefefe",
+        "#363859",
+        "#e3df8d",
+        "#a89265"
+    ],
+    "vaporeon.jpg": [
+        "#fcfcfb",
+        "#2a3f4a",
+        "#8fc9d4",
+        "#6295a4"
+    ],
+    "porygon-z.jpg": [
+        "#fefefd",
+        "#5b9cb5",
+        "#ca666c",
+        "#302a2e"
+    ],
+    "glalie.jpg": [
+        "#5f6569",
+        "#f9fafb",
+        "#0b0b0c",
+        "#c0c7d9"
+    ],
+    "numel.jpg": [
+        "#fdfbf6",
+        "#f7db93",
+        "#373329",
+        "#94af8d"
+    ],
+    "deoxys-speed.jpg": [
+        "#7c9fa1",
+        "#56534f",
+        "#cb7d5a",
+        "#fdfdfd"
+    ],
+    "skarmory.jpg": [
+        "#fefefe",
+        "#a0a2b0",
+        "#d1d7e7",
+        "#7a4045"
+    ],
+    "lopunny-mega.jpg": [
+        "#fefefe",
+        "#5a4640",
+        "#a18070",
+        "#f0e4bd"
+    ],
+    "remoraid.jpg": [
+        "#fdfdfc",
+        "#84968b",
+        "#becebe",
+        "#242a25"
+    ],
+    "nihilego.jpg": [
+        "#fefefe",
+        "#7a88a7",
+        "#dfe8e9",
+        "#a5b6cb"
+    ],
+    "hitmontop.jpg": [
+        "#fdfdfd",
+        "#ae8e78",
+        "#6089b0",
+        "#3a3834"
+    ],
+    "dugtrio.jpg": [
+        "#b5a5a4",
+        "#272322",
+        "#fefefe",
+        "#937d71"
+    ],
+    "flygon.jpg": [
+        "#fefefe",
+        "#afcc9c",
+        "#5b584a",
+        "#da7a83"
+    ],
+    "diancie-mega.jpg": [
+        "#fdfcfd",
+        "#786c6c",
+        "#ecdade",
+        "#dcb1c2"
+    ],
+    "magearna.jpg": [
+        "#fefefd",
+        "#342e2a",
+        "#dbd5ce",
+        "#998e86"
+    ],
+    "marill.jpg": [
+        "#a7c1ce",
+        "#46abdb",
+        "#6b433e",
+        "#fefefe"
+    ],
+    "torchic.jpg": [
+        "#f4d375",
+        "#fefefe",
+        "#2f271f",
+        "#ec9f44"
+    ],
+    "treecko.jpg": [
+        "#fefefe",
+        "#303523",
+        "#8fad68",
+        "#d1d289"
+    ],
+    "hoopa-unbound.jpg": [
+        "#fefefe",
+        "#98788b",
+        "#5c4552",
+        "#bdcccb"
+    ],
+    "dunsparce.jpg": [
+        "#eedd7f",
+        "#222620",
+        "#679b9a",
+        "#fefdfa"
+    ],
+    "kabutops.jpg": [
+        "#fbfafa",
+        "#a98a6f",
+        "#1c1614",
+        "#6e5546"
+    ],
+    "ducklett.jpg": [
+        "#fefefe",
+        "#839b8d",
+        "#b9ddd9",
+        "#262926"
+    ],
+    "latios-mega.jpg": [
+        "#fefefe",
+        "#625b79",
+        "#918dbe",
+        "#d4d4d6"
+    ],
+    "plusle.jpg": [
+        "#fefefe",
+        "#bc6268",
+        "#efe8bd",
+        "#271b1b"
+    ],
+    "poliwag.jpg": [
+        "#a9bcd3",
+        "#fbfbfc",
+        "#181b1f",
+        "#5d7ca3"
+    ],
+    "crustle.jpg": [
+        "#fefefe",
+        "#705646",
+        "#b08f6f",
+        "#3b312a"
+    ],
+    "kecleon.jpg": [
+        "#e5dfab",
+        "#fefefe",
+        "#4f4938",
+        "#acbe76"
+    ],
+    "shuppet.jpg": [
+        "#fdfdfd",
+        "#0a0b0e",
+        "#838baf",
+        "#5e627f"
+    ],
+    "cranidos.jpg": [
+        "#8c9db5",
+        "#6f7483",
+        "#202025",
+        "#fdfdfd"
+    ],
+    "pidgeot.jpg": [
+        "#b67e61",
+        "#fefefe",
+        "#decfa8",
+        "#3f342b"
+    ],
+    "sandshrew-alolan.jpg": [
+        "#f9fcfd",
+        "#2d3037",
+        "#949ab4",
+        "#ccdfe5"
+    ],
+    "litwick.jpg": [
+        "#fbfcfd",
+        "#acb6d6",
+        "#25252a",
+        "#7e84b6"
+    ],
+    "drilbur.jpg": [
+        "#b8a39d",
+        "#fdfcfc",
+        "#423937",
+        "#645e65"
+    ],
+    "sandslash.jpg": [
+        "#fcfcfd",
+        "#583d15",
+        "#d6c37b",
+        "#98844a"
+    ],
+    "ribombee.jpg": [
+        "#fdfefd",
+        "#856a48",
+        "#d9c386",
+        "#2c2521"
+    ],
+    "cacnea.jpg": [
+        "#fefefe",
+        "#779a71",
+        "#2c332d",
+        "#bacf9e"
+    ],
+    "slugma.jpg": [
+        "#fefefe",
+        "#d96654",
+        "#ecae84",
+        "#34271f"
+    ],
+    "silvally.jpg": [
+        "#fbfbfc",
+        "#33302f",
+        "#abacb0",
+        "#526069"
+    ],
+    "jirachi.jpg": [
+        "#f9f9fa",
+        "#52b1b3",
+        "#343733",
+        "#f6e09c"
+    ],
+    "oddish.jpg": [
+        "#4e769d",
+        "#fefefe",
+        "#49a634",
+        "#284320"
+    ],
+    "whirlipede.jpg": [
+        "#fefefe",
+        "#73676f",
+        "#a79cad",
+        "#363233"
+    ],
+    "kangaskhan.jpg": [
+        "#d2c3a6",
+        "#fdfdfc",
+        "#463d39",
+        "#9b837c"
+    ],
+    "chingling.jpg": [
+        "#fbfcfd",
+        "#ce645c",
+        "#dbc561",
+        "#352922"
+    ],
+    "duskull.jpg": [
+        "#fefdfd",
+        "#232220",
+        "#dedaca",
+        "#8c8e89"
+    ],
+    "pichu.jpg": [
+        "#fefefe",
+        "#c4b385",
+        "#15262f",
+        "#f8eda6"
+    ],
+    "blacephalon.jpg": [
+        "#fdfdfd",
+        "#c0a198",
+        "#312d30",
+        "#3f8da9"
+    ],
+    "chansey.jpg": [
+        "#42373b",
+        "#fefefe",
+        "#cba0ad",
+        "#f3d2e0"
+    ],
+    "camerupt.jpg": [
+        "#fefefe",
+        "#cd8373",
+        "#a7b2b3",
+        "#3c3432"
+    ],
+    "tepig.jpg": [
+        "#fefefe",
+        "#e99c57",
+        "#3e342f",
+        "#a9664b"
+    ],
+    "aron.jpg": [
+        "#fbfbfb",
+        "#3e4449",
+        "#c7c9cc",
+        "#050606"
+    ],
+    "klang.jpg": [
+        "#bbbec4",
+        "#6c8381",
+        "#fefefe",
+        "#38393c"
+    ],
+    "clauncher.jpg": [
+        "#8ccdec",
+        "#ceb473",
+        "#525553",
+        "#fefefe"
+    ],
+    "riolu.jpg": [
+        "#729fb1",
+        "#52575d",
+        "#fefefe",
+        "#252729"
+    ],
+    "zapdos.jpg": [
+        "#fefefd",
+        "#a29170",
+        "#282927",
+        "#e6cf89"
+    ],
+    "milotic.jpg": [
+        "#fbf7ee",
+        "#3e383b",
+        "#74b7d2",
+        "#d67b80"
+    ],
+    "absol.jpg": [
+        "#fdfdfd",
+        "#6b7895",
+        "#dbdfe9",
+        "#252930"
+    ],
+    "politoed.jpg": [
+        "#fefefe",
+        "#4b592d",
+        "#f1e28b",
+        "#9cba51"
+    ],
+    "mienshao.jpg": [
+        "#baa9bf",
+        "#fefefe",
+        "#746a78",
+        "#e8e2dc"
+    ],
+    "zekrom.jpg": [
+        "#566a6b",
+        "#1e1f23",
+        "#fefefe",
+        "#3f4242"
+    ],
+    "golduck.jpg": [
+        "#fefdfc",
+        "#3b464f",
+        "#5e8baf",
+        "#87afcd"
+    ],
+    "haunter.jpg": [
+        "#fefefe",
+        "#897c95",
+        "#584f5e",
+        "#1d1a20"
+    ],
+    "glaceon.jpg": [
+        "#fefefe",
+        "#5998a0",
+        "#35585c",
+        "#b4dad7"
+    ],
+    "shaymin-land.jpg": [
+        "#d1aaaf",
+        "#3a6d30",
+        "#a1b661",
+        "#fdfdfd"
+    ],
+    "ferroseed.jpg": [
+        "#7a977f",
+        "#fefefe",
+        "#2f3530",
+        "#c7c6c2"
+    ],
+    "toucannon.jpg": [
+        "#c4c294",
+        "#fefefe",
+        "#3e3735",
+        "#d5763e"
+    ],
+    "barbaracle.jpg": [
+        "#d8dbd0",
+        "#a07c71",
+        "#534d49",
+        "#fefefe"
+    ],
+    "salamence.jpg": [
+        "#4bafc3",
+        "#1c4d5c",
+        "#a45664",
+        "#fafafa"
+    ],
+    "rattata-alolan.jpg": [
+        "#fefefe",
+        "#2a2725",
+        "#5b5a55",
+        "#bca894"
+    ],
+    "caterpie.jpg": [
+        "#ddc68b",
+        "#86af6c",
+        "#fefefe",
+        "#202219"
+    ],
+    "exeggutor-alolan.jpg": [
+        "#fefefe",
+        "#6b6042",
+        "#364829",
+        "#a6926d"
+    ],
+    "psyduck.jpg": [
+        "#dfba7b",
+        "#ead3ab",
+        "#342f28",
+        "#fdfcf9"
+    ],
+    "snover.jpg": [
+        "#fcfdfd",
+        "#394645",
+        "#95a093",
+        "#6d7a6f"
+    ],
+    "fraxure.jpg": [
+        "#818370",
+        "#fefefe",
+        "#5e5b53",
+        "#292720"
+    ],
+    "solosis.jpg": [
+        "#97c197",
+        "#fefefc",
+        "#e0eac6",
+        "#697569"
+    ],
+    "togepi.jpg": [
+        "#fdfdfc",
+        "#8c8986",
+        "#26211e",
+        "#ede6c7"
+    ],
+    "ponyta.jpg": [
+        "#fefefd",
+        "#eb9122",
+        "#6e5657",
+        "#efe7c3"
+    ],
+    "raichu.jpg": [
+        "#fefdfc",
+        "#645437",
+        "#ebd898",
+        "#d4b163"
+    ],
+    "slakoth.jpg": [
+        "#fdfdfd",
+        "#816e62",
+        "#d8cbbe",
+        "#26211d"
+    ],
+    "hitmonchan.jpg": [
+        "#fefefe",
+        "#332c2c",
+        "#c2b0af",
+        "#9f807b"
+    ],
+    "mantine.jpg": [
+        "#c0b4bc",
+        "#435062",
+        "#838790",
+        "#fdfcfd"
+    ],
+    "vanilluxe.jpg": [
+        "#f8fbfd",
+        "#5e687a",
+        "#b8c6df",
+        "#7ba4cb"
+    ],
+    "cubchoo.jpg": [
+        "#9cb9db",
+        "#c0e2f6",
+        "#36383b",
+        "#fefefe"
+    ],
+    "altaria-mega.jpg": [
+        "#fbfbfc",
+        "#8ba2b0",
+        "#cbd6e5",
+        "#3c4348"
+    ],
+    "seismitoad.jpg": [
+        "#95cdca",
+        "#3d4147",
+        "#42789a",
+        "#fefefe"
+    ],
+    "simipour.jpg": [
+        "#fdfefe",
+        "#405353",
+        "#57b9d4",
+        "#e2cc8b"
+    ],
+    "rockruff.jpg": [
+        "#c4b4aa",
+        "#856e68",
+        "#3c312d",
+        "#fafaf9"
+    ],
+    "manaphy.jpg": [
+        "#fefdfb",
+        "#6fbec6",
+        "#263739",
+        "#558288"
+    ],
+    "bunnelby.jpg": [
+        "#b0aeb0",
+        "#867160",
+        "#fefefe",
+        "#583d21"
+    ],
+    "unfezant.jpg": [
+        "#fefefe",
+        "#54534d",
+        "#a59293",
+        "#32312f"
+    ],
+    "sewaddle.jpg": [
+        "#fefefe",
+        "#2b2b1d",
+        "#e2c37a",
+        "#8ca138"
+    ],
+    "weavile.jpg": [
+        "#868197",
+        "#fdfdfd",
+        "#593848",
+        "#c5545d"
+    ],
+    "mawile.jpg": [
+        "#fefefe",
+        "#716c71",
+        "#eed298",
+        "#3d3f40"
+    ],
+    "diglett-alolan.jpg": [
+        "#fefefd",
+        "#9a6737",
+        "#231f1c",
+        "#706a6d"
+    ],
+    "buzzwole.jpg": [
+        "#653531",
+        "#fdfdfd",
+        "#e5594a",
+        "#1d1411"
+    ],
+    "teddiursa.jpg": [
+        "#e3a263",
+        "#2d2821",
+        "#fdfcf8",
+        "#b87842"
+    ],
+    "darumaka.jpg": [
+        "#fdfdfd",
+        "#b45751",
+        "#eab772",
+        "#35241f"
+    ],
+    "piplup.jpg": [
+        "#fcfcfc",
+        "#4b84b3",
+        "#a8c4b6",
+        "#1b2022"
+    ],
+    "vibrava.jpg": [
+        "#fefefe",
+        "#669d6d",
+        "#353c36",
+        "#d2d29e"
+    ],
+    "shiftry.jpg": [
+        "#a68267",
+        "#f9f9fb",
+        "#4ca46d",
+        "#33342a"
+    ],
+    "dhelmise.jpg": [
+        "#fdfdfd",
+        "#2e434b",
+        "#3c868e",
+        "#a88d59"
+    ],
+    "darmanitan-galarian-standard.jpg": [
+        "#fcfdfc",
+        "#252e33",
+        "#b8c7cc",
+        "#698ba3"
+    ],
+    "sliggoo.jpg": [
+        "#fefefe",
+        "#2e2a2c",
+        "#a08ca4",
+        "#dbd2e2"
+    ],
+    "raticate.jpg": [
+        "#fefefe",
+        "#ac8448",
+        "#e4d0ac",
+        "#382e24"
+    ],
+    "rufflet.jpg": [
+        "#f8f7f0",
+        "#c9ae95",
+        "#7c7989",
+        "#363231"
+    ],
+    "klinklang.jpg": [
+        "#fdfdfe",
+        "#7d8789",
+        "#3b3f45",
+        "#bfc2cb"
+    ],
+    "mothim.jpg": [
+        "#fdfdfd",
+        "#f2d674",
+        "#bf7c3b",
+        "#4d4238"
+    ],
+    "corsola.jpg": [
+        "#fefefe",
+        "#362e2d",
+        "#f0a0ac",
+        "#bc7f88"
+    ],
+    "roserade.jpg": [
+        "#b1b7b6",
+        "#6a8a7b",
+        "#242825",
+        "#fbfcfd"
+    ],
+    "dartrix.jpg": [
+        "#fefefe",
+        "#5d4a34",
+        "#c2c1bb",
+        "#a0b164"
+    ],
+    "weezing.jpg": [
+        "#fefefe",
+        "#7f748b",
+        "#bfb4c8",
+        "#2f2b34"
+    ],
+    "heliolisk.jpg": [
+        "#c79e5e",
+        "#fae276",
+        "#fefefe",
+        "#605953"
+    ],
+    "carbink.jpg": [
+        "#f9fbfc",
+        "#a2a6b6",
+        "#757784",
+        "#303136"
+    ],
+    "omanyte.jpg": [
+        "#fefefd",
+        "#1e201f",
+        "#dbdac2",
+        "#769fa2"
+    ],
+    "forretress.jpg": [
+        "#f9f5f6",
+        "#9a3632",
+        "#342824",
+        "#af9ea2"
+    ],
+    "togetic.jpg": [
+        "#f8fbf6",
+        "#8a706e",
+        "#21221e",
+        "#c4c7b9"
+    ],
+    "feraligatr.jpg": [
+        "#fdfdfb",
+        "#52737b",
+        "#82c7dd",
+        "#c97a74"
+    ],
+    "bisharp.jpg": [
+        "#966a62",
+        "#fefefe",
+        "#543536",
+        "#d7d7d8"
+    ],
+    "loudred.jpg": [
+        "#ac9fb6",
+        "#fdfcf9",
+        "#151315",
+        "#6b5061"
+    ],
+    "chatot.jpg": [
+        "#fdfdfd",
+        "#508496",
+        "#414340",
+        "#c5ab9b"
+    ],
+    "jigglypuff.jpg": [
+        "#fefefe",
+        "#387282",
+        "#1c1d23",
+        "#ebc6ce"
+    ],
+    "swampert.jpg": [
+        "#fdfdfd",
+        "#505863",
+        "#84b0d3",
+        "#e2b392"
+    ],
+    "morelull.jpg": [
+        "#fbf5f5",
+        "#262224",
+        "#c2aabf",
+        "#80707d"
+    ],
+    "excadrill.jpg": [
+        "#906c69",
+        "#4b3f3d",
+        "#fefefe",
+        "#c1bfc1"
+    ],
+    "aurorus.jpg": [
+        "#fefefe",
+        "#525e75",
+        "#e3e6ce",
+        "#85a0cb"
+    ],
+    "onix.jpg": [
+        "#cfc2d6",
+        "#352b37",
+        "#847781",
+        "#fefefe"
+    ],
+    "venonat.jpg": [
+        "#b68faa",
+        "#fdfdfd",
+        "#676197",
+        "#1d1a21"
+    ],
+    "nidorina.jpg": [
+        "#fefefe",
+        "#333f51",
+        "#c6dade",
+        "#8eb1bf"
+    ],
+    "wimpod.jpg": [
+        "#fefefe",
+        "#423a42",
+        "#cfe0d0",
+        "#8e788e"
+    ],
+    "spinarak.jpg": [
+        "#c2c57b",
+        "#556d6a",
+        "#272923",
+        "#fdfdfd"
+    ],
+    "muk-alolan.jpg": [
+        "#fdfdfd",
+        "#f7ea19",
+        "#d985aa",
+        "#4c6876"
+    ],
+    "venusaur-mega.jpg": [
+        "#fdfdfe",
+        "#1f4c45",
+        "#6d8b7a",
+        "#b9bbb9"
+    ],
+    "metagross-mega.jpg": [
+        "#a2bcc1",
+        "#3b4347",
+        "#fefefd",
+        "#6f7e81"
+    ],
+    "victreebel.jpg": [
+        "#fdfdfd",
+        "#1f231c",
+        "#92be84",
+        "#e8e385"
+    ],
+    "vikavolt.jpg": [
+        "#fdfdfe",
+        "#8e9fa9",
+        "#2f4859",
+        "#f0da67"
+    ],
+    "decidueye.jpg": [
+        "#ccab87",
+        "#0f7e5e",
+        "#fdfdfb",
+        "#9c6a4d"
+    ],
+    "togedemaru.jpg": [
+        "#fdfcfb",
+        "#f2df75",
+        "#c7c4c3",
+        "#3d3730"
+    ],
+    "lilligant.jpg": [
+        "#c5d38e",
+        "#3c7636",
+        "#fdfdfd",
+        "#a59558"
+    ],
+    "minccino.jpg": [
+        "#fefefd",
+        "#b09f9b",
+        "#dad6d3",
+        "#47403d"
+    ],
+    "tornadus-therian.jpg": [
+        "#94799f",
+        "#51574d",
+        "#7faa69",
+        "#fdfdfd"
+    ],
+    "sableye-mega.jpg": [
+        "#fefdfd",
+        "#cb3c5b",
+        "#d4829a",
+        "#5d496e"
+    ],
+    "vulpix.jpg": [
+        "#c98764",
+        "#db7437",
+        "#533e25",
+        "#fdfdfc"
+    ],
+    "clawitzer.jpg": [
+        "#fdfefe",
+        "#056fb4",
+        "#a1ad9e",
+        "#454a4b"
+    ],
+    "buizel.jpg": [
+        "#a1a28d",
+        "#dc914b",
+        "#7e5235",
+        "#fefdfa"
+    ],
+    "mightyena.jpg": [
+        "#fefefe",
+        "#666463",
+        "#292727",
+        "#c0c0c0"
+    ],
+    "tranquill.jpg": [
+        "#fefefe",
+        "#9f908e",
+        "#d3d4d5",
+        "#3b3736"
+    ],
+    "baltoy.jpg": [
+        "#fefefe",
+        "#9c7e6f",
+        "#d3c29c",
+        "#26201b"
+    ],
+    "luxray.jpg": [
+        "#fefefe",
+        "#404040",
+        "#78a0ae",
+        "#e4b23a"
+    ],
+    "ledyba.jpg": [
+        "#b17358",
+        "#fdfdfa",
+        "#241f1d",
+        "#dccd9f"
+    ],
+    "trumbeak.jpg": [
+        "#adabab",
+        "#c5633e",
+        "#42413c",
+        "#fdfdfd"
+    ],
+    "kricketune.jpg": [
+        "#fdfdfc",
+        "#675b55",
+        "#d27050",
+        "#362f2c"
+    ],
+    "mudbray.jpg": [
+        "#fefefe",
+        "#8e6f62",
+        "#e9c4b6",
+        "#34312f"
+    ],
+    "giratina-origin.jpg": [
+        "#b3aa93",
+        "#3a3433",
+        "#8f6d45",
+        "#fdfdfd"
+    ],
+    "palossand.jpg": [
+        "#b57856",
+        "#f4c289",
+        "#fefefe",
+        "#5b3a28"
+    ],
+    "skrelp.jpg": [
+        "#fefefe",
+        "#211715",
+        "#b6bdd4",
+        "#815846"
+    ],
+    "shuckle.jpg": [
+        "#fefdfb",
+        "#eac448",
+        "#7c3e30",
+        "#d2b596"
+    ],
+    "rayquaza.jpg": [
+        "#fefefe",
+        "#44795c",
+        "#8ba991",
+        "#253227"
+    ],
+    "doduo.jpg": [
+        "#c7ab83",
+        "#a17848",
+        "#fefefe",
+        "#393726"
+    ],
+    "ferrothorn.jpg": [
+        "#333d38",
+        "#fefefe",
+        "#c5c6c7",
+        "#6f937a"
+    ],
+    "charjabug.jpg": [
+        "#d5c3ac",
+        "#464f3b",
+        "#789775",
+        "#fefefe"
+    ],
+    "misdreavus.jpg": [
+        "#fefefe",
+        "#4a6f85",
+        "#b2878f",
+        "#1b1b21"
+    ],
+    "kingdra.jpg": [
+        "#fefefe",
+        "#66a1bc",
+        "#cdb486",
+        "#313d3e"
+    ],
+    "slowking.jpg": [
+        "#f9f9f7",
+        "#443836",
+        "#dbb5b1",
+        "#c38886"
+    ],
+    "exeggcute.jpg": [
+        "#c5afb0",
+        "#eed5d7",
+        "#3c3636",
+        "#fefdfd"
+    ],
+    "carvanha.jpg": [
+        "#fefefe",
+        "#b66b6c",
+        "#dcc284",
+        "#213c5d"
+    ],
+    "emolga.jpg": [
+        "#b8adab",
+        "#f0d44f",
+        "#484442",
+        "#fcfdfd"
+    ],
+    "leavanny.jpg": [
+        "#3c6031",
+        "#e6df7a",
+        "#fefefe",
+        "#8cac41"
+    ],
+    "vespiquen.jpg": [
+        "#8f6336",
+        "#e2b43b",
+        "#fafbfb",
+        "#3f3935"
+    ],
+    "solgaleo.jpg": [
+        "#fdfcfb",
+        "#6a655d",
+        "#2b2926",
+        "#ceb97c"
+    ],
+    "kangaskhan-mega.jpg": [
+        "#cebdb0",
+        "#9a8678",
+        "#fdfdfd",
+        "#4e4540"
+    ],
+    "squirtle.jpg": [
+        "#fdfefd",
+        "#c5b8a7",
+        "#6eb4c6",
+        "#292f31"
+    ],
+    "hawlucha.jpg": [
+        "#8db49c",
+        "#c25532",
+        "#fdfdfd",
+        "#4d6d5d"
+    ],
+    "dugtrio-alolan.jpg": [
+        "#fefefd",
+        "#8e6945",
+        "#ebe192",
+        "#2f2821"
+    ],
+    "dewpider.jpg": [
+        "#f7fafb",
+        "#425651",
+        "#6aa5b7",
+        "#95a536"
+    ],
+    "yanma.jpg": [
+        "#fcfcfc",
+        "#cf5f3e",
+        "#463c3c",
+        "#93ac5f"
+    ],
+    "sandygast.jpg": [
+        "#d7d1b8",
+        "#fefefe",
+        "#453c31",
+        "#a37c70"
+    ],
+    "lugia.jpg": [
+        "#fcfbfd",
+        "#8e93a3",
+        "#b4bcd0",
+        "#454c67"
+    ],
+    "turtonator.jpg": [
+        "#b9605e",
+        "#fefefe",
+        "#e6d052",
+        "#4d3730"
+    ],
+    "staravia.jpg": [
+        "#fbfbfa",
+        "#554c45",
+        "#9a7e6f",
+        "#231e1c"
+    ],
+    "linoone.jpg": [
+        "#d8cfc9",
+        "#524b46",
+        "#a08f82",
+        "#fefdfd"
+    ],
+    "medicham-mega.jpg": [
+        "#fcfdfd",
+        "#704a4f",
+        "#d6d7d4",
+        "#be8881"
+    ],
+    "jangmo-o.jpg": [
+        "#e0dccd",
+        "#cbbf80",
+        "#4b4946",
+        "#fefefe"
+    ],
+    "panpour.jpg": [
+        "#fefefe",
+        "#65b7cc",
+        "#e6ce86",
+        "#374243"
+    ],
+    "chespin.jpg": [
+        "#c7bd78",
+        "#fdfefe",
+        "#2e2419",
+        "#856b4e"
+    ],
+    "scizor-mega.jpg": [
+        "#fdfdfd",
+        "#504846",
+        "#b1544c",
+        "#af9590"
+    ],
+    "sceptile.jpg": [
+        "#fefefe",
+        "#2d392c",
+        "#6c966d",
+        "#9ec69a"
+    ],
+    "azurill.jpg": [
+        "#fefefe",
+        "#44a9c6",
+        "#1a212a",
+        "#b9809d"
+    ],
+    "stufful.jpg": [
+        "#fefefe",
+        "#946c73",
+        "#463226",
+        "#e7a8b4"
+    ],
+    "drifloon.jpg": [
+        "#fdfdfd",
+        "#9b85a5",
+        "#2c2627",
+        "#e5ca55"
+    ],
+    "clefairy.jpg": [
+        "#a88e8b",
+        "#fefdfd",
+        "#2c2424",
+        "#f6d2d4"
+    ],
+    "bayleef.jpg": [
+        "#eee0a1",
+        "#434532",
+        "#fefefe",
+        "#b0ab78"
+    ],
+    "leafeon.jpg": [
+        "#91bf99",
+        "#fefefe",
+        "#574b30",
+        "#f4e1ac"
+    ],
+    "scatterbug.jpg": [
+        "#fefefe",
+        "#181513",
+        "#aea599",
+        "#676564"
+    ],
+    "spinda.jpg": [
+        "#e3d7c9",
+        "#120e0d",
+        "#fefefe",
+        "#c96a67"
+    ],
+    "vanillite.jpg": [
+        "#b5c6e0",
+        "#fafcfd",
+        "#1d2024",
+        "#687ba0"
+    ],
+    "rotom-fan.jpg": [
+        "#efd795",
+        "#fefefe",
+        "#544e41",
+        "#d18252"
+    ],
+    "grimer.jpg": [
+        "#fefefe",
+        "#baa5c6",
+        "#443b4a",
+        "#8a7893"
+    ],
+    "beheeyem.jpg": [
+        "#917a6e",
+        "#fefefe",
+        "#d0ae9b",
+        "#38342f"
+    ],
+    "zoroark.jpg": [
+        "#fdfdfd",
+        "#972e3b",
+        "#3b2b35",
+        "#5e5c67"
+    ],
+    "spiritomb.jpg": [
+        "#d3a0b0",
+        "#fefefe",
+        "#8fa27a",
+        "#2c3125"
+    ],
+    "chikorita.jpg": [
+        "#fefefe",
+        "#3c392e",
+        "#dae3b0",
+        "#9db579"
+    ],
+    "axew.jpg": [
+        "#fdfefd",
+        "#3a4024",
+        "#667558",
+        "#8e9e81"
+    ],
+    "darkrai.jpg": [
+        "#fcfbfb",
+        "#595152",
+        "#b49d9b",
+        "#313132"
+    ],
+    "pangoro.jpg": [
+        "#fcfcfb",
+        "#3c3c44",
+        "#b0aca3",
+        "#656770"
+    ],
+    "swinub.jpg": [
+        "#c19881",
+        "#3c2a1e",
+        "#fefefe",
+        "#96715a"
+    ],
+    "turtwig.jpg": [
+        "#cbd290",
+        "#272721",
+        "#8b9f69",
+        "#fefefe"
+    ],
+    "breloom.jpg": [
+        "#e5d3ba",
+        "#2c2b24",
+        "#fefefd",
+        "#9c9e82"
+    ],
+    "graveler-alolan.jpg": [
+        "#b1afa3",
+        "#756e68",
+        "#fefefe",
+        "#302d2b"
+    ],
+    "slowbro-galarian.jpg": [
+        "#c2ced8",
+        "#4b2d5a",
+        "#716c88",
+        "#aaa2ba"
+    ],
+    "zweilous.jpg": [
+        "#fdfdfd",
+        "#292628",
+        "#6b7b94",
+        "#5b5250"
+    ],
+    "burmy.jpg": [
+        "#fefefe",
+        "#8a7f71",
+        "#4c6f3b",
+        "#dfbe9d"
+    ],
+    "deerling.jpg": [
+        "#cd9ca0",
+        "#38302a",
+        "#ead145",
+        "#fdfbf7"
+    ],
+    "celebi.jpg": [
+        "#fefefe",
+        "#90ae97",
+        "#313530",
+        "#dceaca"
+    ],
+    "tentacruel.jpg": [
+        "#fdfdfd",
+        "#938c95",
+        "#57323c",
+        "#74b8e8"
+    ],
+    "croagunk.jpg": [
+        "#fdfdfc",
+        "#353536",
+        "#617cb0",
+        "#d6a269"
+    ],
+    "xatu.jpg": [
+        "#9eb046",
+        "#f8f9fa",
+        "#43312e",
+        "#d05061"
+    ],
+    "lairon.jpg": [
+        "#a2a0a4",
+        "#f3f2f3",
+        "#131313",
+        "#606060"
+    ],
+    "gothitelle.jpg": [
+        "#b6aeb3",
+        "#3d3a3a",
+        "#211d1d",
+        "#fdfdfd"
+    ],
+    "krookodile.jpg": [
+        "#fefefe",
+        "#3a3437",
+        "#b9c2ce",
+        "#9b5f6a"
+    ],
+    "thundurus-therian.jpg": [
+        "#fdfdfd",
+        "#6f7396",
+        "#a0bbca",
+        "#454257"
+    ],
+    "porygon2.jpg": [
+        "#6ea3c3",
+        "#fefefe",
+        "#d15d72",
+        "#323134"
+    ],
+    "ninetales.jpg": [
+        "#fdfdf9",
+        "#d0c193",
+        "#655a4b",
+        "#f1eea9"
+    ],
+    "blitzle.jpg": [
+        "#fdfdfc",
+        "#272423",
+        "#595554",
+        "#b7b5a8"
+    ],
+    "pawniard.jpg": [
+        "#423636",
+        "#fdfdfe",
+        "#c4c5c7",
+        "#8d5f5e"
+    ],
+    "dewgong.jpg": [
+        "#fbfcfd",
+        "#898b8f",
+        "#313234",
+        "#dbe1eb"
+    ],
+    "blaziken-mega.jpg": [
+        "#fdfdfc",
+        "#403835",
+        "#e3a078",
+        "#c06b5b"
+    ],
+    "oricorio-pom-pom.jpg": [
+        "#695f42",
+        "#fefefe",
+        "#d8d73b",
+        "#e8e1a5"
+    ],
+    "krabby.jpg": [
+        "#fcfbfa",
+        "#3f3633",
+        "#cdb8b1",
+        "#d08965"
+    ],
+    "deoxys-attack.jpg": [
+        "#fdfdfd",
+        "#d58565",
+        "#483e3a",
+        "#7599a4"
+    ],
+    "volcarona.jpg": [
+        "#fdfdfe",
+        "#db7c59",
+        "#574f4c",
+        "#b8c0bf"
+    ],
+    "necrozma-dusk-mane.jpg": [
+        "#fdfcfa",
+        "#504f4b",
+        "#1a1b19",
+        "#decd95"
+    ],
+    "vigoroth.jpg": [
+        "#fbfbfb",
+        "#a37e7e",
+        "#dedcdd",
+        "#3f3b3a"
+    ],
+    "bellsprout.jpg": [
+        "#99bb90",
+        "#eae683",
+        "#2e2f29",
+        "#fefefe"
+    ],
+    "luvdisc.jpg": [
+        "#dcb3b5",
+        "#1f1a1b",
+        "#fdfcfc",
+        "#cf8f98"
+    ],
+    "dragalge.jpg": [
+        "#fefefe",
+        "#583d32",
+        "#936257",
+        "#bd98ad"
+    ],
+    "garbodor.jpg": [
+        "#b8a698",
+        "#887f6f",
+        "#4e6351",
+        "#fdfdfd"
+    ],
+    "horsea.jpg": [
+        "#3e3b3c",
+        "#fefefe",
+        "#d8dfc3",
+        "#90c8dc"
+    ],
+    "nincada.jpg": [
+        "#fcfdfd",
+        "#252626",
+        "#d2d6d6",
+        "#9c9790"
+    ],
+    "kricketot.jpg": [
+        "#fefefe",
+        "#bd6149",
+        "#524949",
+        "#eadaa5"
+    ],
+    "togekiss.jpg": [
+        "#fefefe",
+        "#536a78",
+        "#d6e7e4",
+        "#aab5b5"
+    ],
+    "salamence-mega.jpg": [
+        "#b87777",
+        "#95494a",
+        "#fdfdfd",
+        "#3d5a68"
+    ],
+    "deoxys-normal.jpg": [
+        "#fefefe",
+        "#644f47",
+        "#75afba",
+        "#dd8e6b"
+    ],
+    "terrakion.jpg": [
+        "#c3b6a8",
+        "#fefefe",
+        "#4b423e",
+        "#938579"
+    ],
+    "gengar-mega.jpg": [
+        "#fdfdfd",
+        "#281b23",
+        "#594b67",
+        "#b24d62"
+    ],
+    "zeraora.jpg": [
+        "#e7d45f",
+        "#3f3b35",
+        "#8e8658",
+        "#fdfdfd"
+    ],
+    "unown.jpg": [
+        "#fefefe",
+        "#172632",
+        "#d4d9e0",
+        "#5a6873"
+    ],
+    "goodra.jpg": [
+        "#fefefe",
+        "#a995ac",
+        "#ddd4e3",
+        "#525653"
+    ],
+    "regice.jpg": [
+        "#a6d9ea",
+        "#68b3c9",
+        "#fbfcfc",
+        "#2d4046"
+    ],
+    "volbeat.jpg": [
+        "#fefdfc",
+        "#e18163",
+        "#b3baca",
+        "#484544"
+    ],
+    "deoxys-defense.jpg": [
+        "#6794a6",
+        "#845442",
+        "#e79975",
+        "#fdfdfd"
+    ],
+    "wishiwashi-school.jpg": [
+        "#567db5",
+        "#fefefd",
+        "#1a2c3c",
+        "#30537b"
+    ],
+    "meowth.jpg": [
+        "#e6dac0",
+        "#29231e",
+        "#9c8165",
+        "#fefefd"
+    ],
+    "grovyle.jpg": [
+        "#fefefe",
+        "#749d73",
+        "#c6b6a1",
+        "#323e30"
+    ],
+    "charmander.jpg": [
+        "#fdfcfa",
+        "#edb78f",
+        "#252625",
+        "#bd896e"
+    ],
+    "druddigon.jpg": [
+        "#fdfdfd",
+        "#9e3c4c",
+        "#aa9985",
+        "#045c77"
+    ],
+    "kabuto.jpg": [
+        "#876b51",
+        "#cc9a73",
+        "#070b10",
+        "#fdfdfc"
+    ],
+    "braviary.jpg": [
+        "#fdfdfd",
+        "#4a4552",
+        "#8e483e",
+        "#beab84"
+    ],
+    "magmar.jpg": [
+        "#fdfdfd",
+        "#c76743",
+        "#d7b774",
+        "#40322f"
+    ],
+    "swoobat.jpg": [
+        "#a1b2c2",
+        "#fefefe",
+        "#3b3938",
+        "#566886"
+    ],
+    "oricorio-pau.jpg": [
+        "#423534",
+        "#fefefe",
+        "#eedcd5",
+        "#bf7d88"
+    ],
+    "jynx.jpg": [
+        "#c7baa9",
+        "#cb655c",
+        "#fdfcf8",
+        "#6a5560"
+    ],
+    "pinsir-mega.jpg": [
+        "#d3cb99",
+        "#9a8168",
+        "#4b4037",
+        "#fcfcfc"
+    ],
+    "yamask.jpg": [
+        "#fefefe",
+        "#cd7f5f",
+        "#464444",
+        "#ebca84"
+    ],
+    "salazzle.jpg": [
+        "#d7688c",
+        "#fefefe",
+        "#2c2629",
+        "#696369"
+    ],
+    "electrode.jpg": [
+        "#b5c4d7",
+        "#262017",
+        "#f7fafb",
+        "#b2798a"
+    ],
+    "metang.jpg": [
+        "#89aab9",
+        "#263a45",
+        "#fcfcfc",
+        "#4a758a"
+    ],
+    "donphan.jpg": [
+        "#fdfefe",
+        "#3a3a43",
+        "#7d8796",
+        "#c2cfd9"
+    ],
+    "fennekin.jpg": [
+        "#d87b4c",
+        "#3a2d22",
+        "#f8e684",
+        "#fdfdfd"
+    ],
+    "rayquaza-mega.jpg": [
+        "#fdfdfd",
+        "#7aa793",
+        "#ecb879",
+        "#4d5b4e"
+    ],
+    "sunkern.jpg": [
+        "#fdfdfd",
+        "#889f5e",
+        "#ead16b",
+        "#3a332a"
+    ],
+    "golem.jpg": [
+        "#beaeb2",
+        "#41373f",
+        "#fefefe",
+        "#8b7c83"
+    ],
+    "durant.jpg": [
+        "#bcbcbc",
+        "#878380",
+        "#4c4a4a",
+        "#fdfdfd"
+    ],
+    "lombre.jpg": [
+        "#fefefe",
+        "#21251c",
+        "#b8cdb6",
+        "#74a049"
+    ],
+    "rowlet.jpg": [
+        "#d8b8a2",
+        "#30a687",
+        "#fbfbf9",
+        "#42352d"
+    ],
+    "combee.jpg": [
+        "#f8fafb",
+        "#f5c63a",
+        "#c78f3e",
+        "#443626"
+    ],
+    "cofagrigus.jpg": [
+        "#fefefe",
+        "#908d75",
+        "#4a4e4c",
+        "#ecce92"
+    ],
+    "spewpa.jpg": [
+        "#f8f8f9",
+        "#7d6f74",
+        "#c2b2a2",
+        "#2a2625"
+    ],
+    "floette.jpg": [
+        "#fdfdfd",
+        "#366651",
+        "#a3464b",
+        "#a9b991"
+    ],
+    "deino.jpg": [
+        "#6881a2",
+        "#fefefe",
+        "#5f5756",
+        "#232124"
+    ],
+    "pansage.jpg": [
+        "#ebd38d",
+        "#65b17d",
+        "#fefefe",
+        "#33533a"
+    ],
+    "aerodactyl-mega.jpg": [
+        "#fefefe",
+        "#7f737b",
+        "#524452",
+        "#b0a6b3"
+    ],
+    "cobalion.jpg": [
+        "#aca596",
+        "#2c96aa",
+        "#3a4244",
+        "#fcfdfd"
+    ],
+    "dewott.jpg": [
+        "#fefefc",
+        "#353637",
+        "#56728c",
+        "#a1cdd0"
+    ],
+    "croconaw.jpg": [
+        "#fefefe",
+        "#dfb283",
+        "#7fb0b6",
+        "#5b5557"
+    ],
+    "spritzee.jpg": [
+        "#f7f7fb",
+        "#b26570",
+        "#e897a5",
+        "#322a2d"
+    ],
+    "virizion.jpg": [
+        "#fdfdfc",
+        "#373c2e",
+        "#b2cb79",
+        "#7b8666"
+    ],
+    "geodude-alolan.jpg": [
+        "#827c80",
+        "#fefefe",
+        "#bfc1ce",
+        "#353334"
+    ],
+    "charmeleon.jpg": [
+        "#e9886d",
+        "#d05137",
+        "#fcfbf9",
+        "#3b2b1f"
+    ],
+    "natu.jpg": [
+        "#a6ba45",
+        "#2c2923",
+        "#fdfdfd",
+        "#ba4a56"
+    ],
+    "blissey.jpg": [
+        "#fbfcf8",
+        "#f1b1c3",
+        "#3d3a3a",
+        "#ada6ae"
+    ],
+    "simisear.jpg": [
+        "#fdfdfd",
+        "#6a423d",
+        "#ca735b",
+        "#e4c291"
+    ],
+    "phantump.jpg": [
+        "#fefefe",
+        "#2e2d2c",
+        "#aa9380",
+        "#6d685a"
+    ],
+    "venomoth.jpg": [
+        "#fefefe",
+        "#a79faf",
+        "#524b53",
+        "#e3d8e8"
+    ],
+    "oricorio-baile.jpg": [
+        "#fefefe",
+        "#352b27",
+        "#e45862",
+        "#9d3e40"
+    ],
+    "furret.jpg": [
+        "#866351",
+        "#fefefe",
+        "#e3ccb0",
+        "#2b271f"
+    ],
+    "wailmer.jpg": [
+        "#f9e6bb",
+        "#6b97b3",
+        "#266290",
+        "#fdfdfd"
+    ],
+    "grumpig.jpg": [
+        "#fefefe",
+        "#706f70",
+        "#444243",
+        "#d1b0c6"
+    ],
+    "clefable.jpg": [
+        "#c0a2a2",
+        "#fefefe",
+        "#4a403c",
+        "#f0dcd4"
+    ],
+    "furfrou.jpg": [
+        "#454542",
+        "#fefefe",
+        "#a6a59b",
+        "#e6eddf"
+    ],
+    "karrablast.jpg": [
+        "#f9fcfd",
+        "#524e4e",
+        "#2b81c2",
+        "#e2bc58"
+    ],
+    "torkoal.jpg": [
+        "#d5c5af",
+        "#fcfbfa",
+        "#675d5a",
+        "#cc9a7b"
+    ],
+    "rotom.jpg": [
+        "#9ad0d3",
+        "#5b737c",
+        "#e2835e",
+        "#fefefe"
+    ],
+    "hoothoot.jpg": [
+        "#d4c2b1",
+        "#38322f",
+        "#fefefe",
+        "#bc8c6b"
+    ],
+    "steelix.jpg": [
+        "#fefefd",
+        "#71738a",
+        "#b3b7c3",
+        "#3b3b49"
+    ],
+    "kirlia.jpg": [
+        "#a8cd9b",
+        "#1b1e18",
+        "#fcfcfc",
+        "#8c9068"
+    ],
+    "omastar.jpg": [
+        "#fdfdfb",
+        "#5f7f88",
+        "#bcccbe",
+        "#1d1e1f"
+    ],
+    "scolipede.jpg": [
+        "#af5975",
+        "#fefefe",
+        "#3f3938",
+        "#763e4e"
+    ],
+    "landorus-therian.jpg": [
+        "#fdfdfd",
+        "#d6845b",
+        "#b4a8a5",
+        "#645047"
+    ],
+    "mamoswine.jpg": [
+        "#fcfaf9",
+        "#96754b",
+        "#c4bbae",
+        "#5f4823"
+    ],
+    "cradily.jpg": [
+        "#fefefe",
+        "#26261f",
+        "#e5c6af",
+        "#98bb91"
+    ],
+    "blastoise-mega.jpg": [
+        "#fafbfb",
+        "#5a81ae",
+        "#b1a89c",
+        "#4f4841"
+    ],
+    "drifblim.jpg": [
+        "#fcfcfc",
+        "#96839e",
+        "#e7be5f",
+        "#59484e"
+    ],
+    "altaria.jpg": [
+        "#fbfcfc",
+        "#22363d",
+        "#ccdbe5",
+        "#4cb7d6"
+    ],
+    "mudkip.jpg": [
+        "#63b1d9",
+        "#272d30",
+        "#e89d4a",
+        "#f8f9fc"
+    ],
+    "zorua.jpg": [
+        "#625e71",
+        "#fefefd",
+        "#29232c",
+        "#a03a40"
+    ],
+    "timburr.jpg": [
+        "#fefefe",
+        "#5e452e",
+        "#cdc3ae",
+        "#b58a7b"
+    ],
+    "aegislash-shield.jpg": [
+        "#3c3735",
+        "#fefefe",
+        "#978685",
+        "#cabe9f"
+    ],
+    "relicanth.jpg": [
+        "#fdfdfd",
+        "#69615f",
+        "#b2a090",
+        "#25211f"
+    ],
+    "wynaut.jpg": [
+        "#fefdfd",
+        "#72c8cd",
+        "#2f3a3c",
+        "#b16a6d"
+    ],
+    "victini.jpg": [
+        "#f5e9b1",
+        "#fefefe",
+        "#343d45",
+        "#d29666"
+    ],
+    "cloyster.jpg": [
+        "#fdfdfd",
+        "#756f85",
+        "#a29eba",
+        "#37343d"
+    ],
+    "bagon.jpg": [
+        "#89b2c4",
+        "#d3cfc3",
+        "#fefefe",
+        "#282c2d"
+    ],
+    "celesteela.jpg": [
+        "#fdfdfd",
+        "#5a7b73",
+        "#93b9a8",
+        "#26463e"
+    ],
+    "bounsweet.jpg": [
+        "#a3c281",
+        "#c75f83",
+        "#fafbfa",
+        "#2e2b26"
+    ],
+    "beautifly.jpg": [
+        "#e0ad74",
+        "#fcfcfc",
+        "#5f6a6f",
+        "#252423"
+    ],
+    "trubbish.jpg": [
+        "#fefefe",
+        "#252923",
+        "#918a7a",
+        "#5e7762"
+    ],
+    "jumpluff.jpg": [
+        "#fefbf1",
+        "#7b8dbd",
+        "#d3c5a7",
+        "#595745"
+    ],
+    "raticate-alolan.jpg": [
+        "#fefefe",
+        "#4c4942",
+        "#948275",
+        "#e7dbcc"
+    ],
+    "shellder.jpg": [
+        "#b5a6c3",
+        "#252325",
+        "#807aa8",
+        "#fcfcfc"
+    ],
+    "lunala.jpg": [
+        "#fefefe",
+        "#3f306b",
+        "#a4a985",
+        "#e7e5ae"
+    ],
+    "mudsdale.jpg": [
+        "#986c5c",
+        "#fefefe",
+        "#473c3e",
+        "#e06e59"
+    ],
+    "kingler.jpg": [
+        "#d2b8ae",
+        "#fdfcfc",
+        "#423632",
+        "#c58160"
+    ],
+    "shroomish.jpg": [
+        "#e1d1bd",
+        "#fefefe",
+        "#282925",
+        "#89a392"
+    ],
+    "bergmite.jpg": [
+        "#fdfdfe",
+        "#a8b7c9",
+        "#d4e7f4",
+        "#6a7191"
+    ],
+    "sudowoodo.jpg": [
+        "#fefefe",
+        "#b18a6c",
+        "#28271b",
+        "#7c7b49"
+    ],
+    "lanturn.jpg": [
+        "#fdfdfd",
+        "#7b85ab",
+        "#d4c69e",
+        "#3f3b39"
+    ],
+    "uxie.jpg": [
+        "#f7fafc",
+        "#909aa0",
+        "#2f2a29",
+        "#edcf86"
+    ],
+    "suicune.jpg": [
+        "#827896",
+        "#8cb7bd",
+        "#3d4a54",
+        "#fbfbfa"
+    ],
+    "pumpkaboo.jpg": [
+        "#e2a87b",
+        "#937561",
+        "#594d3c",
+        "#fefefe"
+    ],
+    "marshtomp.jpg": [
+        "#fdfefe",
+        "#e4a48d",
+        "#394651",
+        "#87bfc3"
+    ],
+    "mew.jpg": [
+        "#fefefe",
+        "#b595a5",
+        "#efc9d5",
+        "#463b40"
+    ],
+    "ekans.jpg": [
+        "#c8a4b5",
+        "#906887",
+        "#fefefd",
+        "#312529"
+    ],
+    "latios.jpg": [
+        "#fefefe",
+        "#42525f",
+        "#4384b3",
+        "#a1b4c3"
+    ],
+    "swampert-mega.jpg": [
+        "#fefefe",
+        "#41444a",
+        "#73a4c3",
+        "#d8715b"
+    ],
+    "hakamo-o.jpg": [
+        "#afaead",
+        "#fefefe",
+        "#49433b",
+        "#d5b857"
+    ],
+    "combusken.jpg": [
+        "#f1dea4",
+        "#c98c6a",
+        "#fefefe",
+        "#483e34"
+    ],
+    "manectric-mega.jpg": [
+        "#e1e182",
+        "#fcfcfa",
+        "#6da6b6",
+        "#556762"
+    ],
+    "slowpoke.jpg": [
+        "#e1aab8",
+        "#fcfbfb",
+        "#3b3132",
+        "#b68b96"
+    ],
+    "floatzel.jpg": [
+        "#e4dcad",
+        "#544939",
+        "#fefefe",
+        "#cf8c3d"
+    ],
+    "bonsly.jpg": [
+        "#bdad77",
+        "#638461",
+        "#fefefe",
+        "#24211a"
+    ],
+    "roselia.jpg": [
+        "#fcfdfb",
+        "#67b19d",
+        "#cda097",
+        "#2c3732"
+    ],
+    "zigzagoon-galarian.jpg": [
+        "#b4a5a9",
+        "#544b50",
+        "#282d2f",
+        "#fcfcfc"
+    ],
+    "gligar.jpg": [
+        "#d894b9",
+        "#867195",
+        "#fefefe",
+        "#373542"
+    ]
+}

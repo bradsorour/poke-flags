@@ -1,3 +1,4 @@
+import json
 import os
 from collections import Counter
 
@@ -10,8 +11,8 @@ from sklearn.cluster import KMeans
 ordered_colors = []
 rgb_colors = []
 
-IMAGE_DIRECTORY = "./resources/flags/"
-IMAGE_FILE = "Argentina.jpg"
+IMAGE_DIRECTORY = "./resources/flags_all/"
+IMAGE_FILE = "Seychelles.jpg"
 image = cv2.imread(IMAGE_DIRECTORY + IMAGE_FILE)
 # print("The type of this input is {}".format(type(image)))
 # print("Shape: {}".format(image.shape))
@@ -61,7 +62,7 @@ def get_image(my_filename, image_path):
     return image
 
 
-def get_colors(my_filename, image, number_of_colors, show_chart):
+def get_colors(flag_colours_dict, my_filename, image, number_of_colors, show_chart):
 
     # Resize the image to the size 600 x 400. It is not required to resize it to a smaller size but
     # we do so to lessen the pixels which’ll reduce the time needed to extract the colors from the image.
@@ -94,9 +95,7 @@ def get_colors(my_filename, image, number_of_colors, show_chart):
     hex_colors = [RGB2HEX(ordered_colors[i]) for i in counts.keys()]
     rgb_colors = [ordered_colors[i] for i in counts.keys()]
 
-    flag_colours = {}
-
-    fout = open("./resources/flag_colours.txt", "a")
+    # flag_colours = {}
 
     print("RGB")
     for i in rgb_colors:
@@ -109,12 +108,10 @@ def get_colors(my_filename, image, number_of_colors, show_chart):
     print("HEX")
     hex_list = []
     for i in hex_colors:
-        fout.write("HEX " + str(i) + "\n")
         hex_list.append(i)
         print(i)
 
-    flag_colours.update({my_filename: hex_list})
-    print(flag_colours.items())
+    flag_colours_dict.update({my_filename: hex_list})
 
     if show_chart:
         plt.figure(figsize=(8, 6))
@@ -124,5 +121,11 @@ def get_colors(my_filename, image, number_of_colors, show_chart):
     return rgb_colors
 
 
-# get_colors(IMAGE_FILE, get_image(IMAGE_FILE, IMAGE_DIRECTORY + IMAGE_FILE), 4, True)
-
+# flag_colours_dict = {}
+# get_colors(
+#     flag_colours_dict,
+#     IMAGE_FILE,
+#     get_image(IMAGE_FILE, IMAGE_DIRECTORY + IMAGE_FILE),
+#     4,
+#     True,
+# )

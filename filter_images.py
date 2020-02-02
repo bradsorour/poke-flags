@@ -31,7 +31,10 @@ for file in os.listdir(IMAGE_DIRECTORY):
 
 def match_image_by_color(filename, image, color, threshold=60, number_of_colors=10):
 
-    image_colors = get_colors(filename, image, number_of_colors, False)
+    flag_colours_dict = {}
+    image_colors = get_colors(
+        flag_colours_dict, filename, image, number_of_colors, False
+    )
     selected_color = rgb2lab(np.uint8(np.asarray([[color]])))
 
     select_image = False
