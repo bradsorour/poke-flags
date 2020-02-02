@@ -10,8 +10,8 @@ from sklearn.cluster import KMeans
 ordered_colors = []
 rgb_colors = []
 
-IMAGE_DIRECTORY = "./resources/images/"
-IMAGE_FILE = "sample_image.jpg"
+IMAGE_DIRECTORY = "./resources/flags/"
+IMAGE_FILE = "Argentina.jpg"
 image = cv2.imread(IMAGE_DIRECTORY + IMAGE_FILE)
 # print("The type of this input is {}".format(type(image)))
 # print("Shape: {}".format(image.shape))
@@ -35,7 +35,8 @@ gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 # We use the method resize provided by cv2. The first argument is
 # the image we want to resize, and the second argument is the width
 # and height defined within parentheses.
-resized_image = cv2.resize(image, (1200, 600))
+# resized_image = cv2.resize(image, (1200, 600))
+resized_image = cv2.resize(image, (600, 300))
 # resized_image = cv2.resize(image, (215, 215))
 # plt.imshow(resized_image)
 # plt.show()
@@ -50,7 +51,7 @@ def RGB2HEX(color):
 
 
 # Define a method that will help get an image into Python in the RGB space.
-def get_image(image_path):
+def get_image(my_filename, image_path):
     image = cv2.imread(image_path)
 
     if np.shape(image) == ():
@@ -60,7 +61,7 @@ def get_image(image_path):
     return image
 
 
-def get_colors(image, number_of_colors, show_chart):
+def get_colors(my_filename, image, number_of_colors, show_chart):
 
     # Resize the image to the size 600 x 400. It is not required to resize it to a smaller size but
     # we do so to lessen the pixels which’ll reduce the time needed to extract the colors from the image.
@@ -93,17 +94,27 @@ def get_colors(image, number_of_colors, show_chart):
     hex_colors = [RGB2HEX(ordered_colors[i]) for i in counts.keys()]
     rgb_colors = [ordered_colors[i] for i in counts.keys()]
 
-    print("\nRGB")
+    flag_colours = {}
+
+    fout = open("./resources/flag_colours.txt", "a")
+
+    print("RGB")
     for i in rgb_colors:
         print(i)
 
-    print("\nORDERED")
+    print("ORDERED")
     for i in ordered_colors:
         print(i)
 
-    print("\nHEX")
+    print("HEX")
+    hex_list = []
     for i in hex_colors:
+        fout.write("HEX " + str(i) + "\n")
+        hex_list.append(i)
         print(i)
+
+    flag_colours.update({my_filename: hex_list})
+    print(flag_colours.items())
 
     if show_chart:
         plt.figure(figsize=(8, 6))
@@ -113,5 +124,5 @@ def get_colors(image, number_of_colors, show_chart):
     return rgb_colors
 
 
-get_colors(get_image(IMAGE_DIRECTORY + IMAGE_FILE), 8, False)
+# get_colors(IMAGE_FILE, get_image(IMAGE_FILE, IMAGE_DIRECTORY + IMAGE_FILE), 4, True)
 

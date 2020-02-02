@@ -10,11 +10,12 @@ from read_image import get_colors, get_image
 IMAGE_DIRECTORY = "./resources/flags/"
 COLORS = {"GREEN": [0, 128, 0], "BLUE": [0, 0, 128], "YELLOW": [255, 255, 0]}
 images = []
+filenames = []
 
 for file in os.listdir(IMAGE_DIRECTORY):
     if not file.startswith("."):
-        images.append(get_image(os.path.join(IMAGE_DIRECTORY, file)))
-        # print("~ FILE: " + file)
+        images.append(get_image(file, os.path.join(IMAGE_DIRECTORY, file)))
+        filenames.append(file)
 
 # A method to filter all images that match the selected color.
 # First extract the image colors using our previously defined method get_colors in RGB format.
@@ -28,9 +29,9 @@ for file in os.listdir(IMAGE_DIRECTORY):
 # selected color with the colors in the image.
 
 
-def match_image_by_color(image, color, threshold=60, number_of_colors=10):
+def match_image_by_color(filename, image, color, threshold=60, number_of_colors=10):
 
-    image_colors = get_colors(image, number_of_colors, False)
+    image_colors = get_colors(filename, image, number_of_colors, False)
     selected_color = rgb2lab(np.uint8(np.asarray([[color]])))
 
     select_image = False
@@ -45,11 +46,13 @@ def match_image_by_color(image, color, threshold=60, number_of_colors=10):
 
 # A function that iterates over all images, calls the above function to filter them
 # based on color and displays them on the screen using imshow.
-def show_selected_images(images, color, threshold, colors_to_match):
+def show_selected_images(filenames, images, color, threshold, colors_to_match):
     index = 1
 
     for i in range(len(images)):
-        selected = match_image_by_color(images[i], color, threshold, colors_to_match)
+        selected = match_image_by_color(
+            filenames[i], images[i], color, threshold, colors_to_match
+        )
         if selected:
             plt.subplot(1, 5, index)
             plt.imshow(images[i])
@@ -60,4 +63,4 @@ def show_selected_images(images, color, threshold, colors_to_match):
 # Filter the results. Variable 'selected_color' can be any of COLORS['GREEN'], COLORS['BLUE'] or COLORS['YELLOW'].
 # We set the threshold value to be 60 and total colors to be extracted from image to be 8.
 plt.figure(figsize=(20, 10))
-show_selected_images(images, COLORS["GREEN"], 40, 8)
+show_selected_images(filenames, images, COLORS["YELLOW"], 40, 4)

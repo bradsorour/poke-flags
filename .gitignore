@@ -7,4 +7,5 @@ __pycache__/
 /resources/pokemon_names_bak.txt
 /resources/countries.txt
 /resources/flag_links.txt
+/resources/flag_colours.txt
 /resources/images/.DS_Store
