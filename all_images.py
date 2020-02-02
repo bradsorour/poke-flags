@@ -11,7 +11,7 @@ images = []
 
 for file in os.listdir(IMAGE_DIRECTORY):
     if not file.startswith("."):
-        print('==>> ' + file)
+        print("==>> " + file)
         images.append(get_image(os.path.join(IMAGE_DIRECTORY, file)))
 
 

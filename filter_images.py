@@ -8,12 +8,7 @@ from read_image import get_colors, get_image
 
 # Supply the RGB values for the colors Green, Blue and Yellow and let our system filter the images.
 IMAGE_DIRECTORY = "./resources/images/"
-COLORS = {
-    "GREEN": [0, 128, 0],
-    "BLUE": [0, 0, 128],
-    "YELLOW": [255, 255, 0],
-    "RED": [255, 0, 0],
-}
+COLORS = {"GREEN": [0, 128, 0], "BLUE": [0, 0, 128], "YELLOW": [255, 255, 0]}
 images = []
 
 for file in os.listdir(IMAGE_DIRECTORY):
@@ -53,8 +48,7 @@ def show_selected_images(images, color, threshold, colors_to_match):
     index = 1
 
     for i in range(len(images)):
-        selected = match_image_by_color(
-            images[i], color, threshold, colors_to_match)
+        selected = match_image_by_color(images[i], color, threshold, colors_to_match)
         if selected:
             plt.subplot(1, 5, index)
             plt.imshow(images[i])
@@ -65,4 +59,4 @@ def show_selected_images(images, color, threshold, colors_to_match):
 # Filter the results. Variable 'selected_color' can be any of COLORS['GREEN'], COLORS['BLUE'] or COLORS['YELLOW'].
 # We set the threshold value to be 60 and total colors to be extracted from image to be 8.
 plt.figure(figsize=(20, 10))
-show_selected_images(images, COLORS["GREEN"], 60, 8)
+show_selected_images(images, COLORS["BLUE"], 60, 8)

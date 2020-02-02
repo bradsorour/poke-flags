@@ -42,8 +42,9 @@ def extract_country_names(in_file, out_file):
     fout = open(out_file, "wt")
 
     for line in fin:
-        line = line.replace("flags/", "")
-        fout.write(line.replace(".html", ""))
+        # line = line.replace("flags/", "")
+        # fout.write(line.replace(".html", ""))
+        fout.write(line.replace("flags/", ""))
 
     fin.close()
     fout.close()

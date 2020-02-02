@@ -104,35 +104,21 @@ def load_image_file(filepath, uri):
     string_uri = uri
 
     for image_name in image_file:
-        image_name = image_name.strip('\n')
+        image_name = image_name.strip("\n")
         image_names.append(string_uri + image_name)
 
     image_file.close()
 
 
-# load_image_file("./resources/pokemon_names.txt", "https://pokemondb.net/pokedex/")
+load_image_file("./resources/pokemon_names.txt", "https://pokemondb.net/pokedex/")
 
-# for image_name in image_names:
-#     main(image_name, "./resources/images/pokemon")
-
-# load_image_file("./resources/pokemon_names.txt", "https://pokemondb.net/pokedex/")
+for image_name in image_names:
+    main(image_name, "./resources/images/pokemon")
 
 
-# for image_name in image_names:
-main("http://www.sciencekids.co.nz/pictures/flags.html", "./resources/images/flags")
+load_image_file(
+    "./resources/country_names.txt", "http://www.sciencekids.co.nz/pictures/flags/"
+)
 
-
-# http://www.sciencekids.co.nz/pictures/flags.html
-
-# pokemon_file = open("./resources/pokemon_names.txt", "r")
-# string_uri = "https://pokemondb.net/pokedex/"
-# pokemon_names = []
-
-# for pokemon_name in pokemon_file:
-#     pokemon_name = pokemon_name.strip('\n')
-#     pokemon_names.append(string_uri + pokemon_name)
-
-# pokemon_file.close()
-
-# for pokemon_name in pokemon_names:
-#     main(pokemon_name, "./resources/images/pokemon")
+for image_name in image_names:
+    main(image_name, "./resources/images/flags")

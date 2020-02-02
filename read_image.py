@@ -8,7 +8,7 @@ from skimage.color import deltaE_cie76, rgb2lab
 from sklearn.cluster import KMeans
 
 IMAGE_DIRECTORY = "./resources/images/"
-IMAGE_FILE = "Antigua_and_Barbuda.jpg"
+IMAGE_FILE = "sample_image.jpg"
 image = cv2.imread(IMAGE_DIRECTORY + IMAGE_FILE)
 print("The type of this input is {}".format(type(image)))
 print("Shape: {}".format(image.shape))
@@ -51,7 +51,7 @@ def get_image(image_path):
     image = cv2.imread(image_path)
 
     if np.shape(image) == ():
-        print('FAIL')
+        print("FAIL")
 
     image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
     return image
@@ -62,10 +62,10 @@ def get_colors(image, number_of_colors, show_chart):
     # Resize the image to the size 600 x 400. It is not required to resize it to a smaller size but
     # we do so to lessen the pixels which’ll reduce the time needed to extract the colors from the image.
     # KMeans expects the input to be of two dimensions, so we use Numpy’s reshape function to reshape the image data.
-    modified_image = cv2.resize(
-        image, (600, 400), interpolation=cv2.INTER_AREA)
+    modified_image = cv2.resize(image, (600, 400), interpolation=cv2.INTER_AREA)
     modified_image = modified_image.reshape(
-        modified_image.shape[0] * modified_image.shape[1], 3)
+        modified_image.shape[0] * modified_image.shape[1], 3
+    )
     # plt.imshow(modified_image)
     # plt.show()
 
