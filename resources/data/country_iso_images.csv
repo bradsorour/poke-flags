@@ -1,3 +1,4 @@
+﻿AF,Afghanistan,Afghanistan.jpg
 AL,Albania,Albania.jpg
 DZ,Algeria,Algeria.jpg
 AS,American Samoa,American Samoa.jpg
@@ -5,14 +6,14 @@ AD,Andorra,Andorra.jpg
 AO,Angola,Angola.jpg
 AI,Anguilla,Anguilla.jpg
 AQ,Antarctica,Antarctica.jpg
-AG,Antigua and Barbuda,Antigua and Barbuda.jpg
+AG,Antigua and Barbuda,Antigua_and_Barbuda.jpg
 AR,Argentina,Argentina.jpg
 AM,Armenia,Armenia.jpg
 AW,Aruba,Aruba.jpg
 AU,Australia,Australia.jpg
 AT,Austria,Austria.jpg
 AZ,Azerbaijan,Azerbaijan.jpg
-BS,Bahamas (the),Bahamas (the).jpg
+BS,Bahamas (the),Bahamas.jpg
 BH,Bahrain,Bahrain.jpg
 BD,Bangladesh,Bangladesh.jpg
 BB,Barbados,Barbados.jpg
@@ -22,48 +23,48 @@ BZ,Belize,Belize.jpg
 BJ,Benin,Benin.jpg
 BM,Bermuda,Bermuda.jpg
 BT,Bhutan,Bhutan.jpg
-BO,Bolivia (Plurinational State of),Bolivia (Plurinational State of).jpg
+BO,Bolivia (Plurinational State of),Bolivia.jpg
 BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba.jpg"
-BA,Bosnia and Herzegovina,Bosnia and Herzegovina.jpg
+BA,Bosnia and Herzegovina,Bosnia_and_Herzegovina.jpg
 BW,Botswana,Botswana.jpg
 BV,Bouvet Island,Bouvet Island.jpg
 BR,Brazil,Brazil.jpg
 IO,British Indian Ocean Territory (the),British Indian Ocean Territory (the).jpg
 BN,Brunei Darussalam,Brunei Darussalam.jpg
 BG,Bulgaria,Bulgaria.jpg
-BF,Burkina Faso,Burkina Faso.jpg
+BF,Burkina Faso,Burkina_Faso.jpg
 BI,Burundi,Burundi.jpg
-CV,Cabo Verde,Cabo Verde.jpg
+CV,Cabo Verde,Cape_Verde.jpg
 KH,Cambodia,Cambodia.jpg
 CM,Cameroon,Cameroon.jpg
 CA,Canada,Canada.jpg
-KY,Cayman Islands (the),Cayman Islands (the).jpg
-CF,Central African Republic (the),Central African Republic (the).jpg
+KY,Cayman Islands (the),Cayman_Islands.jpg
+CF,Central African Republic (the),Central_African_Republic.jpg
 TD,Chad,Chad.jpg
 CL,Chile,Chile.jpg
 CN,China,China.jpg
 CX,Christmas Island,Christmas Island.jpg
 CC,Cocos (Keeling) Islands (the),Cocos (Keeling) Islands (the).jpg
 CO,Colombia,Colombia.jpg
-KM,Comoros (the),Comoros (the).jpg
-CD,Congo (the Democratic Republic of the),Congo (the Democratic Republic of the).jpg
-CG,Congo (the),Congo (the).jpg
-CK,Cook Islands (the),Cook Islands (the).jpg
-CR,Costa Rica,Costa Rica.jpg
+KM,Comoros (the),Comoros.jpg
+CD,Congo (the Democratic Republic of the),Democratic_Republic_of_the_Congo.jpg
+CG,Congo (the),Congo.jpg
+CK,Cook Islands (the),Cook_Islands.jpg
+CR,Costa Rica,Costa_Rica.jpg
 HR,Croatia,Croatia.jpg
 CU,Cuba,Cuba.jpg
 CW,Curaçao,Curaçao.jpg
 CY,Cyprus,Cyprus.jpg
-CZ,Czechia,Czechia.jpg
-CI,Côte d'Ivoire,Côte d'Ivoire.jpg
+CZ,Czechia,Czech_Republic.jpg
+CI,Côte d'Ivoire,Ivorycoast.jpg
 DK,Denmark,Denmark.jpg
 DJ,Djibouti,Djibouti.jpg
 DM,Dominica,Dominica.jpg
-DO,Dominican Republic (the),Dominican Republic (the).jpg
+DO,Dominican Republic (the),Dominican_Republic.jpg
 EC,Ecuador,Ecuador.jpg
 EG,Egypt,Egypt.jpg
-SV,El Salvador,El Salvador.jpg
-GQ,Equatorial Guinea,Equatorial Guinea.jpg
+SV,El Salvador,El_Salvador.jpg
+GQ,Equatorial Guinea,Equatorial_Guinea.jpg
 ER,Eritrea,Eritrea.jpg
 EE,Estonia,Estonia.jpg
 SZ,Eswatini,Eswatini.jpg
@@ -77,7 +78,7 @@ GF,French Guiana,French Guiana.jpg
 PF,French Polynesia,French Polynesia.jpg
 TF,French Southern Territories (the),French Southern Territories (the).jpg
 GA,Gabon,Gabon.jpg
-GM,Gambia (the),Gambia (the).jpg
+GM,Gambia (the),Gambia.jpg
 GE,Georgia,Georgia.jpg
 DE,Germany,Germany.jpg
 GH,Ghana,Ghana.jpg
@@ -96,12 +97,12 @@ HT,Haiti,Haiti.jpg
 HM,Heard Island and McDonald Islands,Heard Island and McDonald Islands.jpg
 VA,Holy See (the),Holy See (the).jpg
 HN,Honduras,Honduras.jpg
-HK,Hong Kong,Hong Kong.jpg
+HK,Hong Kong,Hong_Kong.jpg
 HU,Hungary,Hungary.jpg
 IS,Iceland,Iceland.jpg
 IN,India,India.jpg
 ID,Indonesia,Indonesia.jpg
-IR,Iran (Islamic Republic of),Iran (Islamic Republic of).jpg
+IR,Iran (Islamic Republic of),Iran.jpg
 IQ,Iraq,Iraq.jpg
 IE,Ireland,Ireland.jpg
 IM,Isle of Man,Isle of Man.jpg
@@ -114,8 +115,8 @@ JO,Jordan,Jordan.jpg
 KZ,Kazakhstan,Kazakhstan.jpg
 KE,Kenya,Kenya.jpg
 KI,Kiribati,Kiribati.jpg
-KP,Korea (the Democratic People's Republic of),Korea (the Democratic People's Republic of).jpg
-KR,Korea (the Republic of),Korea (the Republic of).jpg
+KP,Korea (the Democratic People's Republic of),North_Korea.jpg
+KR,Korea (the Republic of),South_Korea.jpg
 KW,Kuwait,Kuwait.jpg
 KG,Kyrgyzstan,Kyrgyzstan.jpg
 LA,Lao People's Democratic Republic (the),Lao People's Democratic Republic (the).jpg
@@ -141,7 +142,7 @@ MU,Mauritius,Mauritius.jpg
 YT,Mayotte,Mayotte.jpg
 MX,Mexico,Mexico.jpg
 FM,Micronesia (Federated States of),Micronesia (Federated States of).jpg
-MD,Moldova (the Republic of),Moldova (the Republic of).jpg
+MD,Moldova (the Republic of),Moldova.jpg
 MC,Monaco,Monaco.jpg
 MN,Mongolia,Mongolia.jpg
 ME,Montenegro,Montenegro.jpg
@@ -152,11 +153,11 @@ MM,Myanmar,Myanmar.jpg
 NA,Namibia,Namibia.jpg
 NR,Nauru,Nauru.jpg
 NP,Nepal,Nepal.jpg
-NL,Netherlands (the),Netherlands (the).jpg
-NC,New Caledonia,New Caledonia.jpg
-NZ,New Zealand,New Zealand.jpg
+NL,Netherlands (the),Netherlands.jpg
+NC,New Caledonia,New_Caledonia.jpg
+NZ,New Zealand,New_Zealand.jpg
 NI,Nicaragua,Nicaragua.jpg
-NE,Niger (the),Niger (the).jpg
+NE,Niger (the),Niger.jpg
 NG,Nigeria,Nigeria.jpg
 NU,Niue,Niue.jpg
 NF,Norfolk Island,Norfolk Island.jpg
@@ -165,20 +166,20 @@ NO,Norway,Norway.jpg
 OM,Oman,Oman.jpg
 PK,Pakistan,Pakistan.jpg
 PW,Palau,Palau.jpg
-PS,"Palestine, State of","Palestine, State of.jpg"
+PS,"Palestine, State of",Palestine.jpg
 PA,Panama,Panama.jpg
-PG,Papua New Guinea,Papua New Guinea.jpg
+PG,Papua New Guinea,Papua_New_Guinea.jpg
 PY,Paraguay,Paraguay.jpg
 PE,Peru,Peru.jpg
-PH,Philippines (the),Philippines (the).jpg
+PH,Philippines (the),Philippines.jpg
 PN,Pitcairn,Pitcairn.jpg
 PL,Poland,Poland.jpg
 PT,Portugal,Portugal.jpg
-PR,Puerto Rico,Puerto Rico.jpg
+PR,Puerto Rico,Puerto_Rico.jpg
 QA,Qatar,Qatar.jpg
-MK,Republic of North Macedonia,Republic of North Macedonia.jpg
+MK,Republic of North Macedonia,Macedonia.jpg
 RO,Romania,Romania.jpg
-RU,Russian Federation (the),Russian Federation (the).jpg
+RU,Russian Federation (the),Russia.jpg
 RW,Rwanda,Rwanda.jpg
 RE,Réunion,Réunion.jpg
 BL,Saint Barthélemy,Saint Barthélemy.jpg
@@ -187,41 +188,41 @@ KN,Saint Kitts and Nevis,Saint Kitts and Nevis.jpg
 LC,Saint Lucia,Saint Lucia.jpg
 MF,Saint Martin (French part),Saint Martin (French part).jpg
 PM,Saint Pierre and Miquelon,Saint Pierre and Miquelon.jpg
-VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines.jpg
+VC,Saint Vincent and the Grenadines,Saint_Vincent_and_the_Grenadines.jpg
 WS,Samoa,Samoa.jpg
-SM,San Marino,San Marino.jpg
+SM,San Marino,San_Marino.jpg
 ST,Sao Tome and Principe,Sao Tome and Principe.jpg
-SA,Saudi Arabia,Saudi Arabia.jpg
+SA,Saudi Arabia,Saudi_Arabia.jpg
 SN,Senegal,Senegal.jpg
 RS,Serbia,Serbia.jpg
 SC,Seychelles,Seychelles.jpg
-SL,Sierra Leone,Sierra Leone.jpg
+SL,Sierra Leone,Sierra_Leone.jpg
 SG,Singapore,Singapore.jpg
 SX,Sint Maarten (Dutch part),Sint Maarten (Dutch part).jpg
 SK,Slovakia,Slovakia.jpg
 SI,Slovenia,Slovenia.jpg
-SB,Solomon Islands,Solomon Islands.jpg
+SB,Solomon Islands,Solomon_Islands.jpg
 SO,Somalia,Somalia.jpg
-ZA,South Africa,South Africa.jpg
+ZA,South Africa,South_Africa.jpg
 GS,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands.jpg
 SS,South Sudan,South Sudan.jpg
 ES,Spain,Spain.jpg
-LK,Sri Lanka,Sri Lanka.jpg
-SD,Sudan (the),Sudan (the).jpg
+LK,Sri Lanka,Sri_Lanka.jpg
+SD,Sudan (the),Sudan.jpg
 SR,Suriname,Suriname.jpg
 SJ,Svalbard and Jan Mayen,Svalbard and Jan Mayen.jpg
 SE,Sweden,Sweden.jpg
 CH,Switzerland,Switzerland.jpg
-SY,Syrian Arab Republic,Syrian Arab Republic.jpg
-TW,Taiwan (Province of China),Taiwan (Province of China).jpg
+SY,Syrian Arab Republic,Syria.jpg
+TW,Taiwan (Province of China),Taiwan.jpg
 TJ,Tajikistan,Tajikistan.jpg
-TZ,"Tanzania, United Republic of","Tanzania, United Republic of.jpg"
+TZ,"Tanzania, United Republic of",Tanzania.jpg
 TH,Thailand,Thailand.jpg
 TL,Timor-Leste,Timor-Leste.jpg
 TG,Togo,Togo.jpg
 TK,Tokelau,Tokelau.jpg
 TO,Tonga,Tonga.jpg
-TT,Trinidad and Tobago,Trinidad and Tobago.jpg
+TT,Trinidad and Tobago,Trinidad_and_Tobago.jpg
 TN,Tunisia,Tunisia.jpg
 TR,Turkey,Turkey.jpg
 TM,Turkmenistan,Turkmenistan.jpg
@@ -229,15 +230,15 @@ TC,Turks and Caicos Islands (the),Turks and Caicos Islands (the).jpg
 TV,Tuvalu,Tuvalu.jpg
 UG,Uganda,Uganda.jpg
 UA,Ukraine,Ukraine.jpg
-AE,United Arab Emirates (the),United Arab Emirates (the).jpg
-GB,United Kingdom of Great Britain and Northern Ireland (the),United Kingdom of Great Britain and Northern Ireland (the).jpg
+AE,United Arab Emirates (the),United_Arab_Emirates.jpg
+GB,United Kingdom of Great Britain and Northern Ireland (the),United_Kingdom.jpg
 UM,United States Minor Outlying Islands (the),United States Minor Outlying Islands (the).jpg
-US,United States of America (the),United States of America (the).jpg
+US,United States of America (the),United_States.jpg
 UY,Uruguay,Uruguay.jpg
 UZ,Uzbekistan,Uzbekistan.jpg
 VU,Vanuatu,Vanuatu.jpg
-VE,Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of).jpg
-VN,Viet Nam,Viet Nam.jpg
+VE,Venezuela (Bolivarian Republic of),Venezuela.jpg
+VN,Viet Nam,Vietnam.jpg
 VG,Virgin Islands (British),Virgin Islands (British).jpg
 VI,Virgin Islands (U.S.),Virgin Islands (U.S.).jpg
 WF,Wallis and Futuna,Wallis and Futuna.jpg
