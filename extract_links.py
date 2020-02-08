@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 
 url = "http://www.sciencekids.co.nz/pictures/flags.html"
 colours = ["green", "blue", "yellow", "red", "white", "black"]
+images = ["pokemon", "flags"]
 count = 0
 
 
@@ -56,28 +57,26 @@ def extract_country_names(in_file, out_file):
     fout = open(out_file, "wt")
 
     for line in fin:
-        # line = line.replace("flags/", "")
-        # fout.write(line.replace(".html", ""))
         fout.write(line.replace("flags/", ""))
 
     fin.close()
     fout.close()
 
 
-def remove_duplicates_from_all_colour_files(image_type):
+def remove_duplicates_from_all_colour_files():
 
-    for colour in colours:
+    for image_type in images:
+        for colour in colours:
 
-        in_file = "./resources/data/" + image_type + "_" + colour + ".txt"
-        out_file = "./resources/data/" + image_type + "_" + colour + "_set.txt"
+            in_file = "./resources/data/" + image_type + "_" + colour + ".txt"
+            out_file = "./resources/data/" + image_type + "_" + colour + "_set.txt"
 
-        remove_duplicate_lines(
-            in_file, out_file, False,
-        )
+            remove_duplicate_lines(
+                in_file, out_file, False,
+            )
 
 
-remove_duplicates_from_all_colour_files("pokemon")
-
+remove_duplicates_from_all_colour_files()
 
 # extract_links("./resources/data/countries.txt")
 # remove_duplicate_lines("./resources/data/countries.txt", "./resources/data/flag_links.txt")
