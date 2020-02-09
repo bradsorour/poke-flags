@@ -8,9 +8,9 @@ from read_image import get_colors, get_image
 
 # Supply the RGB values for the colors Green, Blue and Yellow and let our system filter the images.
 # IMAGE_DIRECTORY = "./resources/pokemon/png/"
-IMAGE_DIRECTORY = "./resources/pokemon_all/"
+# IMAGE_DIRECTORY = "./resources/pokemon_all/"
 # IMAGE_DIRECTORY = "./resources/pokemon/no_colours/"
-# IMAGE_DIRECTORY = "./resources/flags_all/"
+IMAGE_DIRECTORY = "./resources/flags_all/"
 POKEMON_PLOTS = 910
 FLAG_PLOTS = 205
 
@@ -109,10 +109,10 @@ plt.figure(figsize=(20, 10))
 # fout.close
 
 # 40, 2 Done
-# fout = open("./resources/data/flags_red.txt", "w")
-# print("** COLOUR RED")
-# show_selected_images(filenames, images, COLORS_FLAGS["RED"], 40, 2)
-# fout.close
+fout = open("./resources/data/flags_red.txt", "w")
+print("** COLOUR RED")
+show_selected_images(filenames, images, COLORS_FLAGS["RED"], 45, 8)
+fout.close
 
 # 40, 2 Done
 # fout = open("./resources/data/flags_white.txt", "w")
@@ -127,10 +127,10 @@ plt.figure(figsize=(20, 10))
 # fout.close
 
 # 60, 10
-fout = open("./resources/data/pokemon_yellow.txt", "w")
-print("** COLOUR YELLOW")
-show_selected_images(filenames, images, COLORS_POKEMON["YELLOW"], 80, 10)
-fout.close
+# fout = open("./resources/data/pokemon_yellow.txt", "w")
+# print("** COLOUR YELLOW")
+# show_selected_images(filenames, images, COLORS_POKEMON["YELLOW"], 65, 8)
+# fout.close
 
 # fout = open("./resources/data/pokemon_green.txt", "w")
 # print("** COLOUR GREEN")

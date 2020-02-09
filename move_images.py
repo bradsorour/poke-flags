@@ -21,7 +21,6 @@ def copy_images_to_colour_folder(in_file, colour, image):
         fin = open("./resources/data/no_colours.txt", "rt")
 
     for line in fin:
-
         image_file = "./resources/" + image + "_all/" + line.strip("\n")
 
         if not os.path.exists(image_file):

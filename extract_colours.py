@@ -1,6 +1,11 @@
 import os
 
+from shutil import copyfile, rmtree
+
+from subprocess import call
+
 RESOURCES_ROOT = "./resources/"
+COPY_DIR = "flag_pokemons/"
 colours = ["green", "blue", "yellow", "red", "white", "black"]
 images = ["pokemon", "flags"]
 colour_dict_flags = {}
@@ -61,7 +66,7 @@ def get_images_that_have_no_colours():
     fout.close
 
 
-def get_pokemons_for_flag():
+def get_pokemons_for_all_flags():
     for flag_key in flag_dict:
         print(flag_key + " " + str(flag_dict.get(flag_key)))
 
@@ -70,8 +75,37 @@ def get_pokemons_for_flag():
                 print("- " + pokemon_key)
 
 
-get_pokemons_for_flag()
+def get_pokemons_for_flag(country_flag, copy_to_dir):
 
-print("\n============================\n")
+    print(country_flag + " colours: " + str(flag_dict.get(country_flag)))
+    print("Matching Pokemons: ")
 
-get_images_that_have_no_colours()
+    if copy_to_dir:
+
+        if os.path.exists(RESOURCES_ROOT + COPY_DIR):
+            rmtree(RESOURCES_ROOT + COPY_DIR)
+
+        if not os.path.exists(RESOURCES_ROOT + COPY_DIR):
+            os.makedirs(RESOURCES_ROOT + COPY_DIR)
+
+    for pokemon_key in pokemon_dict:
+        if flag_dict.get(country_flag) == pokemon_dict.get(pokemon_key):
+            print("- " + pokemon_key)
+
+            if copy_to_dir:
+                flag_image = "./resources/flags_all/" + country_flag
+                copyfile(flag_image, RESOURCES_ROOT + COPY_DIR + country_flag)
+                pokemon_image = "./resources/pokemon_all/" + str(pokemon_key)
+                copyfile(pokemon_image, RESOURCES_ROOT + COPY_DIR + str(pokemon_key))
+
+    print("Matching pokemons copied to " + RESOURCES_ROOT + COPY_DIR)
+
+    targetDirectory = RESOURCES_ROOT + COPY_DIR
+    call(["open", targetDirectory])
+
+
+# get_pokemons_for_all_flags()
+
+# get_images_that_have_no_colours()
+
+# get_pokemons_for_flag("Vanuatu.jpg")

@@ -1,0 +1,19 @@
+In a terminal (from pokeflags directory) run the command:
+
+	$ python ./country_iso.py
+
+
+================================================================
+
+
+1. FIND IMAGES THAT MATCH THE COLOUR
+
+	Run 'filter_images.py' (set threshold and no. colours to be extracted)
+
+2. REMOVE ANY DUPLICATE ENTRIES IN THE GENERATED COLOUR FILE
+
+	Run 'extract_links.py'
+
+3. MOVE THE MATCHING IMAGES TO THE RESPECTIVE COLOUR FOLDER
+
+	Run 'move_images.py'
