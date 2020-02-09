@@ -104,6 +104,6 @@ def get_pokemons_for_flag(country_flag, copy_to_dir):
     call(["open", targetDirectory])
 
 
-get_pokemons_for_all_flags()
+# get_pokemons_for_all_flags()
 
-get_images_that_have_no_colours()
+# get_images_that_have_no_colours()
