@@ -1,5 +1,5 @@
 Samoa.jpg
-Gambia.jpg
+Russia.jpg
 Russia.jpg
 Iceland.jpg
 Colombia.jpg
@@ -27,11 +27,13 @@ Kiribati.jpg
 Armenia.jpg
 Guam.jpg
 Australia.jpg
+Australia.jpg
 Nepal.jpg
 Moldova.jpg
 Sweden.jpg
 North_Korea.jpg
 Brazil.jpg
+Greece.jpg
 Greece.jpg
 Andorra.jpg
 Gabon.jpg
@@ -44,7 +46,9 @@ Equatorial_Guinea.jpg
 Malaysia.jpg
 Panama.jpg
 Solomon_Islands.jpg
+Gambia.jpg
 Czech_Republic.jpg
+Qatar.jpg
 Somalia.jpg
 Israel.jpg
 Israel.jpg
@@ -53,6 +57,7 @@ Nicaragua.jpg
 Haiti.jpg
 Tuvalu.jpg
 Mauritius.jpg
+Mongolia.jpg
 Mongolia.jpg
 Paraguay.jpg
 Serbia.jpg
@@ -81,6 +86,8 @@ Uruguay.jpg
 Finland.jpg
 United_States.jpg
 Chile.jpg
+Chile.jpg
+Slovenia.jpg
 Slovenia.jpg
 Slovakia.jpg
 Nauru.jpg

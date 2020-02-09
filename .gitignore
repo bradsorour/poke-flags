@@ -9,4 +9,5 @@ __pycache__/
 /resources/countries.txt
 /resources/flag_links.txt
 /resources/flag_colours.txt
+/resources/flag_pokemons
 /resources/images/.DS_Store

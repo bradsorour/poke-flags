@@ -58,10 +58,10 @@ def get_images_that_have_no_colours():
 
     fout = open("./resources/data/no_colours.txt", "w")
 
-    print("No colours for images:\n")
+    print("\nNo colours for images:\n")
     for image in missing_colours:
         fout.write(image + "\n")
-        print("- " + image)
+        print("==> " + image)
 
     fout.close
 
@@ -104,8 +104,6 @@ def get_pokemons_for_flag(country_flag, copy_to_dir):
     call(["open", targetDirectory])
 
 
-# get_pokemons_for_all_flags()
+get_pokemons_for_all_flags()
 
-# get_images_that_have_no_colours()
-
-# get_pokemons_for_flag("Vanuatu.jpg")
+get_images_that_have_no_colours()

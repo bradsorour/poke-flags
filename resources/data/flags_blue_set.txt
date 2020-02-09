@@ -1,5 +1,4 @@
 Samoa.jpg
-Gambia.jpg
 Russia.jpg
 Iceland.jpg
 Colombia.jpg
@@ -40,7 +39,9 @@ Equatorial_Guinea.jpg
 Malaysia.jpg
 Panama.jpg
 Solomon_Islands.jpg
+Gambia.jpg
 Czech_Republic.jpg
+Qatar.jpg
 Somalia.jpg
 Israel.jpg
 South_Africa.jpg

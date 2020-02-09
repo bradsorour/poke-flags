@@ -27,6 +27,7 @@ def copy_images_to_colour_folder(in_file, colour, image):
             print("Source file does not exist: {}".format(image_file))
             continue
         else:
+
             copyfile(
                 image_file,
                 RESOURCES_ROOT + image + "/" + colour + "/" + line.strip("\n"),
@@ -43,4 +44,9 @@ for colour in colours:
         copy_images_to_colour_folder(
             RESOURCES_ROOT + "data/" + image + "_" + colour + "_set.txt", colour, image
         )
+
+
+copy_images_to_colour_folder(
+    RESOURCES_ROOT + "data/pokemon_white_set.txt", "white", "pokemon"
+)
 

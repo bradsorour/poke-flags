@@ -8,9 +8,9 @@ from read_image import get_colors, get_image
 
 # Supply the RGB values for the colors Green, Blue and Yellow and let our system filter the images.
 # IMAGE_DIRECTORY = "./resources/pokemon/png/"
-# IMAGE_DIRECTORY = "./resources/pokemon_all/"
+IMAGE_DIRECTORY = "./resources/pokemon_all/"
 # IMAGE_DIRECTORY = "./resources/pokemon/no_colours/"
-IMAGE_DIRECTORY = "./resources/flags_all/"
+# IMAGE_DIRECTORY = "./resources/flags_all/"
 POKEMON_PLOTS = 910
 FLAG_PLOTS = 205
 
@@ -105,19 +105,19 @@ plt.figure(figsize=(20, 10))
 # 64, 4 Done
 # fout = open("./resources/data/flags_blue.txt", "w")
 # print("** COLOUR BLUE")
-# show_selected_images(filenames, images, COLORS_FLAGS["BLUE"], 65, 4)
+# show_selected_images(filenames, images, COLORS_FLAGS["BLUE"], 68, 4)
 # fout.close
 
-# 40, 2 Done
-fout = open("./resources/data/flags_red.txt", "w")
-print("** COLOUR RED")
-show_selected_images(filenames, images, COLORS_FLAGS["RED"], 45, 8)
-fout.close
+# 45, 8 Done
+# fout = open("./resources/data/flags_red.txt", "w")
+# print("** COLOUR RED")
+# show_selected_images(filenames, images, COLORS_FLAGS["RED"], 45, 8)
+# fout.close
 
-# 40, 2 Done
+# 43, 2 Done
 # fout = open("./resources/data/flags_white.txt", "w")
 # print("** COLOUR WHITE")
-# show_selected_images(filenames, images, COLORS_FLAGS["WHITE"], 40, 2)
+# show_selected_images(filenames, images, COLORS_FLAGS["WHITE"], 43, 2)
 # fout.close
 
 # 35, 3 Done
@@ -137,16 +137,16 @@ fout.close
 # show_selected_images(filenames, images, COLORS_POKEMON["GREEN"], 57, 7)
 # fout.close
 
-# 70,7
+# 55, 8 Done
 # fout = open("./resources/data/pokemon_blue.txt", "w")
 # print("** COLOUR BLUE")
-# show_selected_images(filenames, images, COLORS_POKEMON["BLUE"], 53, 7)
+# show_selected_images(filenames, images, COLORS_POKEMON["BLUE"], 55, 8)
 # fout.close
 
-# fout = open("./resources/data/pokemon_red.txt", "w")
-# print("** COLOUR RED")
-# show_selected_images(filenames, images, COLORS_POKEMON["RED"], 45, 7)
-# fout.close
+fout = open("./resources/data/pokemon_red.txt", "w")
+print("** COLOUR RED")
+show_selected_images(filenames, images, COLORS_POKEMON["RED"], 43, 8)
+fout.close
 
 # # 20, 2
 # fout = open("./resources/data/pokemon_black.txt", "w")
@@ -161,6 +161,6 @@ fout.close
 
 # 80, 10 Done
 # fout = open("./resources/data/no_colours.txt", "w")
-# print("** COLOUR YELLOW")
-# show_selected_images(filenames, images, COLORS_POKEMON["YELLOW"], 80, 10)
+# print("** COLOUR RED")
+# show_selected_images(filenames, images, COLORS_POKEMON["RED"], 43, 8)
 # fout.close

@@ -1,13 +1,11 @@
 Kenya.jpg
 Hong_Kong.jpg
-Gambia.jpg
 Russia.jpg
 Guatemala.jpg
 Argentina.jpg
 Poland.jpg
 Hungary.jpg
 Liberia.jpg
-South_Africa.jpg
 Iran.jpg
 Saudi_Arabia.jpg
 South_Korea.jpg
@@ -16,6 +14,7 @@ Lesotho.jpg
 Djibouti.jpg
 Tunisia.jpg
 Cape_Verde.jpg
+South_Africa.jpg
 Estonia.jpg
 Tajikistan.jpg
 Cuba.jpg
@@ -49,8 +48,10 @@ Nigeria.jpg
 Canada.jpg
 Ivorycoast.jpg
 Yemen.jpg
+Gambia.jpg
 United_Arab_Emirates.jpg
 Bulgaria.jpg
+Saint_Lucia.jpg
 Czech_Republic.jpg
 Pakistan.jpg
 Qatar.jpg

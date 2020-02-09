@@ -21,7 +21,6 @@ def extract_country_iso_code(in_file, out_file):
                 iso_dict[row[0]] = row[1]
                 row.append(row[1] + ".jpg")
                 all.append(row)
-                print(row[0] + " | " + row[1])
 
             writer.writerows(all)
 
@@ -36,8 +35,11 @@ def get_all_country_images_from_iso_codes(in_file):
             image_file = "./resources/flags_all/" + image_filename
             image_dict[row[0]] = image_filename
 
-            # if not os.path.exists(image_file):
-            #     print(image_filename + " (** missing)")
+            if not os.path.exists(image_file):
+                continue
+
+            else:
+                print(row[0] + " | " + row[1])
 
 
 extract_country_iso_code(
@@ -48,7 +50,7 @@ get_all_country_images_from_iso_codes(
     "./resources/data/country_iso_images_formatted.csv"
 )
 
-iso_code_input = input("\nEnter country ISO code: ")
+iso_code_input = input("\nEnter country ISO code: ").upper()
 print(
     "You entered "
     + iso_code_input

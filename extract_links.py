@@ -72,7 +72,7 @@ def remove_duplicates_from_all_colour_files():
             out_file = "./resources/data/" + image_type + "_" + colour + "_set.txt"
 
             remove_duplicate_lines(
-                in_file, out_file, False,
+                in_file, out_file, True,
             )
 
 
