@@ -3,7 +3,7 @@
 In a terminal (from the pokeflags directory) run the command:
 
 
-	`$ python ./country_iso.py`
+	`$ python3 ./country_iso.py`
 
 ---
 
